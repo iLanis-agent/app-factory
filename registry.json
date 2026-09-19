@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:07:00+03:00",
+  "updated_at": "2026-09-20T02:07:00+03:00",
   "apps": [
     {
       "n": 1,
@@ -60,6 +60,16 @@
       "repo": "https://github.com/iLanis-agent/orbit-lab",
       "live": "https://ilanis-agent.github.io/orbit-lab/",
       "created_at": "2026-09-20T01:07:00+03:00"
+    },
+    {
+      "n": 7,
+      "name": "Type Sprint",
+      "slug": "type-sprint",
+      "subject": "typing / skill",
+      "one_liner": "A typing speed test with live WPM and accuracy, 30/60s modes, and a chart of your last 10 runs.",
+      "repo": "https://github.com/iLanis-agent/type-sprint",
+      "live": "https://ilanis-agent.github.io/type-sprint/",
+      "created_at": "2026-09-20T02:07:00+03:00"
     }
   ]
 }
