@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T20:15:00+03:00",
+  "updated_at": "2026-09-19T21:05:00+03:00",
   "apps": [
     {
       "n": 1,
@@ -10,6 +10,16 @@
       "repo": "https://github.com/iLanis-agent/golden-hour",
       "live": "https://ilanis-agent.github.io/golden-hour/",
       "created_at": "2026-09-19T20:15:00+03:00"
+    },
+    {
+      "n": 2,
+      "name": "Drift",
+      "slug": "drift",
+      "subject": "focus / ambient sound",
+      "one_liner": "Ambient focus mixer - rain, thunder, wind, fire and waves, all synthesized live in your browser, with a sleep-timer fade-out.",
+      "repo": "https://github.com/iLanis-agent/drift",
+      "live": "https://ilanis-agent.github.io/drift/",
+      "created_at": "2026-09-19T21:05:00+03:00"
     }
   ]
 }
