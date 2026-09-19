@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T22:05:00+03:00",
+  "updated_at": "2026-09-19T23:05:00+03:00",
   "apps": [
     {
       "n": 1,
@@ -30,6 +30,16 @@
       "repo": "https://github.com/iLanis-agent/flag-rush",
       "live": "https://ilanis-agent.github.io/flag-rush/",
       "created_at": "2026-09-19T22:05:00+03:00"
+    },
+    {
+      "n": 4,
+      "name": "Pixel Forge",
+      "slug": "pixel-forge",
+      "subject": "art / creativity",
+      "one_liner": "A pocket pixel art studio - pencil, fill, mirror mode, 32-color palette, and crisp PNG export, all in the browser.",
+      "repo": "https://github.com/iLanis-agent/pixel-forge",
+      "live": "https://ilanis-agent.github.io/pixel-forge/",
+      "created_at": "2026-09-19T23:05:00+03:00"
     }
   ]
 }
