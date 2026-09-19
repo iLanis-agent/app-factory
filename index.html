@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>iLanis App Factory - one new app every hour</title>
+<meta name="description" content="The iLanis App Factory ships one new app in a random subject every hour. This is the live catalog.">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; background:#0b0e1a; color:#eef1ff; min-height:100vh; }
+  header { text-align:center; padding:70px 20px 40px;
+    background:radial-gradient(ellipse 70% 60% at 50% -10%, #4a5cff30 0%, transparent 60%); }
+  h1 { font-size:clamp(32px,6vw,56px); font-weight:800;
+    background:linear-gradient(120deg,#8ab4ff,#c58aff 50%,#ff8ab4); -webkit-background-clip:text; background-clip:text; color:transparent; }
+  .sub { color:#aab3d6; margin-top:14px; font-size:16px; }
+  #count { display:inline-block; margin-top:22px; font-size:13px; letter-spacing:1.5px; text-transform:uppercase; color:#9d8aff; border:1px solid #3a2f66; border-radius:999px; padding:6px 16px; }
+  main { max-width:860px; margin:0 auto; padding:10px 20px 80px; }
+  #apps { display:flex; flex-direction:column; gap:14px; }
+  .app { display:flex; justify-content:space-between; align-items:center; gap:16px; background:#12162a; border:1px solid #232a45; border-radius:14px; padding:20px 22px; }
+  .app .n { font-size:13px; color:#5a638a; font-variant-numeric:tabular-nums; }
+  .app h2 { font-size:19px; margin:2px 0 4px; }
+  .app .subj { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#9d8aff; }
+  .app p { font-size:14px; color:#8a94bd; margin-top:4px; line-height:1.45; }
+  .app .links { display:flex; flex-direction:column; gap:8px; flex-shrink:0; }
+  .app a { text-decoration:none; font-size:13px; font-weight:600; padding:8px 16px; border-radius:9px; text-align:center; }
+  .app a.live { background:linear-gradient(135deg,#4a5cff,#8a3dff); color:#fff; }
+  .app a.repo { border:1px solid #2c3554; color:#aab3d6; }
+  footer { text-align:center; color:#5a638a; font-size:13px; padding:26px; border-top:1px solid #1a2038; }
+</style>
+</head>
+<body>
+<header>
+  <h1>iLanis App Factory</h1>
+  <p class="sub">One cool idea. One random subject. One working app. Every hour.</p>
+  <span id="count">loading...</span>
+</header>
+<main><div id="apps"></div></main>
+<footer>Every app is open source under <a href="https://github.com/iLanis-agent" style="color:#8a94bd">github.com/iLanis-agent</a>.</footer>
+<script>
+fetch('registry.json?v='+Date.now()).then(function(r){return r.json();}).then(function(reg){
+  var apps=(reg.apps||[]).slice().sort(function(a,b){return b.n-a.n;});
+  document.getElementById('count').textContent=apps.length+' app'+(apps.length===1?'':'s')+' shipped';
+  document.getElementById('apps').innerHTML=apps.map(function(a){
+    return '<div class="app"><div><div class="n">#'+a.n+' &middot; '+new Date(a.created_at).toLocaleDateString([], {month:'short',day:'numeric'})+'</div>'+
+    '<h2>'+a.name+'</h2><div class="subj">'+a.subject+'</div><p>'+a.one_liner+'</p></div>'+
+    '<div class="links"><a class="live" href="'+a.live+'">Open app</a><a class="repo" href="'+a.repo+'">Source</a></div></div>';
+  }).join('') || '<p style="color:#8a94bd;text-align:center">First app lands soon.</p>';
+}).catch(function(){document.getElementById('count').textContent='registry unavailable';});
+</script>
+</body>
+</html>
