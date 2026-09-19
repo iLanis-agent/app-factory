@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T00:06:00+03:00",
+  "updated_at": "2026-09-20T01:07:00+03:00",
   "apps": [
     {
       "n": 1,
@@ -50,6 +50,16 @@
       "repo": "https://github.com/iLanis-agent/chord-wheel",
       "live": "https://ilanis-agent.github.io/chord-wheel/",
       "created_at": "2026-09-20T00:06:00+03:00"
+    },
+    {
+      "n": 6,
+      "name": "Orbit Lab",
+      "slug": "orbit-lab",
+      "subject": "physics / space",
+      "one_liner": "A real gravity sandbox - drag to launch a satellite and find the velocity that closes a stable orbit.",
+      "repo": "https://github.com/iLanis-agent/orbit-lab",
+      "live": "https://ilanis-agent.github.io/orbit-lab/",
+      "created_at": "2026-09-20T01:07:00+03:00"
     }
   ]
 }
