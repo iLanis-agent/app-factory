@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T21:05:00+03:00",
+  "updated_at": "2026-09-19T22:05:00+03:00",
   "apps": [
     {
       "n": 1,
@@ -20,6 +20,16 @@
       "repo": "https://github.com/iLanis-agent/drift",
       "live": "https://ilanis-agent.github.io/drift/",
       "created_at": "2026-09-19T21:05:00+03:00"
+    },
+    {
+      "n": 3,
+      "name": "Flag Rush",
+      "slug": "flag-rush",
+      "subject": "geography / trivia",
+      "one_liner": "The 60-second flag quiz - name as many world flags as you can, streaks multiply your score.",
+      "repo": "https://github.com/iLanis-agent/flag-rush",
+      "live": "https://ilanis-agent.github.io/flag-rush/",
+      "created_at": "2026-09-19T22:05:00+03:00"
     }
   ]
 }
