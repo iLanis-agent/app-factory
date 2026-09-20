@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T02:07:00+03:00",
+  "updated_at": "2026-09-20T03:08:00+03:00",
   "apps": [
     {
       "n": 1,
@@ -70,6 +70,16 @@
       "repo": "https://github.com/iLanis-agent/type-sprint",
       "live": "https://ilanis-agent.github.io/type-sprint/",
       "created_at": "2026-09-20T02:07:00+03:00"
+    },
+    {
+      "n": 8,
+      "name": "Neon Snake",
+      "slug": "neon-snake",
+      "subject": "retro games",
+      "one_liner": "The classic snake game with a neon glow - keyboard or swipe, rising speed, saved high score.",
+      "repo": "https://github.com/iLanis-agent/neon-snake",
+      "live": "https://ilanis-agent.github.io/neon-snake/",
+      "created_at": "2026-09-20T03:08:00+03:00"
     }
   ]
 }
