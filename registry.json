@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T15:39:46+03:00",
+ "updated_at": "2026-09-20T16:40:33+03:00",
  "apps": [
   {
    "n": 1,
@@ -190,6 +190,16 @@
    "repo": "https://github.com/iLanis-agent/drip",
    "live": "https://ilanis-agent.github.io/drip/",
    "created_at": "2026-09-20T15:39:46+03:00"
+  },
+  {
+   "n": 20,
+   "name": "Scramble",
+   "slug": "scramble",
+   "subject": "speedcubing / puzzle timers",
+   "one_liner": "Speedcubing timer with WCA-style scrambles, stackmat timing, and live ao5/ao12 session stats.",
+   "repo": "https://github.com/iLanis-agent/scramble",
+   "live": "https://ilanis-agent.github.io/scramble/",
+   "created_at": "2026-09-20T16:40:33+03:00"
   }
  ]
 }
