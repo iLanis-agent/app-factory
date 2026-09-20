@@ -260,6 +260,16 @@
       "repo": "https://github.com/iLanis-agent/reflex",
       "live": "https://ilanis-agent.github.io/reflex/",
       "created_at": "2026-09-20T23:17:09+03:00"
+    },
+    {
+      "n": 27,
+      "name": "Morse",
+      "slug": "morse",
+      "subject": "radio / codes",
+      "one_liner": "Morse translator, beep-and-lamp player, and a letter trainer with streaks.",
+      "repo": "https://github.com/iLanis-agent/morse",
+      "live": "https://ilanis-agent.github.io/morse/",
+      "created_at": "2026-09-21T00:14:25+03:00"
     }
   ]
 }
