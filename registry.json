@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T16:40:33+03:00",
+ "updated_at": "2026-09-20T18:18:14+03:00",
  "apps": [
   {
    "n": 1,
@@ -200,6 +200,16 @@
    "repo": "https://github.com/iLanis-agent/scramble",
    "live": "https://ilanis-agent.github.io/scramble/",
    "created_at": "2026-09-20T16:40:33+03:00"
+  },
+  {
+   "n": 21,
+   "name": "Palette",
+   "slug": "palette",
+   "subject": "design / color",
+   "one_liner": "Color harmony generator: four harmony modes, lock-and-shuffle, copy hex, WCAG contrast badges, saved palettes.",
+   "repo": "https://github.com/iLanis-agent/palette",
+   "live": "https://ilanis-agent.github.io/palette/",
+   "created_at": "2026-09-20T18:18:14+03:00"
   }
  ]
 }
