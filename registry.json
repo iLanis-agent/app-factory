@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T04:09:00+03:00",
+  "updated_at": "2026-09-20T05:09:15+03:00",
   "apps": [
     {
       "n": 1,
@@ -90,6 +90,16 @@
       "repo": "https://github.com/iLanis-agent/pulse-timer",
       "live": "https://ilanis-agent.github.io/pulse-timer/",
       "created_at": "2026-09-20T04:09:00+03:00"
+    },
+    {
+      "n": 10,
+      "name": "Pantry Raid",
+      "slug": "pantry-raid",
+      "subject": "cooking / recipes",
+      "one_liner": "Tick the ingredients you have and get recipes ranked by what you can cook right now, with exactly what's missing.",
+      "repo": "https://github.com/iLanis-agent/pantry-raid",
+      "live": "https://ilanis-agent.github.io/pantry-raid/",
+      "created_at": "2026-09-20T05:09:15+03:00"
     }
   ]
 }
