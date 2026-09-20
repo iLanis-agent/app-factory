@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T07:11:50+03:00",
+  "updated_at": "2026-09-20T08:12:10+03:00",
   "apps": [
     {
       "n": 1,
@@ -120,6 +120,16 @@
       "repo": "https://github.com/iLanis-agent/mate-in-one",
       "live": "https://ilanis-agent.github.io/mate-in-one/",
       "created_at": "2026-09-20T07:11:50+03:00"
+    },
+    {
+      "n": 13,
+      "name": "Bike or Bus?",
+      "slug": "bike-or-bus",
+      "subject": "weather",
+      "one_liner": "Live weather for any city turned into one 0-100 bike score, with every deduction itemized and a 6-hour outlook.",
+      "repo": "https://github.com/iLanis-agent/bike-or-bus",
+      "live": "https://ilanis-agent.github.io/bike-or-bus/",
+      "created_at": "2026-09-20T08:12:10+03:00"
     }
   ]
 }
