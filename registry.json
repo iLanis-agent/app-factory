@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T10:31:27+03:00",
+  "updated_at": "2026-09-20T12:17:26+03:00",
   "apps": [
     {
       "n": 1,
@@ -150,6 +150,16 @@
       "repo": "https://github.com/iLanis-agent/make-24",
       "live": "https://ilanis-agent.github.io/make-24/",
       "created_at": "2026-09-20T10:31:27+03:00"
+    },
+    {
+      "n": 16,
+      "name": "Memory Matrix",
+      "slug": "memory-matrix",
+      "subject": "memory / brain training",
+      "one_liner": "Tiles flash on a grid, you rebuild the pattern from memory. Growing grids, 3 lives, best level saved.",
+      "repo": "https://github.com/iLanis-agent/memory-matrix",
+      "live": "https://ilanis-agent.github.io/memory-matrix/",
+      "created_at": "2026-09-20T12:17:26+03:00"
     }
   ]
 }
