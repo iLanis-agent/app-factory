@@ -240,6 +240,16 @@
       "repo": "https://github.com/iLanis-agent/minefield",
       "live": "https://ilanis-agent.github.io/minefield/",
       "created_at": "2026-09-20T21:11:58+03:00"
+    },
+    {
+      "n": 25,
+      "name": "2048",
+      "slug": "2048",
+      "subject": "classic puzzle games",
+      "one_liner": "The tile-merging classic: swipe or arrows, correct merge rules, persistent best, keep going past 2048.",
+      "repo": "https://github.com/iLanis-agent/2048",
+      "live": "https://ilanis-agent.github.io/2048/",
+      "created_at": "2026-09-20T22:13:22+03:00"
     }
   ]
 }
