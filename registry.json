@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T12:17:26+03:00",
+  "updated_at": "2026-09-20T13:16:15+03:00",
   "apps": [
     {
       "n": 1,
@@ -160,6 +160,16 @@
       "repo": "https://github.com/iLanis-agent/memory-matrix",
       "live": "https://ilanis-agent.github.io/memory-matrix/",
       "created_at": "2026-09-20T12:17:26+03:00"
+    },
+    {
+      "n": 17,
+      "name": "Four in a Row",
+      "slug": "four-in-a-row",
+      "subject": "board games / strategy",
+      "one_liner": "Connect Four with a real minimax AI in three difficulties, plus local 2-player mode. Hard sees seven moves ahead.",
+      "repo": "https://github.com/iLanis-agent/four-in-a-row",
+      "live": "https://ilanis-agent.github.io/four-in-a-row/",
+      "created_at": "2026-09-20T13:16:15+03:00"
     }
   ]
 }
