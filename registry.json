@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T13:16:15+03:00",
+  "updated_at": "2026-09-20T14:17:04+03:00",
   "apps": [
     {
       "n": 1,
@@ -170,6 +170,16 @@
       "repo": "https://github.com/iLanis-agent/four-in-a-row",
       "live": "https://ilanis-agent.github.io/four-in-a-row/",
       "created_at": "2026-09-20T13:16:15+03:00"
+    },
+    {
+      "n": 18,
+      "name": "Plant Parent",
+      "slug": "plant-parent",
+      "subject": "gardening / plant care",
+      "one_liner": "Tick your houseplants, set last-watered dates, get a 14-day watering schedule with overdue alerts and pet-safety flags.",
+      "repo": "https://github.com/iLanis-agent/plant-parent",
+      "live": "https://ilanis-agent.github.io/plant-parent/",
+      "created_at": "2026-09-20T14:17:04+03:00"
     }
   ]
 }
