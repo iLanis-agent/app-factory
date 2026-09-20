@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T03:08:00+03:00",
+  "updated_at": "2026-09-20T04:09:00+03:00",
   "apps": [
     {
       "n": 1,
@@ -80,6 +80,16 @@
       "repo": "https://github.com/iLanis-agent/neon-snake",
       "live": "https://ilanis-agent.github.io/neon-snake/",
       "created_at": "2026-09-20T03:08:00+03:00"
+    },
+    {
+      "n": 9,
+      "name": "Pulse",
+      "slug": "pulse-timer",
+      "subject": "fitness",
+      "one_liner": "A HIIT interval timer with work/rest/rounds, Tabata presets, audio cues, and a color-coded screen.",
+      "repo": "https://github.com/iLanis-agent/pulse-timer",
+      "live": "https://ilanis-agent.github.io/pulse-timer/",
+      "created_at": "2026-09-20T04:09:00+03:00"
     }
   ]
 }
