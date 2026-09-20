@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T06:09:59+03:00",
+  "updated_at": "2026-09-20T07:11:50+03:00",
   "apps": [
     {
       "n": 1,
@@ -110,6 +110,16 @@
       "repo": "https://github.com/iLanis-agent/compound",
       "live": "https://ilanis-agent.github.io/compound/",
       "created_at": "2026-09-20T06:09:59+03:00"
+    },
+    {
+      "n": 12,
+      "name": "Mate in One",
+      "slug": "mate-in-one",
+      "subject": "chess / puzzles",
+      "one_liner": "12 chess positions, each mate in one move, judged by a real built-in chess engine - any move that mates counts.",
+      "repo": "https://github.com/iLanis-agent/mate-in-one",
+      "live": "https://ilanis-agent.github.io/mate-in-one/",
+      "created_at": "2026-09-20T07:11:50+03:00"
     }
   ]
 }
