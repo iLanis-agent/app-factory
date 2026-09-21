@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T22:50:38+03:00",
+  "updated_at": "2026-09-21T23:51:20+03:00",
   "apps": [
     {
       "n": 1,
@@ -480,6 +480,16 @@
       "repo": "https://github.com/iLanis-agent/overlap",
       "live": "https://ilanis-agent.github.io/overlap/",
       "created_at": "2026-09-21T22:50:38+03:00"
+    },
+    {
+      "n": 49,
+      "name": "SleepDebt",
+      "slug": "sleepdebt",
+      "subject": "startup idea: sleep bank ledger",
+      "one_liner": "log each night's hours, see your running sleep debt or surplus, and get a recovery plan with the exact date you're back to zero",
+      "repo": "https://github.com/iLanis-agent/sleepdebt",
+      "live": "https://ilanis-agent.github.io/sleepdebt/",
+      "created_at": "2026-09-21T23:51:20+03:00"
     }
   ]
 }
