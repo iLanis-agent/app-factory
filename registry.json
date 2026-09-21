@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:17:29+03:00",
+  "updated_at": "2026-09-21T13:06:10+03:00",
   "apps": [
     {
       "n": 1,
@@ -380,6 +380,16 @@
       "repo": "https://github.com/iLanis-agent/simon",
       "live": "https://ilanis-agent.github.io/simon/",
       "created_at": "2026-09-21T12:17:29+03:00"
+    },
+    {
+      "n": 39,
+      "name": "Flood It",
+      "slug": "flood-it",
+      "subject": "flood-fill puzzle",
+      "one_liner": "Turn a 14x14 mosaic into one color, flooding from the corner, in 25 moves or fewer.",
+      "repo": "https://github.com/iLanis-agent/flood-it",
+      "live": "https://ilanis-agent.github.io/flood-it/",
+      "created_at": "2026-09-21T13:06:10+03:00"
     }
   ]
 }
