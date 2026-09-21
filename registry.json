@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T10:03:45+03:00",
+  "updated_at": "2026-09-21T11:21:37+03:00",
   "apps": [
     {
       "n": 1,
@@ -360,6 +360,16 @@
       "repo": "https://github.com/iLanis-agent/mastermind",
       "live": "https://ilanis-agent.github.io/mastermind/",
       "created_at": "2026-09-21T10:03:45+03:00"
+    },
+    {
+      "n": 37,
+      "name": "Tic Tac Toe",
+      "slug": "tic-tac-toe",
+      "subject": "strategy game vs AI",
+      "one_liner": "Play X or O against an unbeatable minimax machine - a draw counts as a victory.",
+      "repo": "https://github.com/iLanis-agent/tic-tac-toe",
+      "live": "https://ilanis-agent.github.io/tic-tac-toe/",
+      "created_at": "2026-09-21T11:21:37+03:00"
     }
   ]
 }
