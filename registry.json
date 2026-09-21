@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T13:06:10+03:00",
+  "updated_at": "2026-09-21T14:06:57+03:00",
   "apps": [
     {
       "n": 1,
@@ -390,6 +390,16 @@
       "repo": "https://github.com/iLanis-agent/flood-it",
       "live": "https://ilanis-agent.github.io/flood-it/",
       "created_at": "2026-09-21T13:06:10+03:00"
+    },
+    {
+      "n": 40,
+      "name": "Fifteen",
+      "slug": "slide-15",
+      "subject": "sliding puzzle",
+      "one_liner": "Slide fifteen tiles back into order - every shuffle is guaranteed solvable, fewest-moves best saved.",
+      "repo": "https://github.com/iLanis-agent/slide-15",
+      "live": "https://ilanis-agent.github.io/slide-15/",
+      "created_at": "2026-09-21T14:06:57+03:00"
     }
   ]
 }
