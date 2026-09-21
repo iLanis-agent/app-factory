@@ -310,6 +310,16 @@
       "repo": "https://github.com/iLanis-agent/what-year",
       "live": "https://ilanis-agent.github.io/what-year/",
       "created_at": "2026-09-21T04:17:43+03:00"
+    },
+    {
+      "n": 32,
+      "name": "Luna",
+      "slug": "luna",
+      "subject": "astronomy",
+      "one_liner": "The moon on any date: phase, illumination, age, next new and full, plus a 14-night strip.",
+      "repo": "https://github.com/iLanis-agent/luna",
+      "live": "https://ilanis-agent.github.io/luna/",
+      "created_at": "2026-09-21T05:18:45+03:00"
     }
   ]
 }
