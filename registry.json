@@ -290,6 +290,16 @@
       "repo": "https://github.com/iLanis-agent/gate-lab",
       "live": "https://ilanis-agent.github.io/gate-lab/",
       "created_at": "2026-09-21T02:16:29+03:00"
+    },
+    {
+      "n": 30,
+      "name": "Beatmaker",
+      "slug": "beatmaker",
+      "subject": "music / beatmaking",
+      "one_liner": "A pocket drum machine: 5 synthesized drums, 16 steps, 60-180 BPM, patterns shareable by link.",
+      "repo": "https://github.com/iLanis-agent/beatmaker",
+      "live": "https://ilanis-agent.github.io/beatmaker/",
+      "created_at": "2026-09-21T03:16:46+03:00"
     }
   ]
 }
