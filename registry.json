@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T11:21:37+03:00",
+  "updated_at": "2026-09-21T12:17:29+03:00",
   "apps": [
     {
       "n": 1,
@@ -370,6 +370,16 @@
       "repo": "https://github.com/iLanis-agent/tic-tac-toe",
       "live": "https://ilanis-agent.github.io/tic-tac-toe/",
       "created_at": "2026-09-21T11:21:37+03:00"
+    },
+    {
+      "n": 38,
+      "name": "Simon",
+      "slug": "simon",
+      "subject": "memory tones game",
+      "one_liner": "Watch the growing pattern of lights and tones, play it back - strict mode for the brave.",
+      "repo": "https://github.com/iLanis-agent/simon",
+      "live": "https://ilanis-agent.github.io/simon/",
+      "created_at": "2026-09-21T12:17:29+03:00"
     }
   ]
 }
