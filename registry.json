@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T23:51:20+03:00",
+  "updated_at": "2026-09-22T00:53:17+03:00",
   "apps": [
     {
       "n": 1,
@@ -490,6 +490,16 @@
       "repo": "https://github.com/iLanis-agent/sleepdebt",
       "live": "https://ilanis-agent.github.io/sleepdebt/",
       "created_at": "2026-09-21T23:51:20+03:00"
+    },
+    {
+      "n": 50,
+      "name": "ChargeWorth",
+      "slug": "chargeworth",
+      "subject": "startup idea: EV-vs-gas break-even calculator",
+      "one_liner": "total cost of ownership year by year with the exact break-even year, 10-year savings, and an honest never-when-it-never",
+      "repo": "https://github.com/iLanis-agent/chargeworth",
+      "live": "https://ilanis-agent.github.io/chargeworth/",
+      "created_at": "2026-09-22T00:53:17+03:00"
     }
   ]
 }
