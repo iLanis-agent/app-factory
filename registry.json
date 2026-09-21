@@ -300,6 +300,16 @@
       "repo": "https://github.com/iLanis-agent/beatmaker",
       "live": "https://ilanis-agent.github.io/beatmaker/",
       "created_at": "2026-09-21T03:16:46+03:00"
+    },
+    {
+      "n": 31,
+      "name": "What Year?",
+      "slug": "what-year",
+      "subject": "history / trivia",
+      "one_liner": "Read the event, slide to the year, lock it in. Exact hits score 125, every year off costs one.",
+      "repo": "https://github.com/iLanis-agent/what-year",
+      "live": "https://ilanis-agent.github.io/what-year/",
+      "created_at": "2026-09-21T04:17:43+03:00"
     }
   ]
 }
