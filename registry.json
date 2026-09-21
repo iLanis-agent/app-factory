@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T01:52:56+03:00",
+  "updated_at": "2026-09-21T23:54:01Z",
   "apps": [
     {
       "n": 1,
@@ -510,6 +510,16 @@
       "repo": "https://github.com/iLanis-agent/runoff",
       "live": "https://ilanis-agent.github.io/runoff/",
       "created_at": "2026-09-22T01:52:56+03:00"
+    },
+    {
+      "n": 52,
+      "name": "DoorScore",
+      "slug": "doorscore",
+      "subject": "startup idea: apartment viewing scorecard that turns every visit into a weighted same-day score with deal-breaker flags",
+      "one_liner": "Eight viewings blur together. Score each one the same day, on the same weighted criteria - and let one deal-breaker flag sink a pretty average.",
+      "repo": "https://github.com/iLanis-agent/doorscore",
+      "live": "https://ilanis-agent.github.io/doorscore/",
+      "created_at": "2026-09-21T23:54:01Z"
     }
   ]
 }
