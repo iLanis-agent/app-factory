@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T18:11:05+03:00",
+  "updated_at": "2026-09-21T19:11:01+03:00",
   "apps": [
     {
       "n": 1,
@@ -440,6 +440,16 @@
       "repo": "https://github.com/iLanis-agent/lastcup",
       "live": "https://ilanis-agent.github.io/lastcup/",
       "created_at": "2026-09-21T18:11:05+03:00"
+    },
+    {
+      "n": 45,
+      "name": "TrialGuard",
+      "slug": "trialguard",
+      "subject": "startup idea: free-trial cancellation tracker",
+      "one_liner": "track every free trial, see the real monthly/yearly burn if all convert, and get a countdown to each cancel-by date",
+      "repo": "https://github.com/iLanis-agent/trialguard",
+      "live": "https://ilanis-agent.github.io/trialguard/",
+      "created_at": "2026-09-21T19:11:01+03:00"
     }
   ]
 }
