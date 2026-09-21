@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T15:08:25+03:00",
+  "updated_at": "2026-09-21T16:09:11+03:00",
   "apps": [
     {
       "n": 1,
@@ -410,6 +410,16 @@
       "repo": "https://github.com/iLanis-agent/fairchore",
       "live": "https://ilanis-agent.github.io/fairchore/",
       "created_at": "2026-09-21T15:08:25+03:00"
+    },
+    {
+      "n": 42,
+      "name": "ShadeSide",
+      "slug": "shadeside",
+      "subject": "startup idea: sun-glare seat picker",
+      "one_liner": "Real solar math tells you which side of the bus, car or plane stays in shade for your ride.",
+      "repo": "https://github.com/iLanis-agent/shadeside",
+      "live": "https://ilanis-agent.github.io/shadeside/",
+      "created_at": "2026-09-21T16:09:11+03:00"
     }
   ]
 }
