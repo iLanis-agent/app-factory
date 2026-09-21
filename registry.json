@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T14:06:57+03:00",
+  "updated_at": "2026-09-21T15:08:25+03:00",
   "apps": [
     {
       "n": 1,
@@ -400,6 +400,16 @@
       "repo": "https://github.com/iLanis-agent/slide-15",
       "live": "https://ilanis-agent.github.io/slide-15/",
       "created_at": "2026-09-21T14:06:57+03:00"
+    },
+    {
+      "n": 41,
+      "name": "FairChore",
+      "slug": "fairchore",
+      "subject": "startup idea: chore fairness optimizer",
+      "one_liner": "Housemates rate how much they hate each chore; an optimizer splits the work at minimum household misery.",
+      "repo": "https://github.com/iLanis-agent/fairchore",
+      "live": "https://ilanis-agent.github.io/fairchore/",
+      "created_at": "2026-09-21T15:08:25+03:00"
     }
   ]
 }
