@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T00:53:17+03:00",
+  "updated_at": "2026-09-22T01:52:56+03:00",
   "apps": [
     {
       "n": 1,
@@ -500,6 +500,16 @@
       "repo": "https://github.com/iLanis-agent/chargeworth",
       "live": "https://ilanis-agent.github.io/chargeworth/",
       "created_at": "2026-09-22T00:53:17+03:00"
+    },
+    {
+      "n": 51,
+      "name": "Runoff",
+      "slug": "runoff",
+      "subject": "startup idea: ranked-choice group decisions",
+      "one_liner": "pass the phone, everyone ranks the options once, instant-runoff rounds find the pick with real majority support",
+      "repo": "https://github.com/iLanis-agent/runoff",
+      "live": "https://ilanis-agent.github.io/runoff/",
+      "created_at": "2026-09-22T01:52:56+03:00"
     }
   ]
 }
