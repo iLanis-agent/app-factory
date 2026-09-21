@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T17:09:20+03:00",
+  "updated_at": "2026-09-21T18:11:05+03:00",
   "apps": [
     {
       "n": 1,
@@ -430,6 +430,16 @@
       "repo": "https://github.com/iLanis-agent/safeplate",
       "live": "https://ilanis-agent.github.io/safeplate/",
       "created_at": "2026-09-21T17:09:20+03:00"
+    },
+    {
+      "n": 44,
+      "name": "LastCup",
+      "slug": "lastcup",
+      "subject": "startup idea: caffeine cutoff calculator",
+      "one_liner": "log today's caffeine, project what's left at bedtime, get the exact clock time of your last safe cup",
+      "repo": "https://github.com/iLanis-agent/lastcup",
+      "live": "https://ilanis-agent.github.io/lastcup/",
+      "created_at": "2026-09-21T18:11:05+03:00"
     }
   ]
 }
