@@ -330,6 +330,16 @@
       "repo": "https://github.com/iLanis-agent/world-clock",
       "live": "https://ilanis-agent.github.io/world-clock/",
       "created_at": "2026-09-21T06:19:15+03:00"
+    },
+    {
+      "n": 34,
+      "name": "Elemental",
+      "slug": "elemental",
+      "subject": "chemistry",
+      "one_liner": "The periodic table quiz: symbols, names, atomic numbers, with first-letter-tricky distractors.",
+      "repo": "https://github.com/iLanis-agent/elemental",
+      "live": "https://ilanis-agent.github.io/elemental/",
+      "created_at": "2026-09-21T08:07:22+03:00"
     }
   ]
 }
