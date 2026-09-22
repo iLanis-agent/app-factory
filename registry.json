@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T06:36:38Z",
+  "updated_at": "2026-09-22T07:37:31Z",
   "apps": [
     {
       "n": 1,
@@ -570,6 +570,16 @@
       "repo": "https://github.com/iLanis-agent/debtdown",
       "live": "https://ilanis-agent.github.io/debtdown/",
       "created_at": "2026-09-22T06:36:38Z"
+    },
+    {
+      "n": 58,
+      "name": "Lendmark",
+      "slug": "lendmark",
+      "subject": "startup idea: lent-item tracker that builds borrower trust scores from real return history",
+      "one_liner": "Your drill has been gone four months. Lendmark gives every loan a due date and a countdown, and scores each borrower by whether things actually come back.",
+      "repo": "https://github.com/iLanis-agent/lendmark",
+      "live": "https://ilanis-agent.github.io/lendmark/",
+      "created_at": "2026-09-22T07:37:31Z"
     }
   ]
 }
