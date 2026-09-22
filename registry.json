@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T10:39:49Z",
+  "updated_at": "2026-09-22T11:40:10Z",
   "apps": [
     {
       "n": 1,
@@ -610,6 +610,16 @@
       "repo": "https://github.com/iLanis-agent/plantpulse",
       "live": "https://ilanis-agent.github.io/plantpulse/",
       "created_at": "2026-09-22T10:39:49Z"
+    },
+    {
+      "n": 62,
+      "name": "PackCheck",
+      "slug": "packcheck",
+      "subject": "startup idea: reusable packing lists",
+      "one_liner": "Packing lists that persist - check off, reset, never forget the lock again.",
+      "repo": "https://github.com/iLanis-agent/packcheck",
+      "live": "https://ilanis-agent.github.io/packcheck/",
+      "created_at": "2026-09-22T11:40:10Z"
     }
   ]
 }
