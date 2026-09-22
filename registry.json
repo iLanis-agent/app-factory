@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T23:54:01Z",
+  "updated_at": "2026-09-22T01:26:51Z",
   "apps": [
     {
       "n": 1,
@@ -520,6 +520,16 @@
       "repo": "https://github.com/iLanis-agent/doorscore",
       "live": "https://ilanis-agent.github.io/doorscore/",
       "created_at": "2026-09-21T23:54:01Z"
+    },
+    {
+      "n": 53,
+      "name": "CoverClock",
+      "slug": "coverclock",
+      "subject": "startup idea: countdown tracker for the invisible deadlines on every receipt - return windows and warranties",
+      "one_liner": "Every receipt is a countdown you can't see. CoverClock puts every purchase on a visible timer and floats the urgent ones to the top.",
+      "repo": "https://github.com/iLanis-agent/coverclock",
+      "live": "https://ilanis-agent.github.io/coverclock/",
+      "created_at": "2026-09-22T01:26:51Z"
     }
   ]
 }
