@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T07:37:31Z",
+  "updated_at": "2026-09-22T08:37:49Z",
   "apps": [
     {
       "n": 1,
@@ -580,6 +580,16 @@
       "repo": "https://github.com/iLanis-agent/lendmark",
       "live": "https://ilanis-agent.github.io/lendmark/",
       "created_at": "2026-09-22T07:37:31Z"
+    },
+    {
+      "n": 59,
+      "name": "CoastFI",
+      "slug": "coastfi",
+      "subject": "startup idea: financial independence calculator that surfaces the coast-FIRE milestone people pass without noticing",
+      "one_liner": "When can you stop working? One compound-interest question. CoastFI shows your FI number, years to reach it, and the coast point where savings finish the race alone.",
+      "repo": "https://github.com/iLanis-agent/coastfi",
+      "live": "https://ilanis-agent.github.io/coastfi/",
+      "created_at": "2026-09-22T08:37:49Z"
     }
   ]
 }
