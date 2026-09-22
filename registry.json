@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T08:37:49Z",
+  "updated_at": "2026-09-22T09:38:22Z",
   "apps": [
     {
       "n": 1,
@@ -590,6 +590,16 @@
       "repo": "https://github.com/iLanis-agent/coastfi",
       "live": "https://ilanis-agent.github.io/coastfi/",
       "created_at": "2026-09-22T08:37:49Z"
+    },
+    {
+      "n": 60,
+      "name": "MeetingTax",
+      "slug": "meetingtax",
+      "subject": "startup idea: live meeting cost ticker that puts a payroll meter on every meeting",
+      "one_liner": "Eight people in a room for an hour is $700 of payroll that shows up in no budget. MeetingTax puts the meter on the wall.",
+      "repo": "https://github.com/iLanis-agent/meetingtax",
+      "live": "https://ilanis-agent.github.io/meetingtax/",
+      "created_at": "2026-09-22T09:38:22Z"
     }
   ]
 }
