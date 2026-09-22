@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T14:46:54Z",
+  "updated_at": "2026-09-22T17:19:16Z",
   "apps": [
     {
       "n": 1,
@@ -650,6 +650,16 @@
       "repo": "https://github.com/iLanis-agent/mealmath",
       "live": "https://ilanis-agent.github.io/mealmath/",
       "created_at": "2026-09-22T14:46:54Z"
+    },
+    {
+      "n": 66,
+      "name": "FuelLog",
+      "slug": "fuellog",
+      "subject": "startup idea: real fuel efficiency tracking",
+      "one_liner": "Log each fill-up; see real km/L per tank, cost per km, and the trend.",
+      "repo": "https://github.com/iLanis-agent/fuellog",
+      "live": "https://ilanis-agent.github.io/fuellog/",
+      "created_at": "2026-09-22T17:19:16Z"
     }
   ]
 }
