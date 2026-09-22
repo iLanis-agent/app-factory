@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T04:40:43Z",
+  "updated_at": "2026-09-22T05:35:11Z",
   "apps": [
     {
       "n": 1,
@@ -550,6 +550,16 @@
       "repo": "https://github.com/iLanis-agent/upkeep",
       "live": "https://ilanis-agent.github.io/upkeep/",
       "created_at": "2026-09-22T04:40:43Z"
+    },
+    {
+      "n": 56,
+      "name": "GiftLoop",
+      "slug": "giftloop",
+      "subject": "startup idea: gift-idea CRM that catches ideas year-round and flags repeat gifts",
+      "one_liner": "Gift ideas strike in March and evaporate by December. GiftLoop catches them, ranks the best, and warns before you repeat a gift you already gave.",
+      "repo": "https://github.com/iLanis-agent/giftloop",
+      "live": "https://ilanis-agent.github.io/giftloop/",
+      "created_at": "2026-09-22T05:35:11Z"
     }
   ]
 }
