@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T21:52:14Z",
+  "updated_at": "2026-09-22T22:52:44Z",
   "apps": [
     {
       "n": 1,
@@ -690,6 +690,16 @@
       "repo": "https://github.com/iLanis-agent/wearcost",
       "live": "https://ilanis-agent.github.io/wearcost/",
       "created_at": "2026-09-22T21:52:14Z"
+    },
+    {
+      "n": 70,
+      "name": "PetMeds",
+      "slug": "petmeds",
+      "subject": "startup idea: pet medication runout projections",
+      "one_liner": "Pills on hand divided by daily dose = the exact runout date, flagged before the gap.",
+      "repo": "https://github.com/iLanis-agent/petmeds",
+      "live": "https://ilanis-agent.github.io/petmeds/",
+      "created_at": "2026-09-22T22:52:44Z"
     }
   ]
 }
