@@ -1,0 +1,575 @@
+{
+  "updated_at": "2026-09-22T06:36:38Z",
+  "apps": [
+    {
+      "n": 1,
+      "name": "Golden Hour",
+      "slug": "golden-hour",
+      "subject": "photography / astronomy",
+      "one_liner": "Live sun tracker that counts down to today's golden hour and blue hour for your exact spot.",
+      "repo": "https://github.com/iLanis-agent/golden-hour",
+      "live": "https://ilanis-agent.github.io/golden-hour/",
+      "created_at": "2026-09-19T20:15:00+03:00"
+    },
+    {
+      "n": 2,
+      "name": "Drift",
+      "slug": "drift",
+      "subject": "focus / ambient sound",
+      "one_liner": "Ambient focus mixer - rain, thunder, wind, fire and waves, all synthesized live in your browser, with a sleep-timer fade-out.",
+      "repo": "https://github.com/iLanis-agent/drift",
+      "live": "https://ilanis-agent.github.io/drift/",
+      "created_at": "2026-09-19T21:05:00+03:00"
+    },
+    {
+      "n": 3,
+      "name": "Flag Rush",
+      "slug": "flag-rush",
+      "subject": "geography / trivia",
+      "one_liner": "The 60-second flag quiz - name as many world flags as you can, streaks multiply your score.",
+      "repo": "https://github.com/iLanis-agent/flag-rush",
+      "live": "https://ilanis-agent.github.io/flag-rush/",
+      "created_at": "2026-09-19T22:05:00+03:00"
+    },
+    {
+      "n": 4,
+      "name": "Pixel Forge",
+      "slug": "pixel-forge",
+      "subject": "art / creativity",
+      "one_liner": "A pocket pixel art studio - pencil, fill, mirror mode, 32-color palette, and crisp PNG export, all in the browser.",
+      "repo": "https://github.com/iLanis-agent/pixel-forge",
+      "live": "https://ilanis-agent.github.io/pixel-forge/",
+      "created_at": "2026-09-19T23:05:00+03:00"
+    },
+    {
+      "n": 5,
+      "name": "Chord Wheel",
+      "slug": "chord-wheel",
+      "subject": "music theory",
+      "one_liner": "An interactive circle of fifths you can hear - pick a key, play its diatonic chords, and build progressions.",
+      "repo": "https://github.com/iLanis-agent/chord-wheel",
+      "live": "https://ilanis-agent.github.io/chord-wheel/",
+      "created_at": "2026-09-20T00:06:00+03:00"
+    },
+    {
+      "n": 6,
+      "name": "Orbit Lab",
+      "slug": "orbit-lab",
+      "subject": "physics / space",
+      "one_liner": "A real gravity sandbox - drag to launch a satellite and find the velocity that closes a stable orbit.",
+      "repo": "https://github.com/iLanis-agent/orbit-lab",
+      "live": "https://ilanis-agent.github.io/orbit-lab/",
+      "created_at": "2026-09-20T01:07:00+03:00"
+    },
+    {
+      "n": 7,
+      "name": "Type Sprint",
+      "slug": "type-sprint",
+      "subject": "typing / skill",
+      "one_liner": "A typing speed test with live WPM and accuracy, 30/60s modes, and a chart of your last 10 runs.",
+      "repo": "https://github.com/iLanis-agent/type-sprint",
+      "live": "https://ilanis-agent.github.io/type-sprint/",
+      "created_at": "2026-09-20T02:07:00+03:00"
+    },
+    {
+      "n": 8,
+      "name": "Neon Snake",
+      "slug": "neon-snake",
+      "subject": "retro games",
+      "one_liner": "The classic snake game with a neon glow - keyboard or swipe, rising speed, saved high score.",
+      "repo": "https://github.com/iLanis-agent/neon-snake",
+      "live": "https://ilanis-agent.github.io/neon-snake/",
+      "created_at": "2026-09-20T03:08:00+03:00"
+    },
+    {
+      "n": 9,
+      "name": "Pulse",
+      "slug": "pulse-timer",
+      "subject": "fitness",
+      "one_liner": "A HIIT interval timer with work/rest/rounds, Tabata presets, audio cues, and a color-coded screen.",
+      "repo": "https://github.com/iLanis-agent/pulse-timer",
+      "live": "https://ilanis-agent.github.io/pulse-timer/",
+      "created_at": "2026-09-20T04:09:00+03:00"
+    },
+    {
+      "n": 10,
+      "name": "Pantry Raid",
+      "slug": "pantry-raid",
+      "subject": "cooking / recipes",
+      "one_liner": "Tick the ingredients you have and get recipes ranked by what you can cook right now, with exactly what's missing.",
+      "repo": "https://github.com/iLanis-agent/pantry-raid",
+      "live": "https://ilanis-agent.github.io/pantry-raid/",
+      "created_at": "2026-09-20T05:09:15+03:00"
+    },
+    {
+      "n": 11,
+      "name": "Compound",
+      "slug": "compound",
+      "subject": "finance / investing",
+      "one_liner": "An interactive compound-interest visualizer: deposits vs interest stacked year by year, with the numbers behind the snowball.",
+      "repo": "https://github.com/iLanis-agent/compound",
+      "live": "https://ilanis-agent.github.io/compound/",
+      "created_at": "2026-09-20T06:09:59+03:00"
+    },
+    {
+      "n": 12,
+      "name": "Mate in One",
+      "slug": "mate-in-one",
+      "subject": "chess / puzzles",
+      "one_liner": "12 chess positions, each mate in one move, judged by a real built-in chess engine - any move that mates counts.",
+      "repo": "https://github.com/iLanis-agent/mate-in-one",
+      "live": "https://ilanis-agent.github.io/mate-in-one/",
+      "created_at": "2026-09-20T07:11:50+03:00"
+    },
+    {
+      "n": 13,
+      "name": "Bike or Bus?",
+      "slug": "bike-or-bus",
+      "subject": "weather",
+      "one_liner": "Live weather for any city turned into one 0-100 bike score, with every deduction itemized and a 6-hour outlook.",
+      "repo": "https://github.com/iLanis-agent/bike-or-bus",
+      "live": "https://ilanis-agent.github.io/bike-or-bus/",
+      "created_at": "2026-09-20T08:12:10+03:00"
+    },
+    {
+      "n": 14,
+      "name": "Word Bridge",
+      "slug": "word-bridge",
+      "subject": "language / word games",
+      "one_liner": "The classic word ladder: one letter per step, every step a real word, 16 BFS-verified bridges with par scores and live hints.",
+      "repo": "https://github.com/iLanis-agent/word-bridge",
+      "live": "https://ilanis-agent.github.io/word-bridge/",
+      "created_at": "2026-09-20T09:13:00+03:00"
+    },
+    {
+      "n": 15,
+      "name": "Make 24",
+      "slug": "make-24",
+      "subject": "math / arithmetic",
+      "one_liner": "Four numbers, four operations, each used once - hit exactly 24. Every hand solver-verified, streaks included.",
+      "repo": "https://github.com/iLanis-agent/make-24",
+      "live": "https://ilanis-agent.github.io/make-24/",
+      "created_at": "2026-09-20T10:31:27+03:00"
+    },
+    {
+      "n": 16,
+      "name": "Memory Matrix",
+      "slug": "memory-matrix",
+      "subject": "memory / brain training",
+      "one_liner": "Tiles flash on a grid, you rebuild the pattern from memory. Growing grids, 3 lives, best level saved.",
+      "repo": "https://github.com/iLanis-agent/memory-matrix",
+      "live": "https://ilanis-agent.github.io/memory-matrix/",
+      "created_at": "2026-09-20T12:17:26+03:00"
+    },
+    {
+      "n": 17,
+      "name": "Four in a Row",
+      "slug": "four-in-a-row",
+      "subject": "board games / strategy",
+      "one_liner": "Connect Four with a real minimax AI in three difficulties, plus local 2-player mode. Hard sees seven moves ahead.",
+      "repo": "https://github.com/iLanis-agent/four-in-a-row",
+      "live": "https://ilanis-agent.github.io/four-in-a-row/",
+      "created_at": "2026-09-20T13:16:15+03:00"
+    },
+    {
+      "n": 18,
+      "name": "Plant Parent",
+      "slug": "plant-parent",
+      "subject": "gardening / plant care",
+      "one_liner": "Tick your houseplants, set last-watered dates, get a 14-day watering schedule with overdue alerts and pet-safety flags.",
+      "repo": "https://github.com/iLanis-agent/plant-parent",
+      "live": "https://ilanis-agent.github.io/plant-parent/",
+      "created_at": "2026-09-20T14:17:04+03:00"
+    },
+    {
+      "n": 19,
+      "name": "Drip",
+      "slug": "drip",
+      "subject": "coffee / brewing",
+      "one_liner": "Coffee brew timer with ratio calculator: pick a method, dial in strength, pour on cue with audio step cues.",
+      "repo": "https://github.com/iLanis-agent/drip",
+      "live": "https://ilanis-agent.github.io/drip/",
+      "created_at": "2026-09-20T15:39:46+03:00"
+    },
+    {
+      "n": 20,
+      "name": "Scramble",
+      "slug": "scramble",
+      "subject": "speedcubing / puzzle timers",
+      "one_liner": "Speedcubing timer with WCA-style scrambles, stackmat timing, and live ao5/ao12 session stats.",
+      "repo": "https://github.com/iLanis-agent/scramble",
+      "live": "https://ilanis-agent.github.io/scramble/",
+      "created_at": "2026-09-20T16:40:33+03:00"
+    },
+    {
+      "n": 21,
+      "name": "Palette",
+      "slug": "palette",
+      "subject": "design / color",
+      "one_liner": "Color harmony generator: four harmony modes, lock-and-shuffle, copy hex, WCAG contrast badges, saved palettes.",
+      "repo": "https://github.com/iLanis-agent/palette",
+      "live": "https://ilanis-agent.github.io/palette/",
+      "created_at": "2026-09-20T18:18:14+03:00"
+    },
+    {
+      "n": 22,
+      "name": "Long Odds",
+      "slug": "long-odds",
+      "subject": "tabletop gaming / probability",
+      "one_liner": "Dice roller with exact probability curves: any NdS+K formula, tap a bar for the odds, roll history.",
+      "repo": "https://github.com/iLanis-agent/long-odds",
+      "live": "https://ilanis-agent.github.io/long-odds/",
+      "created_at": "2026-09-20T19:27:55+03:00"
+    },
+    {
+      "n": 23,
+      "name": "Likely",
+      "slug": "likely",
+      "subject": "AI / probability",
+      "one_liner": "Ask any question, get a calibrated AI probability with factors, assumptions, and what would change it. BYOK via OpenRouter.",
+      "repo": "https://github.com/iLanis-agent/likely",
+      "live": "https://ilanis-agent.github.io/likely/",
+      "created_at": "2026-09-20T20:15:52+03:00"
+    },
+    {
+      "n": 24,
+      "name": "Minefield",
+      "slug": "minefield",
+      "subject": "classic puzzle games",
+      "one_liner": "Classic minesweeper: first-click-safe boards, flood-fill opens, chording, flags, best times per difficulty.",
+      "repo": "https://github.com/iLanis-agent/minefield",
+      "live": "https://ilanis-agent.github.io/minefield/",
+      "created_at": "2026-09-20T21:11:58+03:00"
+    },
+    {
+      "n": 25,
+      "name": "2048",
+      "slug": "2048",
+      "subject": "classic puzzle games",
+      "one_liner": "The tile-merging classic: swipe or arrows, correct merge rules, persistent best, keep going past 2048.",
+      "repo": "https://github.com/iLanis-agent/2048",
+      "live": "https://ilanis-agent.github.io/2048/",
+      "created_at": "2026-09-20T22:13:22+03:00"
+    },
+    {
+      "n": 26,
+      "name": "Reflex",
+      "slug": "reflex",
+      "subject": "human benchmark / reaction",
+      "one_liner": "Reaction-time test: wait for green, tap, get your milliseconds, percentile vs humans, and a rating.",
+      "repo": "https://github.com/iLanis-agent/reflex",
+      "live": "https://ilanis-agent.github.io/reflex/",
+      "created_at": "2026-09-20T23:17:09+03:00"
+    },
+    {
+      "n": 27,
+      "name": "Morse",
+      "slug": "morse",
+      "subject": "radio / codes",
+      "one_liner": "Morse translator, beep-and-lamp player, and a letter trainer with streaks.",
+      "repo": "https://github.com/iLanis-agent/morse",
+      "live": "https://ilanis-agent.github.io/morse/",
+      "created_at": "2026-09-21T00:14:25+03:00"
+    },
+    {
+      "n": 28,
+      "name": "Lights Out",
+      "slug": "lights-out",
+      "subject": "classic puzzle games",
+      "one_liner": "Tap flips a light and its neighbors - darken the whole board. Four sizes, always solvable within par.",
+      "repo": "https://github.com/iLanis-agent/lights-out",
+      "live": "https://ilanis-agent.github.io/lights-out/",
+      "created_at": "2026-09-21T01:15:56+03:00"
+    },
+    {
+      "n": 29,
+      "name": "Gate Lab",
+      "slug": "gate-lab",
+      "subject": "electronics / digital logic",
+      "one_liner": "Three switches, three gates, one lamp: rewire live, then guess the hidden gate in challenge mode.",
+      "repo": "https://github.com/iLanis-agent/gate-lab",
+      "live": "https://ilanis-agent.github.io/gate-lab/",
+      "created_at": "2026-09-21T02:16:29+03:00"
+    },
+    {
+      "n": 30,
+      "name": "Beatmaker",
+      "slug": "beatmaker",
+      "subject": "music / beatmaking",
+      "one_liner": "A pocket drum machine: 5 synthesized drums, 16 steps, 60-180 BPM, patterns shareable by link.",
+      "repo": "https://github.com/iLanis-agent/beatmaker",
+      "live": "https://ilanis-agent.github.io/beatmaker/",
+      "created_at": "2026-09-21T03:16:46+03:00"
+    },
+    {
+      "n": 31,
+      "name": "What Year?",
+      "slug": "what-year",
+      "subject": "history / trivia",
+      "one_liner": "Read the event, slide to the year, lock it in. Exact hits score 125, every year off costs one.",
+      "repo": "https://github.com/iLanis-agent/what-year",
+      "live": "https://ilanis-agent.github.io/what-year/",
+      "created_at": "2026-09-21T04:17:43+03:00"
+    },
+    {
+      "n": 32,
+      "name": "Luna",
+      "slug": "luna",
+      "subject": "astronomy",
+      "one_liner": "The moon on any date: phase, illumination, age, next new and full, plus a 14-night strip.",
+      "repo": "https://github.com/iLanis-agent/luna",
+      "live": "https://ilanis-agent.github.io/luna/",
+      "created_at": "2026-09-21T05:18:45+03:00"
+    },
+    {
+      "n": 33,
+      "name": "World Clock",
+      "slug": "world-clock",
+      "subject": "time / productivity",
+      "one_liner": "Live clocks for your cities plus a meeting finder that names the longest shared 9-18 window.",
+      "repo": "https://github.com/iLanis-agent/world-clock",
+      "live": "https://ilanis-agent.github.io/world-clock/",
+      "created_at": "2026-09-21T06:19:15+03:00"
+    },
+    {
+      "n": 34,
+      "name": "Elemental",
+      "slug": "elemental",
+      "subject": "chemistry",
+      "one_liner": "The periodic table quiz: symbols, names, atomic numbers, with first-letter-tricky distractors.",
+      "repo": "https://github.com/iLanis-agent/elemental",
+      "live": "https://ilanis-agent.github.io/elemental/",
+      "created_at": "2026-09-21T08:07:22+03:00"
+    },
+    {
+      "n": 35,
+      "name": "Blackjack",
+      "slug": "blackjack",
+      "subject": "card games",
+      "one_liner": "Beat the dealer with free chips and a hint button that reads the basic-strategy chart.",
+      "repo": "https://github.com/iLanis-agent/blackjack",
+      "live": "https://ilanis-agent.github.io/blackjack/",
+      "created_at": "2026-09-21T09:03:10+03:00"
+    },
+    {
+      "n": 36,
+      "name": "Mastermind",
+      "slug": "mastermind",
+      "subject": "code-breaking game",
+      "one_liner": "Crack the hidden 4-color code in 10 guesses - classic Mastermind logic with feedback pegs.",
+      "repo": "https://github.com/iLanis-agent/mastermind",
+      "live": "https://ilanis-agent.github.io/mastermind/",
+      "created_at": "2026-09-21T10:03:45+03:00"
+    },
+    {
+      "n": 37,
+      "name": "Tic Tac Toe",
+      "slug": "tic-tac-toe",
+      "subject": "strategy game vs AI",
+      "one_liner": "Play X or O against an unbeatable minimax machine - a draw counts as a victory.",
+      "repo": "https://github.com/iLanis-agent/tic-tac-toe",
+      "live": "https://ilanis-agent.github.io/tic-tac-toe/",
+      "created_at": "2026-09-21T11:21:37+03:00"
+    },
+    {
+      "n": 38,
+      "name": "Simon",
+      "slug": "simon",
+      "subject": "memory tones game",
+      "one_liner": "Watch the growing pattern of lights and tones, play it back - strict mode for the brave.",
+      "repo": "https://github.com/iLanis-agent/simon",
+      "live": "https://ilanis-agent.github.io/simon/",
+      "created_at": "2026-09-21T12:17:29+03:00"
+    },
+    {
+      "n": 39,
+      "name": "Flood It",
+      "slug": "flood-it",
+      "subject": "flood-fill puzzle",
+      "one_liner": "Turn a 14x14 mosaic into one color, flooding from the corner, in 25 moves or fewer.",
+      "repo": "https://github.com/iLanis-agent/flood-it",
+      "live": "https://ilanis-agent.github.io/flood-it/",
+      "created_at": "2026-09-21T13:06:10+03:00"
+    },
+    {
+      "n": 40,
+      "name": "Fifteen",
+      "slug": "slide-15",
+      "subject": "sliding puzzle",
+      "one_liner": "Slide fifteen tiles back into order - every shuffle is guaranteed solvable, fewest-moves best saved.",
+      "repo": "https://github.com/iLanis-agent/slide-15",
+      "live": "https://ilanis-agent.github.io/slide-15/",
+      "created_at": "2026-09-21T14:06:57+03:00"
+    },
+    {
+      "n": 41,
+      "name": "FairChore",
+      "slug": "fairchore",
+      "subject": "startup idea: chore fairness optimizer",
+      "one_liner": "Housemates rate how much they hate each chore; an optimizer splits the work at minimum household misery.",
+      "repo": "https://github.com/iLanis-agent/fairchore",
+      "live": "https://ilanis-agent.github.io/fairchore/",
+      "created_at": "2026-09-21T15:08:25+03:00"
+    },
+    {
+      "n": 42,
+      "name": "ShadeSide",
+      "slug": "shadeside",
+      "subject": "startup idea: sun-glare seat picker",
+      "one_liner": "Real solar math tells you which side of the bus, car or plane stays in shade for your ride.",
+      "repo": "https://github.com/iLanis-agent/shadeside",
+      "live": "https://ilanis-agent.github.io/shadeside/",
+      "created_at": "2026-09-21T16:09:11+03:00"
+    },
+    {
+      "n": 43,
+      "name": "SafePlate",
+      "slug": "safeplate",
+      "subject": "startup idea: group dining constraint solver",
+      "one_liner": "Intersect every guest's dietary restrictions into a menu the whole table can eat, plus one-swap near-misses.",
+      "repo": "https://github.com/iLanis-agent/safeplate",
+      "live": "https://ilanis-agent.github.io/safeplate/",
+      "created_at": "2026-09-21T17:09:20+03:00"
+    },
+    {
+      "n": 44,
+      "name": "LastCup",
+      "slug": "lastcup",
+      "subject": "startup idea: caffeine cutoff calculator",
+      "one_liner": "log today's caffeine, project what's left at bedtime, get the exact clock time of your last safe cup",
+      "repo": "https://github.com/iLanis-agent/lastcup",
+      "live": "https://ilanis-agent.github.io/lastcup/",
+      "created_at": "2026-09-21T18:11:05+03:00"
+    },
+    {
+      "n": 45,
+      "name": "TrialGuard",
+      "slug": "trialguard",
+      "subject": "startup idea: free-trial cancellation tracker",
+      "one_liner": "track every free trial, see the real monthly/yearly burn if all convert, and get a countdown to each cancel-by date",
+      "repo": "https://github.com/iLanis-agent/trialguard",
+      "live": "https://ilanis-agent.github.io/trialguard/",
+      "created_at": "2026-09-21T19:11:01+03:00"
+    },
+    {
+      "n": 46,
+      "name": "ShrinkRay",
+      "slug": "shrinkray",
+      "subject": "startup idea: shrinkflation detector",
+      "one_liner": "log price + package size each purchase; it flags the moment a product shrank while its price stayed the same, plus a shelf pack comparator",
+      "repo": "https://github.com/iLanis-agent/shrinkray",
+      "live": "https://ilanis-agent.github.io/shrinkray/",
+      "created_at": "2026-09-21T20:12:19+03:00"
+    },
+    {
+      "n": 47,
+      "name": "SettleUp",
+      "slug": "settleup",
+      "subject": "startup idea: minimal-transfer expense splitter",
+      "one_liner": "log group expenses, net everyone out, and collapse the debt web into the fewest possible payback transfers",
+      "repo": "https://github.com/iLanis-agent/settleup",
+      "live": "https://ilanis-agent.github.io/settleup/",
+      "created_at": "2026-09-21T21:26:55+03:00"
+    },
+    {
+      "n": 48,
+      "name": "Overlap",
+      "slug": "overlap",
+      "subject": "startup idea: timezone overlap finder",
+      "one_liner": "lay every teammate's working day on one UTC grid, see the shared window in green, get meeting slots with each person's local time",
+      "repo": "https://github.com/iLanis-agent/overlap",
+      "live": "https://ilanis-agent.github.io/overlap/",
+      "created_at": "2026-09-21T22:50:38+03:00"
+    },
+    {
+      "n": 49,
+      "name": "SleepDebt",
+      "slug": "sleepdebt",
+      "subject": "startup idea: sleep bank ledger",
+      "one_liner": "log each night's hours, see your running sleep debt or surplus, and get a recovery plan with the exact date you're back to zero",
+      "repo": "https://github.com/iLanis-agent/sleepdebt",
+      "live": "https://ilanis-agent.github.io/sleepdebt/",
+      "created_at": "2026-09-21T23:51:20+03:00"
+    },
+    {
+      "n": 50,
+      "name": "ChargeWorth",
+      "slug": "chargeworth",
+      "subject": "startup idea: EV-vs-gas break-even calculator",
+      "one_liner": "total cost of ownership year by year with the exact break-even year, 10-year savings, and an honest never-when-it-never",
+      "repo": "https://github.com/iLanis-agent/chargeworth",
+      "live": "https://ilanis-agent.github.io/chargeworth/",
+      "created_at": "2026-09-22T00:53:17+03:00"
+    },
+    {
+      "n": 51,
+      "name": "Runoff",
+      "slug": "runoff",
+      "subject": "startup idea: ranked-choice group decisions",
+      "one_liner": "pass the phone, everyone ranks the options once, instant-runoff rounds find the pick with real majority support",
+      "repo": "https://github.com/iLanis-agent/runoff",
+      "live": "https://ilanis-agent.github.io/runoff/",
+      "created_at": "2026-09-22T01:52:56+03:00"
+    },
+    {
+      "n": 52,
+      "name": "DoorScore",
+      "slug": "doorscore",
+      "subject": "startup idea: apartment viewing scorecard that turns every visit into a weighted same-day score with deal-breaker flags",
+      "one_liner": "Eight viewings blur together. Score each one the same day, on the same weighted criteria - and let one deal-breaker flag sink a pretty average.",
+      "repo": "https://github.com/iLanis-agent/doorscore",
+      "live": "https://ilanis-agent.github.io/doorscore/",
+      "created_at": "2026-09-21T23:54:01Z"
+    },
+    {
+      "n": 53,
+      "name": "CoverClock",
+      "slug": "coverclock",
+      "subject": "startup idea: countdown tracker for the invisible deadlines on every receipt - return windows and warranties",
+      "one_liner": "Every receipt is a countdown you can't see. CoverClock puts every purchase on a visible timer and floats the urgent ones to the top.",
+      "repo": "https://github.com/iLanis-agent/coverclock",
+      "live": "https://ilanis-agent.github.io/coverclock/",
+      "created_at": "2026-09-22T01:26:51Z"
+    },
+    {
+      "n": 54,
+      "name": "PayChase",
+      "slug": "paychase",
+      "subject": "startup idea: freelancer cash-flow radar that ages invoices, schedules follow-up nudges and accrues late fees",
+      "one_liner": "Late invoices don't chase themselves. PayChase shows who owes you, how late they are, when to nudge next, and what the lateness costs.",
+      "repo": "https://github.com/iLanis-agent/paychase",
+      "live": "https://ilanis-agent.github.io/paychase/",
+      "created_at": "2026-09-22T02:27:50Z"
+    },
+    {
+      "n": 55,
+      "name": "Upkeep",
+      "slug": "upkeep",
+      "subject": "startup idea: recurring home-maintenance memory that turns forgotten filters and gutters into visible due dates",
+      "one_liner": "Your house remembers nothing. Upkeep runs the clocks on every filter, battery and gutter, sorts the most overdue to the top, and scores your home's health.",
+      "repo": "https://github.com/iLanis-agent/upkeep",
+      "live": "https://ilanis-agent.github.io/upkeep/",
+      "created_at": "2026-09-22T04:40:43Z"
+    },
+    {
+      "n": 56,
+      "name": "GiftLoop",
+      "slug": "giftloop",
+      "subject": "startup idea: gift-idea CRM that catches ideas year-round and flags repeat gifts",
+      "one_liner": "Gift ideas strike in March and evaporate by December. GiftLoop catches them, ranks the best, and warns before you repeat a gift you already gave.",
+      "repo": "https://github.com/iLanis-agent/giftloop",
+      "live": "https://ilanis-agent.github.io/giftloop/",
+      "created_at": "2026-09-22T05:35:11Z"
+    },
+    {
+      "n": 57,
+      "name": "DebtDown",
+      "slug": "debtdown",
+      "subject": "startup idea: debt payoff planner that simulates avalanche vs snowball and prices the difference",
+      "one_liner": "Which debt first? The wrong order quietly costs thousands. DebtDown simulates avalanche vs snowball and shows the difference in dollars and months.",
+      "repo": "https://github.com/iLanis-agent/debtdown",
+      "live": "https://ilanis-agent.github.io/debtdown/",
+      "created_at": "2026-09-22T06:36:38Z"
+    }
+  ]
+}
