@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T17:19:16Z",
+  "updated_at": "2026-09-22T20:03:28Z",
   "apps": [
     {
       "n": 1,
@@ -660,6 +660,16 @@
       "repo": "https://github.com/iLanis-agent/fuellog",
       "live": "https://ilanis-agent.github.io/fuellog/",
       "created_at": "2026-09-22T17:19:16Z"
+    },
+    {
+      "n": 67,
+      "name": "BookLog",
+      "slug": "booklog",
+      "subject": "startup idea: honest reading pace and finish projections",
+      "one_liner": "Log the page you're on; get your real pace and the date you'll finish.",
+      "repo": "https://github.com/iLanis-agent/booklog",
+      "live": "https://ilanis-agent.github.io/booklog/",
+      "created_at": "2026-09-22T20:03:28Z"
     }
   ]
 }
