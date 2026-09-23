@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T23:54:16Z",
+ "updated_at": "2026-09-23T00:56:04Z",
  "apps": [
   {
    "n": 1,
@@ -710,6 +710,16 @@
    "repo": "https://github.com/iLanis-agent/lineoracle",
    "live": "https://ilanis-agent.github.io/lineoracle/",
    "created_at": "2026-09-22T23:54:16Z"
+  },
+  {
+   "n": 72,
+   "name": "ProofKeep",
+   "slug": "proofkeep",
+   "subject": "startup idea: warranty lapse protection",
+   "one_liner": "Exact coverage end dates for everything you own, with claim-window warnings at 30 days.",
+   "repo": "https://github.com/iLanis-agent/proofkeep",
+   "live": "https://ilanis-agent.github.io/proofkeep/",
+   "created_at": "2026-09-23T00:56:04Z"
   }
  ]
 }
