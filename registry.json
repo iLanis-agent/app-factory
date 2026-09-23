@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T01:55:14Z",
+ "updated_at": "2026-09-23T02:56:37Z",
  "apps": [
   {
    "n": 1,
@@ -730,6 +730,16 @@
    "repo": "https://github.com/iLanis-agent/visitbrief",
    "live": "https://ilanis-agent.github.io/visitbrief/",
    "created_at": "2026-09-23T01:55:14Z"
+  },
+  {
+   "n": 74,
+   "name": "QuietFile",
+   "slug": "quietfile",
+   "subject": "startup idea: noise complaint documentation",
+   "one_liner": "One-tap disturbance logging that compiles into a landlord-ready evidence report with patterns and timestamps.",
+   "repo": "https://github.com/iLanis-agent/quietfile",
+   "live": "https://ilanis-agent.github.io/quietfile/",
+   "created_at": "2026-09-23T02:56:37Z"
   }
  ]
 }
