@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T19:05:38.344003+00:00",
+  "updated_at": "2026-09-23T19:57:55.881859+00:00",
   "apps": [
     {
       "n": 1,
@@ -880,6 +880,16 @@
       "repo": "https://github.com/iLanis-agent/movebox",
       "live": "https://ilanis-agent.github.io/movebox/",
       "created_at": "2026-09-23T19:05:38.343948+00:00"
+    },
+    {
+      "n": 89,
+      "name": "ScopeGuard",
+      "slug": "scopeguard",
+      "subject": "startup idea: freelance scope-creep pricing",
+      "one_liner": "Logs out-of-scope change requests, prices the creep at your real rate, and writes the change-order email.",
+      "repo": "https://github.com/iLanis-agent/scopeguard",
+      "live": "https://ilanis-agent.github.io/scopeguard/",
+      "created_at": "2026-09-23T19:57:55.881785+00:00"
     }
   ]
 }
