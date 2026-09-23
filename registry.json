@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T20:58:06Z",
+  "updated_at": "2026-09-23T21:58:51Z",
   "apps": [
     {
       "n": 1,
@@ -900,6 +900,16 @@
       "repo": "https://github.com/iLanis-agent/tapercoach",
       "live": "https://ilanis-agent.github.io/tapercoach/",
       "created_at": "2026-09-23T20:58:06Z"
+    },
+    {
+      "n": 91,
+      "name": "ReplyRadar",
+      "slug": "replyradar",
+      "subject": "startup idea: event RSVP chasing",
+      "one_liner": "Track guest replies, see a realistic headcount band, and copy deadline-aware polite chase messages for the silent ones.",
+      "repo": "https://github.com/iLanis-agent/replyradar",
+      "live": "https://ilanis-agent.github.io/replyradar/",
+      "created_at": "2026-09-23T21:58:51Z"
     }
   ]
 }
