@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T06:00:21Z",
+ "updated_at": "2026-09-23T07:47:31Z",
  "apps": [
   {
    "n": 1,
@@ -770,6 +770,16 @@
    "repo": "https://github.com/iLanis-agent/eatfirst",
    "live": "https://ilanis-agent.github.io/eatfirst/",
    "created_at": "2026-09-23T06:00:21Z"
+  },
+  {
+   "n": 78,
+   "name": "SitSheet",
+   "slug": "sitsheet",
+   "subject": "startup idea: sitter handoff briefs",
+   "one_liner": "Keep your house profile once; print a clean sitter brief per trip with dates, gaps flagged.",
+   "repo": "https://github.com/iLanis-agent/sitsheet",
+   "live": "https://ilanis-agent.github.io/sitsheet/",
+   "created_at": "2026-09-23T07:47:31Z"
   }
  ]
 }
