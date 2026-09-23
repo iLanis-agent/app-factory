@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T04:57:49Z",
+ "updated_at": "2026-09-23T06:00:21Z",
  "apps": [
   {
    "n": 1,
@@ -760,6 +760,16 @@
    "repo": "https://github.com/iLanis-agent/coldsnap",
    "live": "https://ilanis-agent.github.io/coldsnap/",
    "created_at": "2026-09-23T04:57:49Z"
+  },
+  {
+   "n": 77,
+   "name": "EatFirst",
+   "slug": "eatfirst",
+   "subject": "startup idea: leftover safety tracking",
+   "one_liner": "Per-type safe windows for every leftover, ordered eat-first, with eat-today and toss banners.",
+   "repo": "https://github.com/iLanis-agent/eatfirst",
+   "live": "https://ilanis-agent.github.io/eatfirst/",
+   "created_at": "2026-09-23T06:00:21Z"
   }
  ]
 }
