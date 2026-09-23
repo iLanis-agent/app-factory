@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:52:56.766776+00:00",
+  "updated_at": "2026-09-23T13:13:38.155467+00:00",
   "apps": [
     {
       "n": 1,
@@ -820,6 +820,16 @@
       "repo": "https://github.com/iLanis-agent/depositproof",
       "live": "https://ilanis-agent.github.io/depositproof/",
       "created_at": "2026-09-23T11:52:56.766733+00:00"
+    },
+    {
+      "n": 83,
+      "name": "NameNest",
+      "slug": "namenest",
+      "subject": "startup idea: private mutual-match baby name shortlists",
+      "one_liner": "Two partners like baby names privately; only mutual matches are revealed, so vetoes never start a fight.",
+      "repo": "https://github.com/iLanis-agent/namenest",
+      "live": "https://ilanis-agent.github.io/namenest/",
+      "created_at": "2026-09-23T13:13:38.155385+00:00"
     }
   ]
 }
