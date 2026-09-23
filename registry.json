@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T02:56:37Z",
+ "updated_at": "2026-09-23T03:56:59Z",
  "apps": [
   {
    "n": 1,
@@ -740,6 +740,16 @@
    "repo": "https://github.com/iLanis-agent/quietfile",
    "live": "https://ilanis-agent.github.io/quietfile/",
    "created_at": "2026-09-23T02:56:37Z"
+  },
+  {
+   "n": 75,
+   "name": "SecondSpin",
+   "slug": "secondspin",
+   "subject": "startup idea: declutter sell-vs-keep decisions",
+   "one_liner": "Category depreciation curves price your stuff and give the verdict: sell soon, keep, or donate.",
+   "repo": "https://github.com/iLanis-agent/secondspin",
+   "live": "https://ilanis-agent.github.io/secondspin/",
+   "created_at": "2026-09-23T03:56:59Z"
   }
  ]
 }
