@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T10:50:28.869630+00:00",
+  "updated_at": "2026-09-23T11:52:56.766776+00:00",
   "apps": [
     {
       "n": 1,
@@ -810,6 +810,16 @@
       "repo": "https://github.com/iLanis-agent/lendloop",
       "live": "https://ilanis-agent.github.io/lendloop/",
       "created_at": "2026-09-23T10:50:28.869593+00:00"
+    },
+    {
+      "n": 82,
+      "name": "DepositProof",
+      "slug": "depositproof",
+      "subject": "startup idea: rental deposit evidence trail",
+      "one_liner": "Timestamped move-out condition log with the deposit-return deadline counting down, and a landlord-ready report.",
+      "repo": "https://github.com/iLanis-agent/depositproof",
+      "live": "https://ilanis-agent.github.io/depositproof/",
+      "created_at": "2026-09-23T11:52:56.766733+00:00"
     }
   ]
 }
