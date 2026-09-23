@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T21:58:51Z",
+  "updated_at": "2026-09-23T22:59:50Z",
   "apps": [
     {
       "n": 1,
@@ -910,6 +910,16 @@
       "repo": "https://github.com/iLanis-agent/replyradar",
       "live": "https://ilanis-agent.github.io/replyradar/",
       "created_at": "2026-09-23T21:58:51Z"
+    },
+    {
+      "n": 92,
+      "name": "StarDrill",
+      "slug": "stardrill",
+      "subject": "startup idea: STAR interview rehearsal pacing",
+      "one_liner": "Pace behavioral answers through timed STAR segments, score each rep on structure and clarity, and map your coverage across a 24-question bank.",
+      "repo": "https://github.com/iLanis-agent/stardrill",
+      "live": "https://ilanis-agent.github.io/stardrill/",
+      "created_at": "2026-09-23T22:59:50Z"
     }
   ]
 }
