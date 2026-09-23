@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T07:47:31Z",
+ "updated_at": "2026-09-23T08:48:06Z",
  "apps": [
   {
    "n": 1,
@@ -780,6 +780,16 @@
    "repo": "https://github.com/iLanis-agent/sitsheet",
    "live": "https://ilanis-agent.github.io/sitsheet/",
    "created_at": "2026-09-23T07:47:31Z"
+  },
+  {
+   "n": 79,
+   "name": "RenewCue",
+   "slug": "renewcue",
+   "subject": "startup idea: document renewal lead-time tracking",
+   "one_liner": "Per-type renewal lead times (passport 9mo, visa 3mo) flag renew-now before the window closes.",
+   "repo": "https://github.com/iLanis-agent/renewcue",
+   "live": "https://ilanis-agent.github.io/renewcue/",
+   "created_at": "2026-09-23T08:48:06Z"
   }
  ]
 }
