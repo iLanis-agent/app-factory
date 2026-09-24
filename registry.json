@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T20:17:31Z",
+  "updated_at": "2026-09-24T21:18:10Z",
   "apps": [
     {
       "n": 1,
@@ -1120,6 +1120,16 @@
       "repo": "https://github.com/iLanis-agent/offerlane",
       "live": "https://ilanis-agent.github.io/offerlane/",
       "created_at": "2026-09-24T20:17:31Z"
+    },
+    {
+      "n": 113,
+      "name": "SwimPace",
+      "slug": "swimpace",
+      "subject": "startup idea: swim training pace zones",
+      "one_liner": "Two timed swims give your critical swim speed; SwimPace turns it into four training zones and a workout with clock-readable send-off times.",
+      "repo": "https://github.com/iLanis-agent/swimpace",
+      "live": "https://ilanis-agent.github.io/swimpace/",
+      "created_at": "2026-09-24T21:18:10Z"
     }
   ]
 }
