@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:10:28Z",
+  "updated_at": "2026-09-24T13:11:35Z",
   "apps": [
     {
       "n": 1,
@@ -1040,6 +1040,16 @@
       "repo": "https://github.com/iLanis-agent/moodline",
       "live": "https://ilanis-agent.github.io/moodline/",
       "created_at": "2026-09-24T12:10:28Z"
+    },
+    {
+      "n": 105,
+      "name": "BreathPacer",
+      "slug": "breathpacer",
+      "subject": "startup idea: guided breathing pacer",
+      "one_liner": "Four proven breathing patterns with an animated pacer that keeps the count - minutes become cycles, sessions become a streak.",
+      "repo": "https://github.com/iLanis-agent/breathpacer",
+      "live": "https://ilanis-agent.github.io/breathpacer/",
+      "created_at": "2026-09-24T13:11:35Z"
     }
   ]
 }
