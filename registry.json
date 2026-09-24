@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:11:35Z",
+  "updated_at": "2026-09-24T14:12:18Z",
   "apps": [
     {
       "n": 1,
@@ -1050,6 +1050,16 @@
       "repo": "https://github.com/iLanis-agent/breathpacer",
       "live": "https://ilanis-agent.github.io/breathpacer/",
       "created_at": "2026-09-24T13:11:35Z"
+    },
+    {
+      "n": 106,
+      "name": "NapWindow",
+      "slug": "napwindow",
+      "subject": "startup idea: baby nap wake-window planning",
+      "one_liner": "Age-based wake windows turn this morning's wake-up time into today's nap schedule and bedtime, with a two-tap nap log that shows the rhythm.",
+      "repo": "https://github.com/iLanis-agent/napwindow",
+      "live": "https://ilanis-agent.github.io/napwindow/",
+      "created_at": "2026-09-24T14:12:18Z"
     }
   ]
 }
