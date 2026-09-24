@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:12:18Z",
+  "updated_at": "2026-09-24T15:13:24Z",
   "apps": [
     {
       "n": 1,
@@ -1060,6 +1060,16 @@
       "repo": "https://github.com/iLanis-agent/napwindow",
       "live": "https://ilanis-agent.github.io/napwindow/",
       "created_at": "2026-09-24T14:12:18Z"
+    },
+    {
+      "n": 107,
+      "name": "JetShift",
+      "slug": "jetshift",
+      "subject": "startup idea: jet lag shift planning",
+      "one_liner": "Real timezone math picks the shorter shift direction, then plans pre-flight bedtime moves and post-arrival light exposure, day by day.",
+      "repo": "https://github.com/iLanis-agent/jetshift",
+      "live": "https://ilanis-agent.github.io/jetshift/",
+      "created_at": "2026-09-24T15:13:24Z"
     }
   ]
 }
