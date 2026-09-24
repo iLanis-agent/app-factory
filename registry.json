@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T00:00:43Z",
+  "updated_at": "2026-09-24T01:01:12Z",
   "apps": [
     {
       "n": 1,
@@ -930,6 +930,16 @@
       "repo": "https://github.com/iLanis-agent/delaypay",
       "live": "https://ilanis-agent.github.io/delaypay/",
       "created_at": "2026-09-24T00:00:43Z"
+    },
+    {
+      "n": 94,
+      "name": "PayAnchor",
+      "slug": "payanchor",
+      "subject": "startup idea: salary negotiation preparation",
+      "one_liner": "Turn target, market range and leverage into anchor/target/floor numbers, scenario counters, and word-for-word negotiation scripts.",
+      "repo": "https://github.com/iLanis-agent/payanchor",
+      "live": "https://ilanis-agent.github.io/payanchor/",
+      "created_at": "2026-09-24T01:01:12Z"
     }
   ]
 }
