@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T22:19:08Z",
+ "updated_at": "2026-09-24T23:20:04Z",
  "apps": [
   {
    "n": 1,
@@ -1140,6 +1140,16 @@
    "repo": "https://github.com/iLanis-agent/platedline",
    "live": "https://ilanis-agent.github.io/platedline/",
    "created_at": "2026-09-24T22:19:08Z"
+  },
+  {
+   "n": 115,
+   "name": "DoseClock",
+   "slug": "doseclock",
+   "subject": "startup idea: medication dose spacing into real clock times",
+   "one_liner": "Turns \"take N times a day\" into exact clock times spread across your waking window, with gap enforcement and mealtime snapping.",
+   "repo": "https://github.com/iLanis-agent/doseclock",
+   "live": "https://ilanis-agent.github.io/doseclock/",
+   "created_at": "2026-09-24T23:20:04Z"
   }
  ]
 }
