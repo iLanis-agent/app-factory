@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T16:14:24Z",
+  "updated_at": "2026-09-24T17:15:08Z",
   "apps": [
     {
       "n": 1,
@@ -1080,6 +1080,16 @@
       "repo": "https://github.com/iLanis-agent/seatcraft",
       "live": "https://ilanis-agent.github.io/seatcraft/",
       "created_at": "2026-09-24T16:14:24Z"
+    },
+    {
+      "n": 109,
+      "name": "TaxStash",
+      "slug": "taxstash",
+      "subject": "startup idea: freelance tax set-aside pacing",
+      "one_liner": "Every payment gets split into yours and the taxman's, bucketed into the real IRS quarter schedule, with a safe-to-spend number and a next-due countdown.",
+      "repo": "https://github.com/iLanis-agent/taxstash",
+      "live": "https://ilanis-agent.github.io/taxstash/",
+      "created_at": "2026-09-24T17:15:08Z"
     }
   ]
 }
