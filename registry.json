@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T15:13:24Z",
+  "updated_at": "2026-09-24T16:14:24Z",
   "apps": [
     {
       "n": 1,
@@ -1070,6 +1070,16 @@
       "repo": "https://github.com/iLanis-agent/jetshift",
       "live": "https://ilanis-agent.github.io/jetshift/",
       "created_at": "2026-09-24T15:13:24Z"
+    },
+    {
+      "n": 108,
+      "name": "SeatCraft",
+      "slug": "seatcraft",
+      "subject": "startup idea: event seating chart solving",
+      "one_liner": "Paste the guest list, mark must-sit-together and keep-apart pairs, and a scored local search builds a chart that keeps groups together and feuds apart.",
+      "repo": "https://github.com/iLanis-agent/seatcraft",
+      "live": "https://ilanis-agent.github.io/seatcraft/",
+      "created_at": "2026-09-24T16:14:24Z"
     }
   ]
 }
