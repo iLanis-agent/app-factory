@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T06:05:36Z",
+  "updated_at": "2026-09-24T07:06:16Z",
   "apps": [
     {
       "n": 1,
@@ -990,6 +990,16 @@
       "repo": "https://github.com/iLanis-agent/spfclock",
       "live": "https://ilanis-agent.github.io/spfclock/",
       "created_at": "2026-09-24T06:05:36Z"
+    },
+    {
+      "n": 100,
+      "name": "SipPace",
+      "slug": "sippace",
+      "subject": "startup idea: hydration pacing coach",
+      "one_liner": "Not just counting - pacing: a weight-based target spread across your waking hours, with expected-by-now status and one-tap pours.",
+      "repo": "https://github.com/iLanis-agent/sippace",
+      "live": "https://ilanis-agent.github.io/sippace/",
+      "created_at": "2026-09-24T07:06:16Z"
     }
   ]
 }
