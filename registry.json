@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T10:08:47Z",
+  "updated_at": "2026-09-24T11:09:44Z",
   "apps": [
     {
       "n": 1,
@@ -1020,6 +1020,16 @@
       "repo": "https://github.com/iLanis-agent/winddown",
       "live": "https://ilanis-agent.github.io/winddown/",
       "created_at": "2026-09-24T10:08:47Z"
+    },
+    {
+      "n": 103,
+      "name": "CramPlan",
+      "slug": "cramplan",
+      "subject": "startup idea: exam study load balancer",
+      "one_liner": "Rate every topic by confidence and CramPlan spends your remaining days on the weak ones - weighted allocation, daily mixed plan, readiness score.",
+      "repo": "https://github.com/iLanis-agent/cramplan",
+      "live": "https://ilanis-agent.github.io/cramplan/",
+      "created_at": "2026-09-24T11:09:44Z"
     }
   ]
 }
