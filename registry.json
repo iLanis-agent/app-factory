@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T08:07:09Z",
+  "updated_at": "2026-09-24T10:08:47Z",
   "apps": [
     {
       "n": 1,
@@ -1010,6 +1010,16 @@
       "repo": "https://github.com/iLanis-agent/fastwindow",
       "live": "https://ilanis-agent.github.io/fastwindow/",
       "created_at": "2026-09-24T08:07:09Z"
+    },
+    {
+      "n": 102,
+      "name": "WindDown",
+      "slug": "winddown",
+      "subject": "startup idea: pre-sleep wind-down scheduling",
+      "one_liner": "Set your bedtime and the hour before it becomes a scheduled evening - exact clock times, a live now-step, and a night streak.",
+      "repo": "https://github.com/iLanis-agent/winddown",
+      "live": "https://ilanis-agent.github.io/winddown/",
+      "created_at": "2026-09-24T10:08:47Z"
     }
   ]
 }
