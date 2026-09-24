@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:15:08Z",
+  "updated_at": "2026-09-24T18:15:53Z",
   "apps": [
     {
       "n": 1,
@@ -1090,6 +1090,16 @@
       "repo": "https://github.com/iLanis-agent/taxstash",
       "live": "https://ilanis-agent.github.io/taxstash/",
       "created_at": "2026-09-24T17:15:08Z"
+    },
+    {
+      "n": 110,
+      "name": "MileMinder",
+      "slug": "mileminder",
+      "subject": "startup idea: car maintenance interval tracking",
+      "one_liner": "Every service item runs on two clocks - kilometers and months. MileMinder watches both, flags whichever hits first, and projects the date from how much you drive.",
+      "repo": "https://github.com/iLanis-agent/mileminder",
+      "live": "https://ilanis-agent.github.io/mileminder/",
+      "created_at": "2026-09-24T18:15:53Z"
     }
   ]
 }
