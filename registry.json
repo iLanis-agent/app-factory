@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:09:44Z",
+  "updated_at": "2026-09-24T12:10:28Z",
   "apps": [
     {
       "n": 1,
@@ -1030,6 +1030,16 @@
       "repo": "https://github.com/iLanis-agent/cramplan",
       "live": "https://ilanis-agent.github.io/cramplan/",
       "created_at": "2026-09-24T11:09:44Z"
+    },
+    {
+      "n": 104,
+      "name": "Moodline",
+      "slug": "moodline",
+      "subject": "startup idea: mood pattern mirror",
+      "one_liner": "Ten-second daily check-ins turn into weekday averages, a week-over-week trend, and proof of which day is actually your hardest.",
+      "repo": "https://github.com/iLanis-agent/moodline",
+      "live": "https://ilanis-agent.github.io/moodline/",
+      "created_at": "2026-09-24T12:10:28Z"
     }
   ]
 }
