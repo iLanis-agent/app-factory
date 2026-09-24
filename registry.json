@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T18:15:53Z",
+  "updated_at": "2026-09-24T19:16:50Z",
   "apps": [
     {
       "n": 1,
@@ -1100,6 +1100,16 @@
       "repo": "https://github.com/iLanis-agent/mileminder",
       "live": "https://ilanis-agent.github.io/mileminder/",
       "created_at": "2026-09-24T18:15:53Z"
+    },
+    {
+      "n": 111,
+      "name": "ChargePlan",
+      "slug": "chargeplan",
+      "subject": "startup idea: EV off-peak charging scheduling",
+      "one_liner": "Battery, target and morning deadline become exact start and stop times inside the cheap window - taper above 80% priced in, and an honest verdict when it won't fit.",
+      "repo": "https://github.com/iLanis-agent/chargeplan",
+      "live": "https://ilanis-agent.github.io/chargeplan/",
+      "created_at": "2026-09-24T19:16:50Z"
     }
   ]
 }
