@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T19:16:50Z",
+  "updated_at": "2026-09-24T20:17:31Z",
   "apps": [
     {
       "n": 1,
@@ -1110,6 +1110,16 @@
       "repo": "https://github.com/iLanis-agent/chargeplan",
       "live": "https://ilanis-agent.github.io/chargeplan/",
       "created_at": "2026-09-24T19:16:50Z"
+    },
+    {
+      "n": 112,
+      "name": "OfferLane",
+      "slug": "offerlane",
+      "subject": "startup idea: job application pipeline tracking",
+      "one_liner": "Every application is a lane that moves one stage at a time; follow-up nudges float silent companies to the top, and funnel stats show where the search leaks.",
+      "repo": "https://github.com/iLanis-agent/offerlane",
+      "live": "https://ilanis-agent.github.io/offerlane/",
+      "created_at": "2026-09-24T20:17:31Z"
     }
   ]
 }
