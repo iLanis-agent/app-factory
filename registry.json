@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T03:03:09Z",
+  "updated_at": "2026-09-24T04:04:15Z",
   "apps": [
     {
       "n": 1,
@@ -960,6 +960,16 @@
       "repo": "https://github.com/iLanis-agent/kidbank",
       "live": "https://ilanis-agent.github.io/kidbank/",
       "created_at": "2026-09-24T03:03:09Z"
+    },
+    {
+      "n": 97,
+      "name": "DonorClock",
+      "slug": "donorclock",
+      "subject": "startup idea: blood donation eligibility tracking",
+      "one_liner": "Per-type donation intervals and rolling annual caps, exact next-eligible dates, lifetime liters and impact, and a year streak.",
+      "repo": "https://github.com/iLanis-agent/donorclock",
+      "live": "https://ilanis-agent.github.io/donorclock/",
+      "created_at": "2026-09-24T04:04:15Z"
     }
   ]
 }
