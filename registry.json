@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T07:06:16Z",
+  "updated_at": "2026-09-24T08:07:09Z",
   "apps": [
     {
       "n": 1,
@@ -1000,6 +1000,16 @@
       "repo": "https://github.com/iLanis-agent/sippace",
       "live": "https://ilanis-agent.github.io/sippace/",
       "created_at": "2026-09-24T07:06:16Z"
+    },
+    {
+      "n": 101,
+      "name": "FastWindow",
+      "slug": "fastwindow",
+      "subject": "startup idea: intermittent fasting window timer",
+      "one_liner": "Five protocols, one honest countdown - hours left, window-open time, overtime credit, and a streak that forgives today.",
+      "repo": "https://github.com/iLanis-agent/fastwindow",
+      "live": "https://ilanis-agent.github.io/fastwindow/",
+      "created_at": "2026-09-24T08:07:09Z"
     }
   ]
 }
