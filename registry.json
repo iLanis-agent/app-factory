@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T05:05:52Z",
+  "updated_at": "2026-09-24T06:05:36Z",
   "apps": [
     {
       "n": 1,
@@ -980,6 +980,16 @@
       "repo": "https://github.com/iLanis-agent/subscrub",
       "live": "https://ilanis-agent.github.io/subscrub/",
       "created_at": "2026-09-24T05:05:52Z"
+    },
+    {
+      "n": 99,
+      "name": "SPFClock",
+      "slug": "spfclock",
+      "subject": "startup idea: sunscreen reapply and safe-exposure timing",
+      "one_liner": "Skin type x SPF x activity becomes a real reapply countdown - 2-hour dry cap, 40 minutes swimming - with the day's protected hours tallied.",
+      "repo": "https://github.com/iLanis-agent/spfclock",
+      "live": "https://ilanis-agent.github.io/spfclock/",
+      "created_at": "2026-09-24T06:05:36Z"
     }
   ]
 }
