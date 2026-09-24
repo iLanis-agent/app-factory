@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T04:04:15Z",
+  "updated_at": "2026-09-24T05:05:52Z",
   "apps": [
     {
       "n": 1,
@@ -970,6 +970,16 @@
       "repo": "https://github.com/iLanis-agent/donorclock",
       "live": "https://ilanis-agent.github.io/donorclock/",
       "created_at": "2026-09-24T04:04:15Z"
+    },
+    {
+      "n": 98,
+      "name": "SubScrub",
+      "slug": "subscrub",
+      "subject": "startup idea: subscription audit and cut simulator",
+      "one_liner": "Normalize every billing cycle into one honest burn, score each sub by cost per use, and simulate what you save by cutting the dead weight.",
+      "repo": "https://github.com/iLanis-agent/subscrub",
+      "live": "https://ilanis-agent.github.io/subscrub/",
+      "created_at": "2026-09-24T05:05:52Z"
     }
   ]
 }
