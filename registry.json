@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T01:21:40Z",
+ "updated_at": "2026-09-25T02:22:21Z",
  "apps": [
   {
    "n": 1,
@@ -1170,6 +1170,16 @@
    "repo": "https://github.com/iLanis-agent/phantomload",
    "live": "https://ilanis-agent.github.io/phantomload/",
    "created_at": "2026-09-25T01:21:40Z"
+  },
+  {
+   "n": 118,
+   "name": "TouchBase",
+   "slug": "touchbase",
+   "subject": "startup idea: keep-in-touch cadence tracker",
+   "one_liner": "Per-person contact cadences and a ranked \"reach out next\" list, so staying close is a habit not a guilt trip.",
+   "repo": "https://github.com/iLanis-agent/touchbase",
+   "live": "https://ilanis-agent.github.io/touchbase/",
+   "created_at": "2026-09-25T02:22:21Z"
   }
  ]
 }
