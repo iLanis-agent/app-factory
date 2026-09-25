@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T06:26:12.131Z",
+  "updated_at": "2026-09-25T07:26:36.313Z",
   "apps": [
     {
       "n": 1,
@@ -1220,6 +1220,16 @@
       "repo": "https://github.com/iLanis-agent/flyordrive",
       "live": "https://ilanis-agent.github.io/flyordrive/",
       "created_at": "2026-09-25T06:26:12.131Z"
+    },
+    {
+      "n": 123,
+      "name": "TrueWage",
+      "slug": "truewage",
+      "subject": "startup idea: real hourly wage reckoner - after-tax income minus work costs divided by every hour given including commute and unpaid overtime, with offer-vs-offer comparison",
+      "one_liner": "Your salary is not your wage - price the commute, the overtime and the work costs, then compare offers on the hour that matters.",
+      "repo": "https://github.com/iLanis-agent/truewage",
+      "live": "https://ilanis-agent.github.io/truewage/",
+      "created_at": "2026-09-25T07:26:36.313Z"
     }
   ]
 }
