@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T00:20:53Z",
+ "updated_at": "2026-09-25T01:21:40Z",
  "apps": [
   {
    "n": 1,
@@ -1160,6 +1160,16 @@
    "repo": "https://github.com/iLanis-agent/setbackcalc",
    "live": "https://ilanis-agent.github.io/setbackcalc/",
    "created_at": "2026-09-25T00:20:53Z"
+  },
+  {
+   "n": 117,
+   "name": "PhantomLoad",
+   "slug": "phantomload",
+   "subject": "startup idea: standby-power vampire audit",
+   "one_liner": "Prices every always-on device per year, splits out the pure standby phantom share, and ranks the worst offenders.",
+   "repo": "https://github.com/iLanis-agent/phantomload",
+   "live": "https://ilanis-agent.github.io/phantomload/",
+   "created_at": "2026-09-25T01:21:40Z"
   }
  ]
 }
