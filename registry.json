@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T11:30:01.574Z",
+  "updated_at": "2026-09-25T12:30:49.075Z",
   "apps": [
     {
       "n": 1,
@@ -1270,6 +1270,16 @@
       "repo": "https://github.com/iLanis-agent/tiermath",
       "live": "https://ilanis-agent.github.io/tiermath/",
       "created_at": "2026-09-25T11:30:01.574Z"
+    },
+    {
+      "n": 128,
+      "name": "DeductMath",
+      "slug": "deductmath",
+      "subject": "startup idea: insurance plan chooser - expected cost of high vs low deductible at your real claim odds, with break-even probability and worst-case years",
+      "one_liner": "Save $500 a year on premiums; risk $2,000 when it rains - deal?",
+      "repo": "https://github.com/iLanis-agent/deductmath",
+      "live": "https://ilanis-agent.github.io/deductmath/",
+      "created_at": "2026-09-25T12:30:49.075Z"
     }
   ]
 }
