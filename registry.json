@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T10:29:19.961Z",
+  "updated_at": "2026-09-25T11:30:01.574Z",
   "apps": [
     {
       "n": 1,
@@ -1260,6 +1260,16 @@
       "repo": "https://github.com/iLanis-agent/paintmath",
       "live": "https://ilanis-agent.github.io/paintmath/",
       "created_at": "2026-09-25T10:29:19.961Z"
+    },
+    {
+      "n": 127,
+      "name": "TierMath",
+      "slug": "tiermath",
+      "subject": "startup idea: loyalty-status chase pricer - loyalty tax plus mattress runs versus perks valued on nights actually used, with a break-even verdict",
+      "one_liner": "Gold status costs $900 in worse bookings and pays back $340 - want it?",
+      "repo": "https://github.com/iLanis-agent/tiermath",
+      "live": "https://ilanis-agent.github.io/tiermath/",
+      "created_at": "2026-09-25T11:30:01.574Z"
     }
   ]
 }
