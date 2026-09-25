@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T09:28:24.917Z",
+  "updated_at": "2026-09-25T10:29:19.961Z",
   "apps": [
     {
       "n": 1,
@@ -1250,6 +1250,16 @@
       "repo": "https://github.com/iLanis-agent/roomsplit",
       "live": "https://ilanis-agent.github.io/roomsplit/",
       "created_at": "2026-09-25T09:28:24.917Z"
+    },
+    {
+      "n": 126,
+      "name": "PaintMath",
+      "slug": "paintmath",
+      "subject": "startup idea: paint estimator that prices the room honestly and solves the cheapest can-size combination instead of rounding up",
+      "one_liner": "You need 7.3 liters; the shelf sells 2.5, 5 and 10 - what do you actually buy?",
+      "repo": "https://github.com/iLanis-agent/paintmath",
+      "live": "https://ilanis-agent.github.io/paintmath/",
+      "created_at": "2026-09-25T10:29:19.961Z"
     }
   ]
 }
