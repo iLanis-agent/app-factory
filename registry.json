@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T02:22:21Z",
+ "updated_at": "2026-09-25T03:23:16Z",
  "apps": [
   {
    "n": 1,
@@ -1180,6 +1180,16 @@
    "repo": "https://github.com/iLanis-agent/touchbase",
    "live": "https://ilanis-agent.github.io/touchbase/",
    "created_at": "2026-09-25T02:22:21Z"
+  },
+  {
+   "n": 119,
+   "name": "DecisionLog",
+   "slug": "decisionlog",
+   "subject": "startup idea: decision journal with calibration scoring",
+   "one_liner": "Write down the decision, your prediction and confidence; grade it on the review date and read your overconfidence gap and Brier score.",
+   "repo": "https://github.com/iLanis-agent/decisionlog",
+   "live": "https://ilanis-agent.github.io/decisionlog/",
+   "created_at": "2026-09-25T03:23:16Z"
   }
  ]
 }
