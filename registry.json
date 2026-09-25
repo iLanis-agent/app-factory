@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T03:23:16Z",
+ "updated_at": "2026-09-25T04:24:16Z",
  "apps": [
   {
    "n": 1,
@@ -1190,6 +1190,16 @@
    "repo": "https://github.com/iLanis-agent/decisionlog",
    "live": "https://ilanis-agent.github.io/decisionlog/",
    "created_at": "2026-09-25T03:23:16Z"
+  },
+  {
+   "n": 120,
+   "name": "GoBag",
+   "slug": "gobag",
+   "subject": "startup idea: 72-hour emergency kit builder with expiry tracking",
+   "one_liner": "Household-scaled 72-hour kit list, a readiness score, and an expiry radar for the water, food and batteries everyone forgets.",
+   "repo": "https://github.com/iLanis-agent/gobag",
+   "live": "https://ilanis-agent.github.io/gobag/",
+   "created_at": "2026-09-25T04:24:16Z"
   }
  ]
 }
