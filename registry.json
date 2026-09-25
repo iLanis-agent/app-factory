@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T04:24:16Z",
+ "updated_at": "2026-09-25T05:25:15Z",
  "apps": [
   {
    "n": 1,
@@ -1200,6 +1200,16 @@
    "repo": "https://github.com/iLanis-agent/gobag",
    "live": "https://ilanis-agent.github.io/gobag/",
    "created_at": "2026-09-25T04:24:16Z"
+  },
+  {
+   "n": 121,
+   "name": "RentOrBuy",
+   "slug": "rentorbuy",
+   "subject": "startup idea: rent-vs-buy net worth simulator",
+   "one_liner": "Simulates both net worths year by year - equity and appreciation vs the invested down payment and monthly savings - and shows the crossover year.",
+   "repo": "https://github.com/iLanis-agent/rentorbuy",
+   "live": "https://ilanis-agent.github.io/rentorbuy/",
+   "created_at": "2026-09-25T05:25:15Z"
   }
  ]
 }
