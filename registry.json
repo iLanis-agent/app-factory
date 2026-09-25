@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T23:20:04Z",
+ "updated_at": "2026-09-25T00:20:53Z",
  "apps": [
   {
    "n": 1,
@@ -1150,6 +1150,16 @@
    "repo": "https://github.com/iLanis-agent/doseclock",
    "live": "https://ilanis-agent.github.io/doseclock/",
    "created_at": "2026-09-24T23:20:04Z"
+  },
+  {
+   "n": 116,
+   "name": "SetbackCalc",
+   "slug": "setbackcalc",
+   "subject": "startup idea: thermostat setback savings pricing",
+   "one_liner": "Prices your thermostat setback in dollars and CO2 using the physics that heating energy tracks the indoor-outdoor temperature gap.",
+   "repo": "https://github.com/iLanis-agent/setbackcalc",
+   "live": "https://ilanis-agent.github.io/setbackcalc/",
+   "created_at": "2026-09-25T00:20:53Z"
   }
  ]
 }
