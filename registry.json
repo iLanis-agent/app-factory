@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T14:32:48.983Z",
+  "updated_at": "2026-09-25T15:34:24.751Z",
   "apps": [
     {
       "n": 1,
@@ -1300,6 +1300,16 @@
       "repo": "https://github.com/iLanis-agent/pawprice",
       "live": "https://ilanis-agent.github.io/pawprice/",
       "created_at": "2026-09-25T14:32:48.983Z"
+    },
+    {
+      "n": 131,
+      "name": "SolarPay",
+      "slug": "solarpay",
+      "subject": "startup idea: honest solar payback pricer",
+      "one_liner": "Net cost after incentives, real production with panel fade, savings as your rate climbs - and the exact year the roof pays you back.",
+      "repo": "https://github.com/iLanis-agent/solarpay",
+      "live": "https://ilanis-agent.github.io/solarpay/",
+      "created_at": "2026-09-25T15:34:24.751Z"
     }
   ]
 }
