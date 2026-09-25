@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T15:34:24.751Z",
+  "updated_at": "2026-09-25T16:35:08.549Z",
   "apps": [
     {
       "n": 1,
@@ -1310,6 +1310,16 @@
       "repo": "https://github.com/iLanis-agent/solarpay",
       "live": "https://ilanis-agent.github.io/solarpay/",
       "created_at": "2026-09-25T15:34:24.751Z"
+    },
+    {
+      "n": 132,
+      "name": "BoxFit",
+      "slug": "boxfit",
+      "subject": "startup idea: cheapest-box shipping pricer with dimensional-weight trap detection",
+      "one_liner": "Your 3 lb box bills as 56 - dim-weight math per carrier, flat-rate rotation fit, and the cheapest honest way to ship it.",
+      "repo": "https://github.com/iLanis-agent/boxfit",
+      "live": "https://ilanis-agent.github.io/boxfit/",
+      "created_at": "2026-09-25T16:35:08.549Z"
     }
   ]
 }
