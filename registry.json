@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T08:27:41.281Z",
+  "updated_at": "2026-09-25T09:28:24.917Z",
   "apps": [
     {
       "n": 1,
@@ -1240,6 +1240,16 @@
       "repo": "https://github.com/iLanis-agent/carryon",
       "live": "https://ilanis-agent.github.io/carryon/",
       "created_at": "2026-09-25T08:27:41.281Z"
+    },
+    {
+      "n": 125,
+      "name": "RoomSplit",
+      "slug": "roomsplit",
+      "subject": "startup idea: fair rent division for unequal rooms - size plus feature premiums set each room's share, with exact rounding and the delta versus an even split",
+      "one_liner": "The 9 sqm room should not cost what the 18 sqm room with a bathroom costs.",
+      "repo": "https://github.com/iLanis-agent/roomsplit",
+      "live": "https://ilanis-agent.github.io/roomsplit/",
+      "created_at": "2026-09-25T09:28:24.917Z"
     }
   ]
 }
