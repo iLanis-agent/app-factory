@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T16:35:08.549Z",
+  "updated_at": "2026-09-25T17:35:35.326Z",
   "apps": [
     {
       "n": 1,
@@ -1320,6 +1320,16 @@
       "repo": "https://github.com/iLanis-agent/boxfit",
       "live": "https://ilanis-agent.github.io/boxfit/",
       "created_at": "2026-09-25T16:35:08.549Z"
+    },
+    {
+      "n": 133,
+      "name": "LayoffMath",
+      "slug": "layoffmath",
+      "subject": "startup idea: layoff runway calculator with the unemployment kink",
+      "one_liner": "Severance, benefits, the real burn - exactly how many months the money lasts, and the monthly cut that survives the job hunt.",
+      "repo": "https://github.com/iLanis-agent/layoffmath",
+      "live": "https://ilanis-agent.github.io/layoffmath/",
+      "created_at": "2026-09-25T17:35:35.326Z"
     }
   ]
 }
