@@ -1,1215 +1,1225 @@
 {
- "updated_at": "2026-09-25T05:25:15Z",
- "apps": [
-  {
-   "n": 1,
-   "name": "Golden Hour",
-   "slug": "golden-hour",
-   "subject": "photography / astronomy",
-   "one_liner": "Live sun tracker that counts down to today's golden hour and blue hour for your exact spot.",
-   "repo": "https://github.com/iLanis-agent/golden-hour",
-   "live": "https://ilanis-agent.github.io/golden-hour/",
-   "created_at": "2026-09-19T20:15:00+03:00"
-  },
-  {
-   "n": 2,
-   "name": "Drift",
-   "slug": "drift",
-   "subject": "focus / ambient sound",
-   "one_liner": "Ambient focus mixer - rain, thunder, wind, fire and waves, all synthesized live in your browser, with a sleep-timer fade-out.",
-   "repo": "https://github.com/iLanis-agent/drift",
-   "live": "https://ilanis-agent.github.io/drift/",
-   "created_at": "2026-09-19T21:05:00+03:00"
-  },
-  {
-   "n": 3,
-   "name": "Flag Rush",
-   "slug": "flag-rush",
-   "subject": "geography / trivia",
-   "one_liner": "The 60-second flag quiz - name as many world flags as you can, streaks multiply your score.",
-   "repo": "https://github.com/iLanis-agent/flag-rush",
-   "live": "https://ilanis-agent.github.io/flag-rush/",
-   "created_at": "2026-09-19T22:05:00+03:00"
-  },
-  {
-   "n": 4,
-   "name": "Pixel Forge",
-   "slug": "pixel-forge",
-   "subject": "art / creativity",
-   "one_liner": "A pocket pixel art studio - pencil, fill, mirror mode, 32-color palette, and crisp PNG export, all in the browser.",
-   "repo": "https://github.com/iLanis-agent/pixel-forge",
-   "live": "https://ilanis-agent.github.io/pixel-forge/",
-   "created_at": "2026-09-19T23:05:00+03:00"
-  },
-  {
-   "n": 5,
-   "name": "Chord Wheel",
-   "slug": "chord-wheel",
-   "subject": "music theory",
-   "one_liner": "An interactive circle of fifths you can hear - pick a key, play its diatonic chords, and build progressions.",
-   "repo": "https://github.com/iLanis-agent/chord-wheel",
-   "live": "https://ilanis-agent.github.io/chord-wheel/",
-   "created_at": "2026-09-20T00:06:00+03:00"
-  },
-  {
-   "n": 6,
-   "name": "Orbit Lab",
-   "slug": "orbit-lab",
-   "subject": "physics / space",
-   "one_liner": "A real gravity sandbox - drag to launch a satellite and find the velocity that closes a stable orbit.",
-   "repo": "https://github.com/iLanis-agent/orbit-lab",
-   "live": "https://ilanis-agent.github.io/orbit-lab/",
-   "created_at": "2026-09-20T01:07:00+03:00"
-  },
-  {
-   "n": 7,
-   "name": "Type Sprint",
-   "slug": "type-sprint",
-   "subject": "typing / skill",
-   "one_liner": "A typing speed test with live WPM and accuracy, 30/60s modes, and a chart of your last 10 runs.",
-   "repo": "https://github.com/iLanis-agent/type-sprint",
-   "live": "https://ilanis-agent.github.io/type-sprint/",
-   "created_at": "2026-09-20T02:07:00+03:00"
-  },
-  {
-   "n": 8,
-   "name": "Neon Snake",
-   "slug": "neon-snake",
-   "subject": "retro games",
-   "one_liner": "The classic snake game with a neon glow - keyboard or swipe, rising speed, saved high score.",
-   "repo": "https://github.com/iLanis-agent/neon-snake",
-   "live": "https://ilanis-agent.github.io/neon-snake/",
-   "created_at": "2026-09-20T03:08:00+03:00"
-  },
-  {
-   "n": 9,
-   "name": "Pulse",
-   "slug": "pulse-timer",
-   "subject": "fitness",
-   "one_liner": "A HIIT interval timer with work/rest/rounds, Tabata presets, audio cues, and a color-coded screen.",
-   "repo": "https://github.com/iLanis-agent/pulse-timer",
-   "live": "https://ilanis-agent.github.io/pulse-timer/",
-   "created_at": "2026-09-20T04:09:00+03:00"
-  },
-  {
-   "n": 10,
-   "name": "Pantry Raid",
-   "slug": "pantry-raid",
-   "subject": "cooking / recipes",
-   "one_liner": "Tick the ingredients you have and get recipes ranked by what you can cook right now, with exactly what's missing.",
-   "repo": "https://github.com/iLanis-agent/pantry-raid",
-   "live": "https://ilanis-agent.github.io/pantry-raid/",
-   "created_at": "2026-09-20T05:09:15+03:00"
-  },
-  {
-   "n": 11,
-   "name": "Compound",
-   "slug": "compound",
-   "subject": "finance / investing",
-   "one_liner": "An interactive compound-interest visualizer: deposits vs interest stacked year by year, with the numbers behind the snowball.",
-   "repo": "https://github.com/iLanis-agent/compound",
-   "live": "https://ilanis-agent.github.io/compound/",
-   "created_at": "2026-09-20T06:09:59+03:00"
-  },
-  {
-   "n": 12,
-   "name": "Mate in One",
-   "slug": "mate-in-one",
-   "subject": "chess / puzzles",
-   "one_liner": "12 chess positions, each mate in one move, judged by a real built-in chess engine - any move that mates counts.",
-   "repo": "https://github.com/iLanis-agent/mate-in-one",
-   "live": "https://ilanis-agent.github.io/mate-in-one/",
-   "created_at": "2026-09-20T07:11:50+03:00"
-  },
-  {
-   "n": 13,
-   "name": "Bike or Bus?",
-   "slug": "bike-or-bus",
-   "subject": "weather",
-   "one_liner": "Live weather for any city turned into one 0-100 bike score, with every deduction itemized and a 6-hour outlook.",
-   "repo": "https://github.com/iLanis-agent/bike-or-bus",
-   "live": "https://ilanis-agent.github.io/bike-or-bus/",
-   "created_at": "2026-09-20T08:12:10+03:00"
-  },
-  {
-   "n": 14,
-   "name": "Word Bridge",
-   "slug": "word-bridge",
-   "subject": "language / word games",
-   "one_liner": "The classic word ladder: one letter per step, every step a real word, 16 BFS-verified bridges with par scores and live hints.",
-   "repo": "https://github.com/iLanis-agent/word-bridge",
-   "live": "https://ilanis-agent.github.io/word-bridge/",
-   "created_at": "2026-09-20T09:13:00+03:00"
-  },
-  {
-   "n": 15,
-   "name": "Make 24",
-   "slug": "make-24",
-   "subject": "math / arithmetic",
-   "one_liner": "Four numbers, four operations, each used once - hit exactly 24. Every hand solver-verified, streaks included.",
-   "repo": "https://github.com/iLanis-agent/make-24",
-   "live": "https://ilanis-agent.github.io/make-24/",
-   "created_at": "2026-09-20T10:31:27+03:00"
-  },
-  {
-   "n": 16,
-   "name": "Memory Matrix",
-   "slug": "memory-matrix",
-   "subject": "memory / brain training",
-   "one_liner": "Tiles flash on a grid, you rebuild the pattern from memory. Growing grids, 3 lives, best level saved.",
-   "repo": "https://github.com/iLanis-agent/memory-matrix",
-   "live": "https://ilanis-agent.github.io/memory-matrix/",
-   "created_at": "2026-09-20T12:17:26+03:00"
-  },
-  {
-   "n": 17,
-   "name": "Four in a Row",
-   "slug": "four-in-a-row",
-   "subject": "board games / strategy",
-   "one_liner": "Connect Four with a real minimax AI in three difficulties, plus local 2-player mode. Hard sees seven moves ahead.",
-   "repo": "https://github.com/iLanis-agent/four-in-a-row",
-   "live": "https://ilanis-agent.github.io/four-in-a-row/",
-   "created_at": "2026-09-20T13:16:15+03:00"
-  },
-  {
-   "n": 18,
-   "name": "Plant Parent",
-   "slug": "plant-parent",
-   "subject": "gardening / plant care",
-   "one_liner": "Tick your houseplants, set last-watered dates, get a 14-day watering schedule with overdue alerts and pet-safety flags.",
-   "repo": "https://github.com/iLanis-agent/plant-parent",
-   "live": "https://ilanis-agent.github.io/plant-parent/",
-   "created_at": "2026-09-20T14:17:04+03:00"
-  },
-  {
-   "n": 19,
-   "name": "Drip",
-   "slug": "drip",
-   "subject": "coffee / brewing",
-   "one_liner": "Coffee brew timer with ratio calculator: pick a method, dial in strength, pour on cue with audio step cues.",
-   "repo": "https://github.com/iLanis-agent/drip",
-   "live": "https://ilanis-agent.github.io/drip/",
-   "created_at": "2026-09-20T15:39:46+03:00"
-  },
-  {
-   "n": 20,
-   "name": "Scramble",
-   "slug": "scramble",
-   "subject": "speedcubing / puzzle timers",
-   "one_liner": "Speedcubing timer with WCA-style scrambles, stackmat timing, and live ao5/ao12 session stats.",
-   "repo": "https://github.com/iLanis-agent/scramble",
-   "live": "https://ilanis-agent.github.io/scramble/",
-   "created_at": "2026-09-20T16:40:33+03:00"
-  },
-  {
-   "n": 21,
-   "name": "Palette",
-   "slug": "palette",
-   "subject": "design / color",
-   "one_liner": "Color harmony generator: four harmony modes, lock-and-shuffle, copy hex, WCAG contrast badges, saved palettes.",
-   "repo": "https://github.com/iLanis-agent/palette",
-   "live": "https://ilanis-agent.github.io/palette/",
-   "created_at": "2026-09-20T18:18:14+03:00"
-  },
-  {
-   "n": 22,
-   "name": "Long Odds",
-   "slug": "long-odds",
-   "subject": "tabletop gaming / probability",
-   "one_liner": "Dice roller with exact probability curves: any NdS+K formula, tap a bar for the odds, roll history.",
-   "repo": "https://github.com/iLanis-agent/long-odds",
-   "live": "https://ilanis-agent.github.io/long-odds/",
-   "created_at": "2026-09-20T19:27:55+03:00"
-  },
-  {
-   "n": 23,
-   "name": "Likely",
-   "slug": "likely",
-   "subject": "AI / probability",
-   "one_liner": "Ask any question, get a calibrated AI probability with factors, assumptions, and what would change it. BYOK via OpenRouter.",
-   "repo": "https://github.com/iLanis-agent/likely",
-   "live": "https://ilanis-agent.github.io/likely/",
-   "created_at": "2026-09-20T20:15:52+03:00"
-  },
-  {
-   "n": 24,
-   "name": "Minefield",
-   "slug": "minefield",
-   "subject": "classic puzzle games",
-   "one_liner": "Classic minesweeper: first-click-safe boards, flood-fill opens, chording, flags, best times per difficulty.",
-   "repo": "https://github.com/iLanis-agent/minefield",
-   "live": "https://ilanis-agent.github.io/minefield/",
-   "created_at": "2026-09-20T21:11:58+03:00"
-  },
-  {
-   "n": 25,
-   "name": "2048",
-   "slug": "2048",
-   "subject": "classic puzzle games",
-   "one_liner": "The tile-merging classic: swipe or arrows, correct merge rules, persistent best, keep going past 2048.",
-   "repo": "https://github.com/iLanis-agent/2048",
-   "live": "https://ilanis-agent.github.io/2048/",
-   "created_at": "2026-09-20T22:13:22+03:00"
-  },
-  {
-   "n": 26,
-   "name": "Reflex",
-   "slug": "reflex",
-   "subject": "human benchmark / reaction",
-   "one_liner": "Reaction-time test: wait for green, tap, get your milliseconds, percentile vs humans, and a rating.",
-   "repo": "https://github.com/iLanis-agent/reflex",
-   "live": "https://ilanis-agent.github.io/reflex/",
-   "created_at": "2026-09-20T23:17:09+03:00"
-  },
-  {
-   "n": 27,
-   "name": "Morse",
-   "slug": "morse",
-   "subject": "radio / codes",
-   "one_liner": "Morse translator, beep-and-lamp player, and a letter trainer with streaks.",
-   "repo": "https://github.com/iLanis-agent/morse",
-   "live": "https://ilanis-agent.github.io/morse/",
-   "created_at": "2026-09-21T00:14:25+03:00"
-  },
-  {
-   "n": 28,
-   "name": "Lights Out",
-   "slug": "lights-out",
-   "subject": "classic puzzle games",
-   "one_liner": "Tap flips a light and its neighbors - darken the whole board. Four sizes, always solvable within par.",
-   "repo": "https://github.com/iLanis-agent/lights-out",
-   "live": "https://ilanis-agent.github.io/lights-out/",
-   "created_at": "2026-09-21T01:15:56+03:00"
-  },
-  {
-   "n": 29,
-   "name": "Gate Lab",
-   "slug": "gate-lab",
-   "subject": "electronics / digital logic",
-   "one_liner": "Three switches, three gates, one lamp: rewire live, then guess the hidden gate in challenge mode.",
-   "repo": "https://github.com/iLanis-agent/gate-lab",
-   "live": "https://ilanis-agent.github.io/gate-lab/",
-   "created_at": "2026-09-21T02:16:29+03:00"
-  },
-  {
-   "n": 30,
-   "name": "Beatmaker",
-   "slug": "beatmaker",
-   "subject": "music / beatmaking",
-   "one_liner": "A pocket drum machine: 5 synthesized drums, 16 steps, 60-180 BPM, patterns shareable by link.",
-   "repo": "https://github.com/iLanis-agent/beatmaker",
-   "live": "https://ilanis-agent.github.io/beatmaker/",
-   "created_at": "2026-09-21T03:16:46+03:00"
-  },
-  {
-   "n": 31,
-   "name": "What Year?",
-   "slug": "what-year",
-   "subject": "history / trivia",
-   "one_liner": "Read the event, slide to the year, lock it in. Exact hits score 125, every year off costs one.",
-   "repo": "https://github.com/iLanis-agent/what-year",
-   "live": "https://ilanis-agent.github.io/what-year/",
-   "created_at": "2026-09-21T04:17:43+03:00"
-  },
-  {
-   "n": 32,
-   "name": "Luna",
-   "slug": "luna",
-   "subject": "astronomy",
-   "one_liner": "The moon on any date: phase, illumination, age, next new and full, plus a 14-night strip.",
-   "repo": "https://github.com/iLanis-agent/luna",
-   "live": "https://ilanis-agent.github.io/luna/",
-   "created_at": "2026-09-21T05:18:45+03:00"
-  },
-  {
-   "n": 33,
-   "name": "World Clock",
-   "slug": "world-clock",
-   "subject": "time / productivity",
-   "one_liner": "Live clocks for your cities plus a meeting finder that names the longest shared 9-18 window.",
-   "repo": "https://github.com/iLanis-agent/world-clock",
-   "live": "https://ilanis-agent.github.io/world-clock/",
-   "created_at": "2026-09-21T06:19:15+03:00"
-  },
-  {
-   "n": 34,
-   "name": "Elemental",
-   "slug": "elemental",
-   "subject": "chemistry",
-   "one_liner": "The periodic table quiz: symbols, names, atomic numbers, with first-letter-tricky distractors.",
-   "repo": "https://github.com/iLanis-agent/elemental",
-   "live": "https://ilanis-agent.github.io/elemental/",
-   "created_at": "2026-09-21T08:07:22+03:00"
-  },
-  {
-   "n": 35,
-   "name": "Blackjack",
-   "slug": "blackjack",
-   "subject": "card games",
-   "one_liner": "Beat the dealer with free chips and a hint button that reads the basic-strategy chart.",
-   "repo": "https://github.com/iLanis-agent/blackjack",
-   "live": "https://ilanis-agent.github.io/blackjack/",
-   "created_at": "2026-09-21T09:03:10+03:00"
-  },
-  {
-   "n": 36,
-   "name": "Mastermind",
-   "slug": "mastermind",
-   "subject": "code-breaking game",
-   "one_liner": "Crack the hidden 4-color code in 10 guesses - classic Mastermind logic with feedback pegs.",
-   "repo": "https://github.com/iLanis-agent/mastermind",
-   "live": "https://ilanis-agent.github.io/mastermind/",
-   "created_at": "2026-09-21T10:03:45+03:00"
-  },
-  {
-   "n": 37,
-   "name": "Tic Tac Toe",
-   "slug": "tic-tac-toe",
-   "subject": "strategy game vs AI",
-   "one_liner": "Play X or O against an unbeatable minimax machine - a draw counts as a victory.",
-   "repo": "https://github.com/iLanis-agent/tic-tac-toe",
-   "live": "https://ilanis-agent.github.io/tic-tac-toe/",
-   "created_at": "2026-09-21T11:21:37+03:00"
-  },
-  {
-   "n": 38,
-   "name": "Simon",
-   "slug": "simon",
-   "subject": "memory tones game",
-   "one_liner": "Watch the growing pattern of lights and tones, play it back - strict mode for the brave.",
-   "repo": "https://github.com/iLanis-agent/simon",
-   "live": "https://ilanis-agent.github.io/simon/",
-   "created_at": "2026-09-21T12:17:29+03:00"
-  },
-  {
-   "n": 39,
-   "name": "Flood It",
-   "slug": "flood-it",
-   "subject": "flood-fill puzzle",
-   "one_liner": "Turn a 14x14 mosaic into one color, flooding from the corner, in 25 moves or fewer.",
-   "repo": "https://github.com/iLanis-agent/flood-it",
-   "live": "https://ilanis-agent.github.io/flood-it/",
-   "created_at": "2026-09-21T13:06:10+03:00"
-  },
-  {
-   "n": 40,
-   "name": "Fifteen",
-   "slug": "slide-15",
-   "subject": "sliding puzzle",
-   "one_liner": "Slide fifteen tiles back into order - every shuffle is guaranteed solvable, fewest-moves best saved.",
-   "repo": "https://github.com/iLanis-agent/slide-15",
-   "live": "https://ilanis-agent.github.io/slide-15/",
-   "created_at": "2026-09-21T14:06:57+03:00"
-  },
-  {
-   "n": 41,
-   "name": "FairChore",
-   "slug": "fairchore",
-   "subject": "startup idea: chore fairness optimizer",
-   "one_liner": "Housemates rate how much they hate each chore; an optimizer splits the work at minimum household misery.",
-   "repo": "https://github.com/iLanis-agent/fairchore",
-   "live": "https://ilanis-agent.github.io/fairchore/",
-   "created_at": "2026-09-21T15:08:25+03:00"
-  },
-  {
-   "n": 42,
-   "name": "ShadeSide",
-   "slug": "shadeside",
-   "subject": "startup idea: sun-glare seat picker",
-   "one_liner": "Real solar math tells you which side of the bus, car or plane stays in shade for your ride.",
-   "repo": "https://github.com/iLanis-agent/shadeside",
-   "live": "https://ilanis-agent.github.io/shadeside/",
-   "created_at": "2026-09-21T16:09:11+03:00"
-  },
-  {
-   "n": 43,
-   "name": "SafePlate",
-   "slug": "safeplate",
-   "subject": "startup idea: group dining constraint solver",
-   "one_liner": "Intersect every guest's dietary restrictions into a menu the whole table can eat, plus one-swap near-misses.",
-   "repo": "https://github.com/iLanis-agent/safeplate",
-   "live": "https://ilanis-agent.github.io/safeplate/",
-   "created_at": "2026-09-21T17:09:20+03:00"
-  },
-  {
-   "n": 44,
-   "name": "LastCup",
-   "slug": "lastcup",
-   "subject": "startup idea: caffeine cutoff calculator",
-   "one_liner": "log today's caffeine, project what's left at bedtime, get the exact clock time of your last safe cup",
-   "repo": "https://github.com/iLanis-agent/lastcup",
-   "live": "https://ilanis-agent.github.io/lastcup/",
-   "created_at": "2026-09-21T18:11:05+03:00"
-  },
-  {
-   "n": 45,
-   "name": "TrialGuard",
-   "slug": "trialguard",
-   "subject": "startup idea: free-trial cancellation tracker",
-   "one_liner": "track every free trial, see the real monthly/yearly burn if all convert, and get a countdown to each cancel-by date",
-   "repo": "https://github.com/iLanis-agent/trialguard",
-   "live": "https://ilanis-agent.github.io/trialguard/",
-   "created_at": "2026-09-21T19:11:01+03:00"
-  },
-  {
-   "n": 46,
-   "name": "ShrinkRay",
-   "slug": "shrinkray",
-   "subject": "startup idea: shrinkflation detector",
-   "one_liner": "log price + package size each purchase; it flags the moment a product shrank while its price stayed the same, plus a shelf pack comparator",
-   "repo": "https://github.com/iLanis-agent/shrinkray",
-   "live": "https://ilanis-agent.github.io/shrinkray/",
-   "created_at": "2026-09-21T20:12:19+03:00"
-  },
-  {
-   "n": 47,
-   "name": "SettleUp",
-   "slug": "settleup",
-   "subject": "startup idea: minimal-transfer expense splitter",
-   "one_liner": "log group expenses, net everyone out, and collapse the debt web into the fewest possible payback transfers",
-   "repo": "https://github.com/iLanis-agent/settleup",
-   "live": "https://ilanis-agent.github.io/settleup/",
-   "created_at": "2026-09-21T21:26:55+03:00"
-  },
-  {
-   "n": 48,
-   "name": "Overlap",
-   "slug": "overlap",
-   "subject": "startup idea: timezone overlap finder",
-   "one_liner": "lay every teammate's working day on one UTC grid, see the shared window in green, get meeting slots with each person's local time",
-   "repo": "https://github.com/iLanis-agent/overlap",
-   "live": "https://ilanis-agent.github.io/overlap/",
-   "created_at": "2026-09-21T22:50:38+03:00"
-  },
-  {
-   "n": 49,
-   "name": "SleepDebt",
-   "slug": "sleepdebt",
-   "subject": "startup idea: sleep bank ledger",
-   "one_liner": "log each night's hours, see your running sleep debt or surplus, and get a recovery plan with the exact date you're back to zero",
-   "repo": "https://github.com/iLanis-agent/sleepdebt",
-   "live": "https://ilanis-agent.github.io/sleepdebt/",
-   "created_at": "2026-09-21T23:51:20+03:00"
-  },
-  {
-   "n": 50,
-   "name": "ChargeWorth",
-   "slug": "chargeworth",
-   "subject": "startup idea: EV-vs-gas break-even calculator",
-   "one_liner": "total cost of ownership year by year with the exact break-even year, 10-year savings, and an honest never-when-it-never",
-   "repo": "https://github.com/iLanis-agent/chargeworth",
-   "live": "https://ilanis-agent.github.io/chargeworth/",
-   "created_at": "2026-09-22T00:53:17+03:00"
-  },
-  {
-   "n": 51,
-   "name": "Runoff",
-   "slug": "runoff",
-   "subject": "startup idea: ranked-choice group decisions",
-   "one_liner": "pass the phone, everyone ranks the options once, instant-runoff rounds find the pick with real majority support",
-   "repo": "https://github.com/iLanis-agent/runoff",
-   "live": "https://ilanis-agent.github.io/runoff/",
-   "created_at": "2026-09-22T01:52:56+03:00"
-  },
-  {
-   "n": 52,
-   "name": "DoorScore",
-   "slug": "doorscore",
-   "subject": "startup idea: apartment viewing scorecard that turns every visit into a weighted same-day score with deal-breaker flags",
-   "one_liner": "Eight viewings blur together. Score each one the same day, on the same weighted criteria - and let one deal-breaker flag sink a pretty average.",
-   "repo": "https://github.com/iLanis-agent/doorscore",
-   "live": "https://ilanis-agent.github.io/doorscore/",
-   "created_at": "2026-09-21T23:54:01Z"
-  },
-  {
-   "n": 53,
-   "name": "CoverClock",
-   "slug": "coverclock",
-   "subject": "startup idea: countdown tracker for the invisible deadlines on every receipt - return windows and warranties",
-   "one_liner": "Every receipt is a countdown you can't see. CoverClock puts every purchase on a visible timer and floats the urgent ones to the top.",
-   "repo": "https://github.com/iLanis-agent/coverclock",
-   "live": "https://ilanis-agent.github.io/coverclock/",
-   "created_at": "2026-09-22T01:26:51Z"
-  },
-  {
-   "n": 54,
-   "name": "PayChase",
-   "slug": "paychase",
-   "subject": "startup idea: freelancer cash-flow radar that ages invoices, schedules follow-up nudges and accrues late fees",
-   "one_liner": "Late invoices don't chase themselves. PayChase shows who owes you, how late they are, when to nudge next, and what the lateness costs.",
-   "repo": "https://github.com/iLanis-agent/paychase",
-   "live": "https://ilanis-agent.github.io/paychase/",
-   "created_at": "2026-09-22T02:27:50Z"
-  },
-  {
-   "n": 55,
-   "name": "Upkeep",
-   "slug": "upkeep",
-   "subject": "startup idea: recurring home-maintenance memory that turns forgotten filters and gutters into visible due dates",
-   "one_liner": "Your house remembers nothing. Upkeep runs the clocks on every filter, battery and gutter, sorts the most overdue to the top, and scores your home's health.",
-   "repo": "https://github.com/iLanis-agent/upkeep",
-   "live": "https://ilanis-agent.github.io/upkeep/",
-   "created_at": "2026-09-22T04:40:43Z"
-  },
-  {
-   "n": 56,
-   "name": "GiftLoop",
-   "slug": "giftloop",
-   "subject": "startup idea: gift-idea CRM that catches ideas year-round and flags repeat gifts",
-   "one_liner": "Gift ideas strike in March and evaporate by December. GiftLoop catches them, ranks the best, and warns before you repeat a gift you already gave.",
-   "repo": "https://github.com/iLanis-agent/giftloop",
-   "live": "https://ilanis-agent.github.io/giftloop/",
-   "created_at": "2026-09-22T05:35:11Z"
-  },
-  {
-   "n": 57,
-   "name": "DebtDown",
-   "slug": "debtdown",
-   "subject": "startup idea: debt payoff planner that simulates avalanche vs snowball and prices the difference",
-   "one_liner": "Which debt first? The wrong order quietly costs thousands. DebtDown simulates avalanche vs snowball and shows the difference in dollars and months.",
-   "repo": "https://github.com/iLanis-agent/debtdown",
-   "live": "https://ilanis-agent.github.io/debtdown/",
-   "created_at": "2026-09-22T06:36:38Z"
-  },
-  {
-   "n": 58,
-   "name": "Lendmark",
-   "slug": "lendmark",
-   "subject": "startup idea: lent-item tracker that builds borrower trust scores from real return history",
-   "one_liner": "Your drill has been gone four months. Lendmark gives every loan a due date and a countdown, and scores each borrower by whether things actually come back.",
-   "repo": "https://github.com/iLanis-agent/lendmark",
-   "live": "https://ilanis-agent.github.io/lendmark/",
-   "created_at": "2026-09-22T07:37:31Z"
-  },
-  {
-   "n": 59,
-   "name": "CoastFI",
-   "slug": "coastfi",
-   "subject": "startup idea: financial independence calculator that surfaces the coast-FIRE milestone people pass without noticing",
-   "one_liner": "When can you stop working? One compound-interest question. CoastFI shows your FI number, years to reach it, and the coast point where savings finish the race alone.",
-   "repo": "https://github.com/iLanis-agent/coastfi",
-   "live": "https://ilanis-agent.github.io/coastfi/",
-   "created_at": "2026-09-22T08:37:49Z"
-  },
-  {
-   "n": 60,
-   "name": "MeetingTax",
-   "slug": "meetingtax",
-   "subject": "startup idea: live meeting cost ticker that puts a payroll meter on every meeting",
-   "one_liner": "Eight people in a room for an hour is $700 of payroll that shows up in no budget. MeetingTax puts the meter on the wall.",
-   "repo": "https://github.com/iLanis-agent/meetingtax",
-   "live": "https://ilanis-agent.github.io/meetingtax/",
-   "created_at": "2026-09-22T09:38:22Z"
-  },
-  {
-   "n": 61,
-   "name": "PlantPulse",
-   "slug": "plantpulse",
-   "subject": "startup idea: per-species houseplant care scheduling",
-   "one_liner": "Houseplant care that runs on each plant's own clock - thirstiest first.",
-   "repo": "https://github.com/iLanis-agent/plantpulse",
-   "live": "https://ilanis-agent.github.io/plantpulse/",
-   "created_at": "2026-09-22T10:39:49Z"
-  },
-  {
-   "n": 62,
-   "name": "PackCheck",
-   "slug": "packcheck",
-   "subject": "startup idea: reusable packing lists",
-   "one_liner": "Packing lists that persist - check off, reset, never forget the lock again.",
-   "repo": "https://github.com/iLanis-agent/packcheck",
-   "live": "https://ilanis-agent.github.io/packcheck/",
-   "created_at": "2026-09-22T11:40:10Z"
-  },
-  {
-   "n": 63,
-   "name": "SpareKey",
-   "slug": "sparekey",
-   "subject": "startup idea: home access ledger",
-   "one_liner": "Who can get into your place right now? Track every key copy and code you hand out.",
-   "repo": "https://github.com/iLanis-agent/sparekey",
-   "live": "https://ilanis-agent.github.io/sparekey/",
-   "created_at": "2026-09-22T12:41:02Z"
-  },
-  {
-   "n": 64,
-   "name": "MeetFair",
-   "slug": "meetfair",
-   "subject": "startup idea: fair cross-timezone meeting scheduling",
-   "one_liner": "Find meeting hours where nobody pays - slots ranked by pain across timezones.",
-   "repo": "https://github.com/iLanis-agent/meetfair",
-   "live": "https://ilanis-agent.github.io/meetfair/",
-   "created_at": "2026-09-22T13:42:22Z"
-  },
-  {
-   "n": 65,
-   "name": "MealMath",
-   "slug": "mealmath",
-   "subject": "startup idea: recipe scaling in kitchen fractions",
-   "one_liner": "Scale any recipe to any servings - answers come out as 2 1/4 tsp, never 2.25.",
-   "repo": "https://github.com/iLanis-agent/mealmath",
-   "live": "https://ilanis-agent.github.io/mealmath/",
-   "created_at": "2026-09-22T14:46:54Z"
-  },
-  {
-   "n": 66,
-   "name": "FuelLog",
-   "slug": "fuellog",
-   "subject": "startup idea: real fuel efficiency tracking",
-   "one_liner": "Log each fill-up; see real km/L per tank, cost per km, and the trend.",
-   "repo": "https://github.com/iLanis-agent/fuellog",
-   "live": "https://ilanis-agent.github.io/fuellog/",
-   "created_at": "2026-09-22T17:19:16Z"
-  },
-  {
-   "n": 67,
-   "name": "BookLog",
-   "slug": "booklog",
-   "subject": "startup idea: honest reading pace and finish projections",
-   "one_liner": "Log the page you're on; get your real pace and the date you'll finish.",
-   "repo": "https://github.com/iLanis-agent/booklog",
-   "live": "https://ilanis-agent.github.io/booklog/",
-   "created_at": "2026-09-22T20:03:28Z"
-  },
-  {
-   "n": 68,
-   "name": "DayChain",
-   "slug": "daychain",
-   "subject": "startup idea: visible daily habit streaks",
-   "one_liner": "Check in daily, watch the streak climb, get flagged when today is still missing.",
-   "repo": "https://github.com/iLanis-agent/daychain",
-   "live": "https://ilanis-agent.github.io/daychain/",
-   "created_at": "2026-09-22T20:51:03Z"
-  },
-  {
-   "n": 69,
-   "name": "WearCost",
-   "slug": "wearcost",
-   "subject": "startup idea: cost-per-wear wardrobe truth",
-   "one_liner": "The $200 jacket worn twice costs $100/wear. Log wears, rank your closet by real cost.",
-   "repo": "https://github.com/iLanis-agent/wearcost",
-   "live": "https://ilanis-agent.github.io/wearcost/",
-   "created_at": "2026-09-22T21:52:14Z"
-  },
-  {
-   "n": 70,
-   "name": "PetMeds",
-   "slug": "petmeds",
-   "subject": "startup idea: pet medication runout projections",
-   "one_liner": "Pills on hand divided by daily dose = the exact runout date, flagged before the gap.",
-   "repo": "https://github.com/iLanis-agent/petmeds",
-   "live": "https://ilanis-agent.github.io/petmeds/",
-   "created_at": "2026-09-22T22:52:44Z"
-  },
-  {
-   "n": 71,
-   "name": "LineOracle",
-   "slug": "lineoracle",
-   "subject": "startup idea: real-time queue wait estimation",
-   "one_liner": "Tap each time someone gets served; the line's true pace projects your real wait, band, and ETA.",
-   "repo": "https://github.com/iLanis-agent/lineoracle",
-   "live": "https://ilanis-agent.github.io/lineoracle/",
-   "created_at": "2026-09-22T23:54:16Z"
-  },
-  {
-   "n": 72,
-   "name": "ProofKeep",
-   "slug": "proofkeep",
-   "subject": "startup idea: warranty lapse protection",
-   "one_liner": "Exact coverage end dates for everything you own, with claim-window warnings at 30 days.",
-   "repo": "https://github.com/iLanis-agent/proofkeep",
-   "live": "https://ilanis-agent.github.io/proofkeep/",
-   "created_at": "2026-09-23T00:56:04Z"
-  },
-  {
-   "n": 73,
-   "name": "VisitBrief",
-   "slug": "visitbrief",
-   "subject": "startup idea: doctor visit preparation",
-   "one_liner": "Daily symptom logging compiled into a ranked brief - onset, trend, worst day, questions - for the appointment.",
-   "repo": "https://github.com/iLanis-agent/visitbrief",
-   "live": "https://ilanis-agent.github.io/visitbrief/",
-   "created_at": "2026-09-23T01:55:14Z"
-  },
-  {
-   "n": 74,
-   "name": "QuietFile",
-   "slug": "quietfile",
-   "subject": "startup idea: noise complaint documentation",
-   "one_liner": "One-tap disturbance logging that compiles into a landlord-ready evidence report with patterns and timestamps.",
-   "repo": "https://github.com/iLanis-agent/quietfile",
-   "live": "https://ilanis-agent.github.io/quietfile/",
-   "created_at": "2026-09-23T02:56:37Z"
-  },
-  {
-   "n": 75,
-   "name": "SecondSpin",
-   "slug": "secondspin",
-   "subject": "startup idea: declutter sell-vs-keep decisions",
-   "one_liner": "Category depreciation curves price your stuff and give the verdict: sell soon, keep, or donate.",
-   "repo": "https://github.com/iLanis-agent/secondspin",
-   "live": "https://ilanis-agent.github.io/secondspin/",
-   "created_at": "2026-09-23T03:56:59Z"
-  },
-  {
-   "n": 76,
-   "name": "ColdSnap",
-   "slug": "coldsnap",
-   "subject": "startup idea: power outage food safety",
-   "one_liner": "USDA-window countdowns for fridge and freezer during an outage, with save/check/toss guidance.",
-   "repo": "https://github.com/iLanis-agent/coldsnap",
-   "live": "https://ilanis-agent.github.io/coldsnap/",
-   "created_at": "2026-09-23T04:57:49Z"
-  },
-  {
-   "n": 77,
-   "name": "EatFirst",
-   "slug": "eatfirst",
-   "subject": "startup idea: leftover safety tracking",
-   "one_liner": "Per-type safe windows for every leftover, ordered eat-first, with eat-today and toss banners.",
-   "repo": "https://github.com/iLanis-agent/eatfirst",
-   "live": "https://ilanis-agent.github.io/eatfirst/",
-   "created_at": "2026-09-23T06:00:21Z"
-  },
-  {
-   "n": 78,
-   "name": "SitSheet",
-   "slug": "sitsheet",
-   "subject": "startup idea: sitter handoff briefs",
-   "one_liner": "Keep your house profile once; print a clean sitter brief per trip with dates, gaps flagged.",
-   "repo": "https://github.com/iLanis-agent/sitsheet",
-   "live": "https://ilanis-agent.github.io/sitsheet/",
-   "created_at": "2026-09-23T07:47:31Z"
-  },
-  {
-   "n": 79,
-   "name": "RenewCue",
-   "slug": "renewcue",
-   "subject": "startup idea: document renewal lead-time tracking",
-   "one_liner": "Per-type renewal lead times (passport 9mo, visa 3mo) flag renew-now before the window closes.",
-   "repo": "https://github.com/iLanis-agent/renewcue",
-   "live": "https://ilanis-agent.github.io/renewcue/",
-   "created_at": "2026-09-23T08:48:06Z"
-  },
-  {
-   "n": 80,
-   "name": "MeterMind",
-   "slug": "metermind",
-   "subject": "startup idea: parking meter leave-by countdown",
-   "one_liner": "Counts down to leave-by (meter end minus walk-back), with spot notes and one-tap extension.",
-   "repo": "https://github.com/iLanis-agent/metermind",
-   "live": "https://ilanis-agent.github.io/metermind/",
-   "created_at": "2026-09-23T09:48:56.248252+00:00"
-  },
-  {
-   "n": 81,
-   "name": "LendLoop",
-   "slug": "lendloop",
-   "subject": "startup idea: lent-item return tracking",
-   "one_liner": "Track what you lent, to whom, and when it is due back, with ready-made friendly or direct nudge texts.",
-   "repo": "https://github.com/iLanis-agent/lendloop",
-   "live": "https://ilanis-agent.github.io/lendloop/",
-   "created_at": "2026-09-23T10:50:28.869593+00:00"
-  },
-  {
-   "n": 82,
-   "name": "DepositProof",
-   "slug": "depositproof",
-   "subject": "startup idea: rental deposit evidence trail",
-   "one_liner": "Timestamped move-out condition log with the deposit-return deadline counting down, and a landlord-ready report.",
-   "repo": "https://github.com/iLanis-agent/depositproof",
-   "live": "https://ilanis-agent.github.io/depositproof/",
-   "created_at": "2026-09-23T11:52:56.766733+00:00"
-  },
-  {
-   "n": 83,
-   "name": "NameNest",
-   "slug": "namenest",
-   "subject": "startup idea: private mutual-match baby name shortlists",
-   "one_liner": "Two partners like baby names privately; only mutual matches are revealed, so vetoes never start a fight.",
-   "repo": "https://github.com/iLanis-agent/namenest",
-   "live": "https://ilanis-agent.github.io/namenest/",
-   "created_at": "2026-09-23T13:13:38.155385+00:00"
-  },
-  {
-   "n": 84,
-   "name": "QuoteScope",
-   "slug": "quotescope",
-   "subject": "startup idea: contractor bid normalization",
-   "one_liner": "Lines contractor bids up against one shared scope, prices the silent gaps, and flags outlier line items.",
-   "repo": "https://github.com/iLanis-agent/quotescope",
-   "live": "https://ilanis-agent.github.io/quotescope/",
-   "created_at": "2026-09-23T14:03:18.958337+00:00"
-  },
-  {
-   "n": 85,
-   "name": "FermentWatch",
-   "slug": "fermentwatch",
-   "subject": "startup idea: temperature-aware sourdough scheduling",
-   "one_liner": "Sourdough bake-day schedule rebuilt around your actual kitchen temperature, with live stage guidance.",
-   "repo": "https://github.com/iLanis-agent/fermentwatch",
-   "live": "https://ilanis-agent.github.io/fermentwatch/",
-   "created_at": "2026-09-23T15:21:42.520590+00:00"
-  },
-  {
-   "n": 86,
-   "name": "RetireReady",
-   "slug": "retireready",
-   "subject": "startup idea: appliance repair-vs-replace decisions",
-   "one_liner": "Tracks appliance age against typical lifespan and applies the 50% rule so repair-vs-replace becomes math.",
-   "repo": "https://github.com/iLanis-agent/retireready",
-   "live": "https://ilanis-agent.github.io/retireready/",
-   "created_at": "2026-09-23T16:44:41.488457+00:00"
-  },
-  {
-   "n": 87,
-   "name": "MealTrain",
-   "slug": "mealtrain",
-   "subject": "startup idea: community meal coordination",
-   "one_liner": "Coordinates who brings which meal on which night for a family that needs feeding - no double lasagna.",
-   "repo": "https://github.com/iLanis-agent/mealtrain",
-   "live": "https://ilanis-agent.github.io/mealtrain/",
-   "created_at": "2026-09-23T17:32:28.148867+00:00"
-  },
-  {
-   "n": 88,
-   "name": "MoveBox",
-   "slug": "movebox",
-   "subject": "startup idea: searchable moving-box inventory",
-   "one_liner": "Numbered moving boxes with searchable contents and a night-one essentials list, so the kettle is findable.",
-   "repo": "https://github.com/iLanis-agent/movebox",
-   "live": "https://ilanis-agent.github.io/movebox/",
-   "created_at": "2026-09-23T19:05:38.343948+00:00"
-  },
-  {
-   "n": 89,
-   "name": "ScopeGuard",
-   "slug": "scopeguard",
-   "subject": "startup idea: freelance scope-creep pricing",
-   "one_liner": "Logs out-of-scope change requests, prices the creep at your real rate, and writes the change-order email.",
-   "repo": "https://github.com/iLanis-agent/scopeguard",
-   "live": "https://ilanis-agent.github.io/scopeguard/",
-   "created_at": "2026-09-23T19:57:55.881785+00:00"
-  },
-  {
-   "n": 90,
-   "name": "TaperCoach",
-   "slug": "tapercoach",
-   "subject": "startup idea: runner race-taper planning",
-   "one_liner": "Day-by-day race taper plan from your distance, date, and mileage - cutback curves, carb-load window, live countdown.",
-   "repo": "https://github.com/iLanis-agent/tapercoach",
-   "live": "https://ilanis-agent.github.io/tapercoach/",
-   "created_at": "2026-09-23T20:58:06Z"
-  },
-  {
-   "n": 91,
-   "name": "ReplyRadar",
-   "slug": "replyradar",
-   "subject": "startup idea: event RSVP chasing",
-   "one_liner": "Track guest replies, see a realistic headcount band, and copy deadline-aware polite chase messages for the silent ones.",
-   "repo": "https://github.com/iLanis-agent/replyradar",
-   "live": "https://ilanis-agent.github.io/replyradar/",
-   "created_at": "2026-09-23T21:58:51Z"
-  },
-  {
-   "n": 92,
-   "name": "StarDrill",
-   "slug": "stardrill",
-   "subject": "startup idea: STAR interview rehearsal pacing",
-   "one_liner": "Pace behavioral answers through timed STAR segments, score each rep on structure and clarity, and map your coverage across a 24-question bank.",
-   "repo": "https://github.com/iLanis-agent/stardrill",
-   "live": "https://ilanis-agent.github.io/stardrill/",
-   "created_at": "2026-09-23T22:59:50Z"
-  },
-  {
-   "n": 93,
-   "name": "DelayPay",
-   "slug": "delaypay",
-   "subject": "startup idea: EU261 flight compensation claims",
-   "one_liner": "Check what a delayed or cancelled flight owes you under EU261 - scope, distance bands, extraordinary-circumstance defenses - and get a ready-to-send claim letter.",
-   "repo": "https://github.com/iLanis-agent/delaypay",
-   "live": "https://ilanis-agent.github.io/delaypay/",
-   "created_at": "2026-09-24T00:00:43Z"
-  },
-  {
-   "n": 94,
-   "name": "PayAnchor",
-   "slug": "payanchor",
-   "subject": "startup idea: salary negotiation preparation",
-   "one_liner": "Turn target, market range and leverage into anchor/target/floor numbers, scenario counters, and word-for-word negotiation scripts.",
-   "repo": "https://github.com/iLanis-agent/payanchor",
-   "live": "https://ilanis-agent.github.io/payanchor/",
-   "created_at": "2026-09-24T01:01:12Z"
-  },
-  {
-   "n": 95,
-   "name": "NinetyDays",
-   "slug": "ninetydays",
-   "subject": "startup idea: Schengen 90/180 stay tracking",
-   "one_liner": "Rolling-window math for the Schengen 90/180 rule - days used, max stay from any entry date, last safe exit, and a roll-off forecast.",
-   "repo": "https://github.com/iLanis-agent/ninetydays",
-   "live": "https://ilanis-agent.github.io/ninetydays/",
-   "created_at": "2026-09-24T02:02:25Z"
-  },
-  {
-   "n": 96,
-   "name": "KidBank",
-   "slug": "kidbank",
-   "subject": "startup idea: family allowance banking",
-   "one_liner": "Allowance ledger with Spend/Save/Give jars, weekly accrual, parent-set compound interest on savings, and a goal tracker with weeks-to-go.",
-   "repo": "https://github.com/iLanis-agent/kidbank",
-   "live": "https://ilanis-agent.github.io/kidbank/",
-   "created_at": "2026-09-24T03:03:09Z"
-  },
-  {
-   "n": 97,
-   "name": "DonorClock",
-   "slug": "donorclock",
-   "subject": "startup idea: blood donation eligibility tracking",
-   "one_liner": "Per-type donation intervals and rolling annual caps, exact next-eligible dates, lifetime liters and impact, and a year streak.",
-   "repo": "https://github.com/iLanis-agent/donorclock",
-   "live": "https://ilanis-agent.github.io/donorclock/",
-   "created_at": "2026-09-24T04:04:15Z"
-  },
-  {
-   "n": 98,
-   "name": "SubScrub",
-   "slug": "subscrub",
-   "subject": "startup idea: subscription audit and cut simulator",
-   "one_liner": "Normalize every billing cycle into one honest burn, score each sub by cost per use, and simulate what you save by cutting the dead weight.",
-   "repo": "https://github.com/iLanis-agent/subscrub",
-   "live": "https://ilanis-agent.github.io/subscrub/",
-   "created_at": "2026-09-24T05:05:52Z"
-  },
-  {
-   "n": 99,
-   "name": "SPFClock",
-   "slug": "spfclock",
-   "subject": "startup idea: sunscreen reapply and safe-exposure timing",
-   "one_liner": "Skin type x SPF x activity becomes a real reapply countdown - 2-hour dry cap, 40 minutes swimming - with the day's protected hours tallied.",
-   "repo": "https://github.com/iLanis-agent/spfclock",
-   "live": "https://ilanis-agent.github.io/spfclock/",
-   "created_at": "2026-09-24T06:05:36Z"
-  },
-  {
-   "n": 100,
-   "name": "SipPace",
-   "slug": "sippace",
-   "subject": "startup idea: hydration pacing coach",
-   "one_liner": "Not just counting - pacing: a weight-based target spread across your waking hours, with expected-by-now status and one-tap pours.",
-   "repo": "https://github.com/iLanis-agent/sippace",
-   "live": "https://ilanis-agent.github.io/sippace/",
-   "created_at": "2026-09-24T07:06:16Z"
-  },
-  {
-   "n": 101,
-   "name": "FastWindow",
-   "slug": "fastwindow",
-   "subject": "startup idea: intermittent fasting window timer",
-   "one_liner": "Five protocols, one honest countdown - hours left, window-open time, overtime credit, and a streak that forgives today.",
-   "repo": "https://github.com/iLanis-agent/fastwindow",
-   "live": "https://ilanis-agent.github.io/fastwindow/",
-   "created_at": "2026-09-24T08:07:09Z"
-  },
-  {
-   "n": 102,
-   "name": "WindDown",
-   "slug": "winddown",
-   "subject": "startup idea: pre-sleep wind-down scheduling",
-   "one_liner": "Set your bedtime and the hour before it becomes a scheduled evening - exact clock times, a live now-step, and a night streak.",
-   "repo": "https://github.com/iLanis-agent/winddown",
-   "live": "https://ilanis-agent.github.io/winddown/",
-   "created_at": "2026-09-24T10:08:47Z"
-  },
-  {
-   "n": 103,
-   "name": "CramPlan",
-   "slug": "cramplan",
-   "subject": "startup idea: exam study load balancer",
-   "one_liner": "Rate every topic by confidence and CramPlan spends your remaining days on the weak ones - weighted allocation, daily mixed plan, readiness score.",
-   "repo": "https://github.com/iLanis-agent/cramplan",
-   "live": "https://ilanis-agent.github.io/cramplan/",
-   "created_at": "2026-09-24T11:09:44Z"
-  },
-  {
-   "n": 104,
-   "name": "Moodline",
-   "slug": "moodline",
-   "subject": "startup idea: mood pattern mirror",
-   "one_liner": "Ten-second daily check-ins turn into weekday averages, a week-over-week trend, and proof of which day is actually your hardest.",
-   "repo": "https://github.com/iLanis-agent/moodline",
-   "live": "https://ilanis-agent.github.io/moodline/",
-   "created_at": "2026-09-24T12:10:28Z"
-  },
-  {
-   "n": 105,
-   "name": "BreathPacer",
-   "slug": "breathpacer",
-   "subject": "startup idea: guided breathing pacer",
-   "one_liner": "Four proven breathing patterns with an animated pacer that keeps the count - minutes become cycles, sessions become a streak.",
-   "repo": "https://github.com/iLanis-agent/breathpacer",
-   "live": "https://ilanis-agent.github.io/breathpacer/",
-   "created_at": "2026-09-24T13:11:35Z"
-  },
-  {
-   "n": 106,
-   "name": "NapWindow",
-   "slug": "napwindow",
-   "subject": "startup idea: baby nap wake-window planning",
-   "one_liner": "Age-based wake windows turn this morning's wake-up time into today's nap schedule and bedtime, with a two-tap nap log that shows the rhythm.",
-   "repo": "https://github.com/iLanis-agent/napwindow",
-   "live": "https://ilanis-agent.github.io/napwindow/",
-   "created_at": "2026-09-24T14:12:18Z"
-  },
-  {
-   "n": 107,
-   "name": "JetShift",
-   "slug": "jetshift",
-   "subject": "startup idea: jet lag shift planning",
-   "one_liner": "Real timezone math picks the shorter shift direction, then plans pre-flight bedtime moves and post-arrival light exposure, day by day.",
-   "repo": "https://github.com/iLanis-agent/jetshift",
-   "live": "https://ilanis-agent.github.io/jetshift/",
-   "created_at": "2026-09-24T15:13:24Z"
-  },
-  {
-   "n": 108,
-   "name": "SeatCraft",
-   "slug": "seatcraft",
-   "subject": "startup idea: event seating chart solving",
-   "one_liner": "Paste the guest list, mark must-sit-together and keep-apart pairs, and a scored local search builds a chart that keeps groups together and feuds apart.",
-   "repo": "https://github.com/iLanis-agent/seatcraft",
-   "live": "https://ilanis-agent.github.io/seatcraft/",
-   "created_at": "2026-09-24T16:14:24Z"
-  },
-  {
-   "n": 109,
-   "name": "TaxStash",
-   "slug": "taxstash",
-   "subject": "startup idea: freelance tax set-aside pacing",
-   "one_liner": "Every payment gets split into yours and the taxman's, bucketed into the real IRS quarter schedule, with a safe-to-spend number and a next-due countdown.",
-   "repo": "https://github.com/iLanis-agent/taxstash",
-   "live": "https://ilanis-agent.github.io/taxstash/",
-   "created_at": "2026-09-24T17:15:08Z"
-  },
-  {
-   "n": 110,
-   "name": "MileMinder",
-   "slug": "mileminder",
-   "subject": "startup idea: car maintenance interval tracking",
-   "one_liner": "Every service item runs on two clocks - kilometers and months. MileMinder watches both, flags whichever hits first, and projects the date from how much you drive.",
-   "repo": "https://github.com/iLanis-agent/mileminder",
-   "live": "https://ilanis-agent.github.io/mileminder/",
-   "created_at": "2026-09-24T18:15:53Z"
-  },
-  {
-   "n": 111,
-   "name": "ChargePlan",
-   "slug": "chargeplan",
-   "subject": "startup idea: EV off-peak charging scheduling",
-   "one_liner": "Battery, target and morning deadline become exact start and stop times inside the cheap window - taper above 80% priced in, and an honest verdict when it won't fit.",
-   "repo": "https://github.com/iLanis-agent/chargeplan",
-   "live": "https://ilanis-agent.github.io/chargeplan/",
-   "created_at": "2026-09-24T19:16:50Z"
-  },
-  {
-   "n": 112,
-   "name": "OfferLane",
-   "slug": "offerlane",
-   "subject": "startup idea: job application pipeline tracking",
-   "one_liner": "Every application is a lane that moves one stage at a time; follow-up nudges float silent companies to the top, and funnel stats show where the search leaks.",
-   "repo": "https://github.com/iLanis-agent/offerlane",
-   "live": "https://ilanis-agent.github.io/offerlane/",
-   "created_at": "2026-09-24T20:17:31Z"
-  },
-  {
-   "n": 113,
-   "name": "SwimPace",
-   "slug": "swimpace",
-   "subject": "startup idea: swim training pace zones",
-   "one_liner": "Two timed swims give your critical swim speed; SwimPace turns it into four training zones and a workout with clock-readable send-off times.",
-   "repo": "https://github.com/iLanis-agent/swimpace",
-   "live": "https://ilanis-agent.github.io/swimpace/",
-   "created_at": "2026-09-24T21:18:10Z"
-  },
-  {
-   "n": 114,
-   "name": "PlateLine",
-   "slug": "platedline",
-   "subject": "startup idea: reverse-timed multi-dish cooking schedules",
-   "one_liner": "Works backwards from your serve time to tell you the exact minute to start each dish, and flags oven-temperature clashes.",
-   "repo": "https://github.com/iLanis-agent/platedline",
-   "live": "https://ilanis-agent.github.io/platedline/",
-   "created_at": "2026-09-24T22:19:08Z"
-  },
-  {
-   "n": 115,
-   "name": "DoseClock",
-   "slug": "doseclock",
-   "subject": "startup idea: medication dose spacing into real clock times",
-   "one_liner": "Turns \"take N times a day\" into exact clock times spread across your waking window, with gap enforcement and mealtime snapping.",
-   "repo": "https://github.com/iLanis-agent/doseclock",
-   "live": "https://ilanis-agent.github.io/doseclock/",
-   "created_at": "2026-09-24T23:20:04Z"
-  },
-  {
-   "n": 116,
-   "name": "SetbackCalc",
-   "slug": "setbackcalc",
-   "subject": "startup idea: thermostat setback savings pricing",
-   "one_liner": "Prices your thermostat setback in dollars and CO2 using the physics that heating energy tracks the indoor-outdoor temperature gap.",
-   "repo": "https://github.com/iLanis-agent/setbackcalc",
-   "live": "https://ilanis-agent.github.io/setbackcalc/",
-   "created_at": "2026-09-25T00:20:53Z"
-  },
-  {
-   "n": 117,
-   "name": "PhantomLoad",
-   "slug": "phantomload",
-   "subject": "startup idea: standby-power vampire audit",
-   "one_liner": "Prices every always-on device per year, splits out the pure standby phantom share, and ranks the worst offenders.",
-   "repo": "https://github.com/iLanis-agent/phantomload",
-   "live": "https://ilanis-agent.github.io/phantomload/",
-   "created_at": "2026-09-25T01:21:40Z"
-  },
-  {
-   "n": 118,
-   "name": "TouchBase",
-   "slug": "touchbase",
-   "subject": "startup idea: keep-in-touch cadence tracker",
-   "one_liner": "Per-person contact cadences and a ranked \"reach out next\" list, so staying close is a habit not a guilt trip.",
-   "repo": "https://github.com/iLanis-agent/touchbase",
-   "live": "https://ilanis-agent.github.io/touchbase/",
-   "created_at": "2026-09-25T02:22:21Z"
-  },
-  {
-   "n": 119,
-   "name": "DecisionLog",
-   "slug": "decisionlog",
-   "subject": "startup idea: decision journal with calibration scoring",
-   "one_liner": "Write down the decision, your prediction and confidence; grade it on the review date and read your overconfidence gap and Brier score.",
-   "repo": "https://github.com/iLanis-agent/decisionlog",
-   "live": "https://ilanis-agent.github.io/decisionlog/",
-   "created_at": "2026-09-25T03:23:16Z"
-  },
-  {
-   "n": 120,
-   "name": "GoBag",
-   "slug": "gobag",
-   "subject": "startup idea: 72-hour emergency kit builder with expiry tracking",
-   "one_liner": "Household-scaled 72-hour kit list, a readiness score, and an expiry radar for the water, food and batteries everyone forgets.",
-   "repo": "https://github.com/iLanis-agent/gobag",
-   "live": "https://ilanis-agent.github.io/gobag/",
-   "created_at": "2026-09-25T04:24:16Z"
-  },
-  {
-   "n": 121,
-   "name": "RentOrBuy",
-   "slug": "rentorbuy",
-   "subject": "startup idea: rent-vs-buy net worth simulator",
-   "one_liner": "Simulates both net worths year by year - equity and appreciation vs the invested down payment and monthly savings - and shows the crossover year.",
-   "repo": "https://github.com/iLanis-agent/rentorbuy",
-   "live": "https://ilanis-agent.github.io/rentorbuy/",
-   "created_at": "2026-09-25T05:25:15Z"
-  }
- ]
+  "updated_at": "2026-09-25T06:26:12.131Z",
+  "apps": [
+    {
+      "n": 1,
+      "name": "Golden Hour",
+      "slug": "golden-hour",
+      "subject": "photography / astronomy",
+      "one_liner": "Live sun tracker that counts down to today's golden hour and blue hour for your exact spot.",
+      "repo": "https://github.com/iLanis-agent/golden-hour",
+      "live": "https://ilanis-agent.github.io/golden-hour/",
+      "created_at": "2026-09-19T20:15:00+03:00"
+    },
+    {
+      "n": 2,
+      "name": "Drift",
+      "slug": "drift",
+      "subject": "focus / ambient sound",
+      "one_liner": "Ambient focus mixer - rain, thunder, wind, fire and waves, all synthesized live in your browser, with a sleep-timer fade-out.",
+      "repo": "https://github.com/iLanis-agent/drift",
+      "live": "https://ilanis-agent.github.io/drift/",
+      "created_at": "2026-09-19T21:05:00+03:00"
+    },
+    {
+      "n": 3,
+      "name": "Flag Rush",
+      "slug": "flag-rush",
+      "subject": "geography / trivia",
+      "one_liner": "The 60-second flag quiz - name as many world flags as you can, streaks multiply your score.",
+      "repo": "https://github.com/iLanis-agent/flag-rush",
+      "live": "https://ilanis-agent.github.io/flag-rush/",
+      "created_at": "2026-09-19T22:05:00+03:00"
+    },
+    {
+      "n": 4,
+      "name": "Pixel Forge",
+      "slug": "pixel-forge",
+      "subject": "art / creativity",
+      "one_liner": "A pocket pixel art studio - pencil, fill, mirror mode, 32-color palette, and crisp PNG export, all in the browser.",
+      "repo": "https://github.com/iLanis-agent/pixel-forge",
+      "live": "https://ilanis-agent.github.io/pixel-forge/",
+      "created_at": "2026-09-19T23:05:00+03:00"
+    },
+    {
+      "n": 5,
+      "name": "Chord Wheel",
+      "slug": "chord-wheel",
+      "subject": "music theory",
+      "one_liner": "An interactive circle of fifths you can hear - pick a key, play its diatonic chords, and build progressions.",
+      "repo": "https://github.com/iLanis-agent/chord-wheel",
+      "live": "https://ilanis-agent.github.io/chord-wheel/",
+      "created_at": "2026-09-20T00:06:00+03:00"
+    },
+    {
+      "n": 6,
+      "name": "Orbit Lab",
+      "slug": "orbit-lab",
+      "subject": "physics / space",
+      "one_liner": "A real gravity sandbox - drag to launch a satellite and find the velocity that closes a stable orbit.",
+      "repo": "https://github.com/iLanis-agent/orbit-lab",
+      "live": "https://ilanis-agent.github.io/orbit-lab/",
+      "created_at": "2026-09-20T01:07:00+03:00"
+    },
+    {
+      "n": 7,
+      "name": "Type Sprint",
+      "slug": "type-sprint",
+      "subject": "typing / skill",
+      "one_liner": "A typing speed test with live WPM and accuracy, 30/60s modes, and a chart of your last 10 runs.",
+      "repo": "https://github.com/iLanis-agent/type-sprint",
+      "live": "https://ilanis-agent.github.io/type-sprint/",
+      "created_at": "2026-09-20T02:07:00+03:00"
+    },
+    {
+      "n": 8,
+      "name": "Neon Snake",
+      "slug": "neon-snake",
+      "subject": "retro games",
+      "one_liner": "The classic snake game with a neon glow - keyboard or swipe, rising speed, saved high score.",
+      "repo": "https://github.com/iLanis-agent/neon-snake",
+      "live": "https://ilanis-agent.github.io/neon-snake/",
+      "created_at": "2026-09-20T03:08:00+03:00"
+    },
+    {
+      "n": 9,
+      "name": "Pulse",
+      "slug": "pulse-timer",
+      "subject": "fitness",
+      "one_liner": "A HIIT interval timer with work/rest/rounds, Tabata presets, audio cues, and a color-coded screen.",
+      "repo": "https://github.com/iLanis-agent/pulse-timer",
+      "live": "https://ilanis-agent.github.io/pulse-timer/",
+      "created_at": "2026-09-20T04:09:00+03:00"
+    },
+    {
+      "n": 10,
+      "name": "Pantry Raid",
+      "slug": "pantry-raid",
+      "subject": "cooking / recipes",
+      "one_liner": "Tick the ingredients you have and get recipes ranked by what you can cook right now, with exactly what's missing.",
+      "repo": "https://github.com/iLanis-agent/pantry-raid",
+      "live": "https://ilanis-agent.github.io/pantry-raid/",
+      "created_at": "2026-09-20T05:09:15+03:00"
+    },
+    {
+      "n": 11,
+      "name": "Compound",
+      "slug": "compound",
+      "subject": "finance / investing",
+      "one_liner": "An interactive compound-interest visualizer: deposits vs interest stacked year by year, with the numbers behind the snowball.",
+      "repo": "https://github.com/iLanis-agent/compound",
+      "live": "https://ilanis-agent.github.io/compound/",
+      "created_at": "2026-09-20T06:09:59+03:00"
+    },
+    {
+      "n": 12,
+      "name": "Mate in One",
+      "slug": "mate-in-one",
+      "subject": "chess / puzzles",
+      "one_liner": "12 chess positions, each mate in one move, judged by a real built-in chess engine - any move that mates counts.",
+      "repo": "https://github.com/iLanis-agent/mate-in-one",
+      "live": "https://ilanis-agent.github.io/mate-in-one/",
+      "created_at": "2026-09-20T07:11:50+03:00"
+    },
+    {
+      "n": 13,
+      "name": "Bike or Bus?",
+      "slug": "bike-or-bus",
+      "subject": "weather",
+      "one_liner": "Live weather for any city turned into one 0-100 bike score, with every deduction itemized and a 6-hour outlook.",
+      "repo": "https://github.com/iLanis-agent/bike-or-bus",
+      "live": "https://ilanis-agent.github.io/bike-or-bus/",
+      "created_at": "2026-09-20T08:12:10+03:00"
+    },
+    {
+      "n": 14,
+      "name": "Word Bridge",
+      "slug": "word-bridge",
+      "subject": "language / word games",
+      "one_liner": "The classic word ladder: one letter per step, every step a real word, 16 BFS-verified bridges with par scores and live hints.",
+      "repo": "https://github.com/iLanis-agent/word-bridge",
+      "live": "https://ilanis-agent.github.io/word-bridge/",
+      "created_at": "2026-09-20T09:13:00+03:00"
+    },
+    {
+      "n": 15,
+      "name": "Make 24",
+      "slug": "make-24",
+      "subject": "math / arithmetic",
+      "one_liner": "Four numbers, four operations, each used once - hit exactly 24. Every hand solver-verified, streaks included.",
+      "repo": "https://github.com/iLanis-agent/make-24",
+      "live": "https://ilanis-agent.github.io/make-24/",
+      "created_at": "2026-09-20T10:31:27+03:00"
+    },
+    {
+      "n": 16,
+      "name": "Memory Matrix",
+      "slug": "memory-matrix",
+      "subject": "memory / brain training",
+      "one_liner": "Tiles flash on a grid, you rebuild the pattern from memory. Growing grids, 3 lives, best level saved.",
+      "repo": "https://github.com/iLanis-agent/memory-matrix",
+      "live": "https://ilanis-agent.github.io/memory-matrix/",
+      "created_at": "2026-09-20T12:17:26+03:00"
+    },
+    {
+      "n": 17,
+      "name": "Four in a Row",
+      "slug": "four-in-a-row",
+      "subject": "board games / strategy",
+      "one_liner": "Connect Four with a real minimax AI in three difficulties, plus local 2-player mode. Hard sees seven moves ahead.",
+      "repo": "https://github.com/iLanis-agent/four-in-a-row",
+      "live": "https://ilanis-agent.github.io/four-in-a-row/",
+      "created_at": "2026-09-20T13:16:15+03:00"
+    },
+    {
+      "n": 18,
+      "name": "Plant Parent",
+      "slug": "plant-parent",
+      "subject": "gardening / plant care",
+      "one_liner": "Tick your houseplants, set last-watered dates, get a 14-day watering schedule with overdue alerts and pet-safety flags.",
+      "repo": "https://github.com/iLanis-agent/plant-parent",
+      "live": "https://ilanis-agent.github.io/plant-parent/",
+      "created_at": "2026-09-20T14:17:04+03:00"
+    },
+    {
+      "n": 19,
+      "name": "Drip",
+      "slug": "drip",
+      "subject": "coffee / brewing",
+      "one_liner": "Coffee brew timer with ratio calculator: pick a method, dial in strength, pour on cue with audio step cues.",
+      "repo": "https://github.com/iLanis-agent/drip",
+      "live": "https://ilanis-agent.github.io/drip/",
+      "created_at": "2026-09-20T15:39:46+03:00"
+    },
+    {
+      "n": 20,
+      "name": "Scramble",
+      "slug": "scramble",
+      "subject": "speedcubing / puzzle timers",
+      "one_liner": "Speedcubing timer with WCA-style scrambles, stackmat timing, and live ao5/ao12 session stats.",
+      "repo": "https://github.com/iLanis-agent/scramble",
+      "live": "https://ilanis-agent.github.io/scramble/",
+      "created_at": "2026-09-20T16:40:33+03:00"
+    },
+    {
+      "n": 21,
+      "name": "Palette",
+      "slug": "palette",
+      "subject": "design / color",
+      "one_liner": "Color harmony generator: four harmony modes, lock-and-shuffle, copy hex, WCAG contrast badges, saved palettes.",
+      "repo": "https://github.com/iLanis-agent/palette",
+      "live": "https://ilanis-agent.github.io/palette/",
+      "created_at": "2026-09-20T18:18:14+03:00"
+    },
+    {
+      "n": 22,
+      "name": "Long Odds",
+      "slug": "long-odds",
+      "subject": "tabletop gaming / probability",
+      "one_liner": "Dice roller with exact probability curves: any NdS+K formula, tap a bar for the odds, roll history.",
+      "repo": "https://github.com/iLanis-agent/long-odds",
+      "live": "https://ilanis-agent.github.io/long-odds/",
+      "created_at": "2026-09-20T19:27:55+03:00"
+    },
+    {
+      "n": 23,
+      "name": "Likely",
+      "slug": "likely",
+      "subject": "AI / probability",
+      "one_liner": "Ask any question, get a calibrated AI probability with factors, assumptions, and what would change it. BYOK via OpenRouter.",
+      "repo": "https://github.com/iLanis-agent/likely",
+      "live": "https://ilanis-agent.github.io/likely/",
+      "created_at": "2026-09-20T20:15:52+03:00"
+    },
+    {
+      "n": 24,
+      "name": "Minefield",
+      "slug": "minefield",
+      "subject": "classic puzzle games",
+      "one_liner": "Classic minesweeper: first-click-safe boards, flood-fill opens, chording, flags, best times per difficulty.",
+      "repo": "https://github.com/iLanis-agent/minefield",
+      "live": "https://ilanis-agent.github.io/minefield/",
+      "created_at": "2026-09-20T21:11:58+03:00"
+    },
+    {
+      "n": 25,
+      "name": "2048",
+      "slug": "2048",
+      "subject": "classic puzzle games",
+      "one_liner": "The tile-merging classic: swipe or arrows, correct merge rules, persistent best, keep going past 2048.",
+      "repo": "https://github.com/iLanis-agent/2048",
+      "live": "https://ilanis-agent.github.io/2048/",
+      "created_at": "2026-09-20T22:13:22+03:00"
+    },
+    {
+      "n": 26,
+      "name": "Reflex",
+      "slug": "reflex",
+      "subject": "human benchmark / reaction",
+      "one_liner": "Reaction-time test: wait for green, tap, get your milliseconds, percentile vs humans, and a rating.",
+      "repo": "https://github.com/iLanis-agent/reflex",
+      "live": "https://ilanis-agent.github.io/reflex/",
+      "created_at": "2026-09-20T23:17:09+03:00"
+    },
+    {
+      "n": 27,
+      "name": "Morse",
+      "slug": "morse",
+      "subject": "radio / codes",
+      "one_liner": "Morse translator, beep-and-lamp player, and a letter trainer with streaks.",
+      "repo": "https://github.com/iLanis-agent/morse",
+      "live": "https://ilanis-agent.github.io/morse/",
+      "created_at": "2026-09-21T00:14:25+03:00"
+    },
+    {
+      "n": 28,
+      "name": "Lights Out",
+      "slug": "lights-out",
+      "subject": "classic puzzle games",
+      "one_liner": "Tap flips a light and its neighbors - darken the whole board. Four sizes, always solvable within par.",
+      "repo": "https://github.com/iLanis-agent/lights-out",
+      "live": "https://ilanis-agent.github.io/lights-out/",
+      "created_at": "2026-09-21T01:15:56+03:00"
+    },
+    {
+      "n": 29,
+      "name": "Gate Lab",
+      "slug": "gate-lab",
+      "subject": "electronics / digital logic",
+      "one_liner": "Three switches, three gates, one lamp: rewire live, then guess the hidden gate in challenge mode.",
+      "repo": "https://github.com/iLanis-agent/gate-lab",
+      "live": "https://ilanis-agent.github.io/gate-lab/",
+      "created_at": "2026-09-21T02:16:29+03:00"
+    },
+    {
+      "n": 30,
+      "name": "Beatmaker",
+      "slug": "beatmaker",
+      "subject": "music / beatmaking",
+      "one_liner": "A pocket drum machine: 5 synthesized drums, 16 steps, 60-180 BPM, patterns shareable by link.",
+      "repo": "https://github.com/iLanis-agent/beatmaker",
+      "live": "https://ilanis-agent.github.io/beatmaker/",
+      "created_at": "2026-09-21T03:16:46+03:00"
+    },
+    {
+      "n": 31,
+      "name": "What Year?",
+      "slug": "what-year",
+      "subject": "history / trivia",
+      "one_liner": "Read the event, slide to the year, lock it in. Exact hits score 125, every year off costs one.",
+      "repo": "https://github.com/iLanis-agent/what-year",
+      "live": "https://ilanis-agent.github.io/what-year/",
+      "created_at": "2026-09-21T04:17:43+03:00"
+    },
+    {
+      "n": 32,
+      "name": "Luna",
+      "slug": "luna",
+      "subject": "astronomy",
+      "one_liner": "The moon on any date: phase, illumination, age, next new and full, plus a 14-night strip.",
+      "repo": "https://github.com/iLanis-agent/luna",
+      "live": "https://ilanis-agent.github.io/luna/",
+      "created_at": "2026-09-21T05:18:45+03:00"
+    },
+    {
+      "n": 33,
+      "name": "World Clock",
+      "slug": "world-clock",
+      "subject": "time / productivity",
+      "one_liner": "Live clocks for your cities plus a meeting finder that names the longest shared 9-18 window.",
+      "repo": "https://github.com/iLanis-agent/world-clock",
+      "live": "https://ilanis-agent.github.io/world-clock/",
+      "created_at": "2026-09-21T06:19:15+03:00"
+    },
+    {
+      "n": 34,
+      "name": "Elemental",
+      "slug": "elemental",
+      "subject": "chemistry",
+      "one_liner": "The periodic table quiz: symbols, names, atomic numbers, with first-letter-tricky distractors.",
+      "repo": "https://github.com/iLanis-agent/elemental",
+      "live": "https://ilanis-agent.github.io/elemental/",
+      "created_at": "2026-09-21T08:07:22+03:00"
+    },
+    {
+      "n": 35,
+      "name": "Blackjack",
+      "slug": "blackjack",
+      "subject": "card games",
+      "one_liner": "Beat the dealer with free chips and a hint button that reads the basic-strategy chart.",
+      "repo": "https://github.com/iLanis-agent/blackjack",
+      "live": "https://ilanis-agent.github.io/blackjack/",
+      "created_at": "2026-09-21T09:03:10+03:00"
+    },
+    {
+      "n": 36,
+      "name": "Mastermind",
+      "slug": "mastermind",
+      "subject": "code-breaking game",
+      "one_liner": "Crack the hidden 4-color code in 10 guesses - classic Mastermind logic with feedback pegs.",
+      "repo": "https://github.com/iLanis-agent/mastermind",
+      "live": "https://ilanis-agent.github.io/mastermind/",
+      "created_at": "2026-09-21T10:03:45+03:00"
+    },
+    {
+      "n": 37,
+      "name": "Tic Tac Toe",
+      "slug": "tic-tac-toe",
+      "subject": "strategy game vs AI",
+      "one_liner": "Play X or O against an unbeatable minimax machine - a draw counts as a victory.",
+      "repo": "https://github.com/iLanis-agent/tic-tac-toe",
+      "live": "https://ilanis-agent.github.io/tic-tac-toe/",
+      "created_at": "2026-09-21T11:21:37+03:00"
+    },
+    {
+      "n": 38,
+      "name": "Simon",
+      "slug": "simon",
+      "subject": "memory tones game",
+      "one_liner": "Watch the growing pattern of lights and tones, play it back - strict mode for the brave.",
+      "repo": "https://github.com/iLanis-agent/simon",
+      "live": "https://ilanis-agent.github.io/simon/",
+      "created_at": "2026-09-21T12:17:29+03:00"
+    },
+    {
+      "n": 39,
+      "name": "Flood It",
+      "slug": "flood-it",
+      "subject": "flood-fill puzzle",
+      "one_liner": "Turn a 14x14 mosaic into one color, flooding from the corner, in 25 moves or fewer.",
+      "repo": "https://github.com/iLanis-agent/flood-it",
+      "live": "https://ilanis-agent.github.io/flood-it/",
+      "created_at": "2026-09-21T13:06:10+03:00"
+    },
+    {
+      "n": 40,
+      "name": "Fifteen",
+      "slug": "slide-15",
+      "subject": "sliding puzzle",
+      "one_liner": "Slide fifteen tiles back into order - every shuffle is guaranteed solvable, fewest-moves best saved.",
+      "repo": "https://github.com/iLanis-agent/slide-15",
+      "live": "https://ilanis-agent.github.io/slide-15/",
+      "created_at": "2026-09-21T14:06:57+03:00"
+    },
+    {
+      "n": 41,
+      "name": "FairChore",
+      "slug": "fairchore",
+      "subject": "startup idea: chore fairness optimizer",
+      "one_liner": "Housemates rate how much they hate each chore; an optimizer splits the work at minimum household misery.",
+      "repo": "https://github.com/iLanis-agent/fairchore",
+      "live": "https://ilanis-agent.github.io/fairchore/",
+      "created_at": "2026-09-21T15:08:25+03:00"
+    },
+    {
+      "n": 42,
+      "name": "ShadeSide",
+      "slug": "shadeside",
+      "subject": "startup idea: sun-glare seat picker",
+      "one_liner": "Real solar math tells you which side of the bus, car or plane stays in shade for your ride.",
+      "repo": "https://github.com/iLanis-agent/shadeside",
+      "live": "https://ilanis-agent.github.io/shadeside/",
+      "created_at": "2026-09-21T16:09:11+03:00"
+    },
+    {
+      "n": 43,
+      "name": "SafePlate",
+      "slug": "safeplate",
+      "subject": "startup idea: group dining constraint solver",
+      "one_liner": "Intersect every guest's dietary restrictions into a menu the whole table can eat, plus one-swap near-misses.",
+      "repo": "https://github.com/iLanis-agent/safeplate",
+      "live": "https://ilanis-agent.github.io/safeplate/",
+      "created_at": "2026-09-21T17:09:20+03:00"
+    },
+    {
+      "n": 44,
+      "name": "LastCup",
+      "slug": "lastcup",
+      "subject": "startup idea: caffeine cutoff calculator",
+      "one_liner": "log today's caffeine, project what's left at bedtime, get the exact clock time of your last safe cup",
+      "repo": "https://github.com/iLanis-agent/lastcup",
+      "live": "https://ilanis-agent.github.io/lastcup/",
+      "created_at": "2026-09-21T18:11:05+03:00"
+    },
+    {
+      "n": 45,
+      "name": "TrialGuard",
+      "slug": "trialguard",
+      "subject": "startup idea: free-trial cancellation tracker",
+      "one_liner": "track every free trial, see the real monthly/yearly burn if all convert, and get a countdown to each cancel-by date",
+      "repo": "https://github.com/iLanis-agent/trialguard",
+      "live": "https://ilanis-agent.github.io/trialguard/",
+      "created_at": "2026-09-21T19:11:01+03:00"
+    },
+    {
+      "n": 46,
+      "name": "ShrinkRay",
+      "slug": "shrinkray",
+      "subject": "startup idea: shrinkflation detector",
+      "one_liner": "log price + package size each purchase; it flags the moment a product shrank while its price stayed the same, plus a shelf pack comparator",
+      "repo": "https://github.com/iLanis-agent/shrinkray",
+      "live": "https://ilanis-agent.github.io/shrinkray/",
+      "created_at": "2026-09-21T20:12:19+03:00"
+    },
+    {
+      "n": 47,
+      "name": "SettleUp",
+      "slug": "settleup",
+      "subject": "startup idea: minimal-transfer expense splitter",
+      "one_liner": "log group expenses, net everyone out, and collapse the debt web into the fewest possible payback transfers",
+      "repo": "https://github.com/iLanis-agent/settleup",
+      "live": "https://ilanis-agent.github.io/settleup/",
+      "created_at": "2026-09-21T21:26:55+03:00"
+    },
+    {
+      "n": 48,
+      "name": "Overlap",
+      "slug": "overlap",
+      "subject": "startup idea: timezone overlap finder",
+      "one_liner": "lay every teammate's working day on one UTC grid, see the shared window in green, get meeting slots with each person's local time",
+      "repo": "https://github.com/iLanis-agent/overlap",
+      "live": "https://ilanis-agent.github.io/overlap/",
+      "created_at": "2026-09-21T22:50:38+03:00"
+    },
+    {
+      "n": 49,
+      "name": "SleepDebt",
+      "slug": "sleepdebt",
+      "subject": "startup idea: sleep bank ledger",
+      "one_liner": "log each night's hours, see your running sleep debt or surplus, and get a recovery plan with the exact date you're back to zero",
+      "repo": "https://github.com/iLanis-agent/sleepdebt",
+      "live": "https://ilanis-agent.github.io/sleepdebt/",
+      "created_at": "2026-09-21T23:51:20+03:00"
+    },
+    {
+      "n": 50,
+      "name": "ChargeWorth",
+      "slug": "chargeworth",
+      "subject": "startup idea: EV-vs-gas break-even calculator",
+      "one_liner": "total cost of ownership year by year with the exact break-even year, 10-year savings, and an honest never-when-it-never",
+      "repo": "https://github.com/iLanis-agent/chargeworth",
+      "live": "https://ilanis-agent.github.io/chargeworth/",
+      "created_at": "2026-09-22T00:53:17+03:00"
+    },
+    {
+      "n": 51,
+      "name": "Runoff",
+      "slug": "runoff",
+      "subject": "startup idea: ranked-choice group decisions",
+      "one_liner": "pass the phone, everyone ranks the options once, instant-runoff rounds find the pick with real majority support",
+      "repo": "https://github.com/iLanis-agent/runoff",
+      "live": "https://ilanis-agent.github.io/runoff/",
+      "created_at": "2026-09-22T01:52:56+03:00"
+    },
+    {
+      "n": 52,
+      "name": "DoorScore",
+      "slug": "doorscore",
+      "subject": "startup idea: apartment viewing scorecard that turns every visit into a weighted same-day score with deal-breaker flags",
+      "one_liner": "Eight viewings blur together. Score each one the same day, on the same weighted criteria - and let one deal-breaker flag sink a pretty average.",
+      "repo": "https://github.com/iLanis-agent/doorscore",
+      "live": "https://ilanis-agent.github.io/doorscore/",
+      "created_at": "2026-09-21T23:54:01Z"
+    },
+    {
+      "n": 53,
+      "name": "CoverClock",
+      "slug": "coverclock",
+      "subject": "startup idea: countdown tracker for the invisible deadlines on every receipt - return windows and warranties",
+      "one_liner": "Every receipt is a countdown you can't see. CoverClock puts every purchase on a visible timer and floats the urgent ones to the top.",
+      "repo": "https://github.com/iLanis-agent/coverclock",
+      "live": "https://ilanis-agent.github.io/coverclock/",
+      "created_at": "2026-09-22T01:26:51Z"
+    },
+    {
+      "n": 54,
+      "name": "PayChase",
+      "slug": "paychase",
+      "subject": "startup idea: freelancer cash-flow radar that ages invoices, schedules follow-up nudges and accrues late fees",
+      "one_liner": "Late invoices don't chase themselves. PayChase shows who owes you, how late they are, when to nudge next, and what the lateness costs.",
+      "repo": "https://github.com/iLanis-agent/paychase",
+      "live": "https://ilanis-agent.github.io/paychase/",
+      "created_at": "2026-09-22T02:27:50Z"
+    },
+    {
+      "n": 55,
+      "name": "Upkeep",
+      "slug": "upkeep",
+      "subject": "startup idea: recurring home-maintenance memory that turns forgotten filters and gutters into visible due dates",
+      "one_liner": "Your house remembers nothing. Upkeep runs the clocks on every filter, battery and gutter, sorts the most overdue to the top, and scores your home's health.",
+      "repo": "https://github.com/iLanis-agent/upkeep",
+      "live": "https://ilanis-agent.github.io/upkeep/",
+      "created_at": "2026-09-22T04:40:43Z"
+    },
+    {
+      "n": 56,
+      "name": "GiftLoop",
+      "slug": "giftloop",
+      "subject": "startup idea: gift-idea CRM that catches ideas year-round and flags repeat gifts",
+      "one_liner": "Gift ideas strike in March and evaporate by December. GiftLoop catches them, ranks the best, and warns before you repeat a gift you already gave.",
+      "repo": "https://github.com/iLanis-agent/giftloop",
+      "live": "https://ilanis-agent.github.io/giftloop/",
+      "created_at": "2026-09-22T05:35:11Z"
+    },
+    {
+      "n": 57,
+      "name": "DebtDown",
+      "slug": "debtdown",
+      "subject": "startup idea: debt payoff planner that simulates avalanche vs snowball and prices the difference",
+      "one_liner": "Which debt first? The wrong order quietly costs thousands. DebtDown simulates avalanche vs snowball and shows the difference in dollars and months.",
+      "repo": "https://github.com/iLanis-agent/debtdown",
+      "live": "https://ilanis-agent.github.io/debtdown/",
+      "created_at": "2026-09-22T06:36:38Z"
+    },
+    {
+      "n": 58,
+      "name": "Lendmark",
+      "slug": "lendmark",
+      "subject": "startup idea: lent-item tracker that builds borrower trust scores from real return history",
+      "one_liner": "Your drill has been gone four months. Lendmark gives every loan a due date and a countdown, and scores each borrower by whether things actually come back.",
+      "repo": "https://github.com/iLanis-agent/lendmark",
+      "live": "https://ilanis-agent.github.io/lendmark/",
+      "created_at": "2026-09-22T07:37:31Z"
+    },
+    {
+      "n": 59,
+      "name": "CoastFI",
+      "slug": "coastfi",
+      "subject": "startup idea: financial independence calculator that surfaces the coast-FIRE milestone people pass without noticing",
+      "one_liner": "When can you stop working? One compound-interest question. CoastFI shows your FI number, years to reach it, and the coast point where savings finish the race alone.",
+      "repo": "https://github.com/iLanis-agent/coastfi",
+      "live": "https://ilanis-agent.github.io/coastfi/",
+      "created_at": "2026-09-22T08:37:49Z"
+    },
+    {
+      "n": 60,
+      "name": "MeetingTax",
+      "slug": "meetingtax",
+      "subject": "startup idea: live meeting cost ticker that puts a payroll meter on every meeting",
+      "one_liner": "Eight people in a room for an hour is $700 of payroll that shows up in no budget. MeetingTax puts the meter on the wall.",
+      "repo": "https://github.com/iLanis-agent/meetingtax",
+      "live": "https://ilanis-agent.github.io/meetingtax/",
+      "created_at": "2026-09-22T09:38:22Z"
+    },
+    {
+      "n": 61,
+      "name": "PlantPulse",
+      "slug": "plantpulse",
+      "subject": "startup idea: per-species houseplant care scheduling",
+      "one_liner": "Houseplant care that runs on each plant's own clock - thirstiest first.",
+      "repo": "https://github.com/iLanis-agent/plantpulse",
+      "live": "https://ilanis-agent.github.io/plantpulse/",
+      "created_at": "2026-09-22T10:39:49Z"
+    },
+    {
+      "n": 62,
+      "name": "PackCheck",
+      "slug": "packcheck",
+      "subject": "startup idea: reusable packing lists",
+      "one_liner": "Packing lists that persist - check off, reset, never forget the lock again.",
+      "repo": "https://github.com/iLanis-agent/packcheck",
+      "live": "https://ilanis-agent.github.io/packcheck/",
+      "created_at": "2026-09-22T11:40:10Z"
+    },
+    {
+      "n": 63,
+      "name": "SpareKey",
+      "slug": "sparekey",
+      "subject": "startup idea: home access ledger",
+      "one_liner": "Who can get into your place right now? Track every key copy and code you hand out.",
+      "repo": "https://github.com/iLanis-agent/sparekey",
+      "live": "https://ilanis-agent.github.io/sparekey/",
+      "created_at": "2026-09-22T12:41:02Z"
+    },
+    {
+      "n": 64,
+      "name": "MeetFair",
+      "slug": "meetfair",
+      "subject": "startup idea: fair cross-timezone meeting scheduling",
+      "one_liner": "Find meeting hours where nobody pays - slots ranked by pain across timezones.",
+      "repo": "https://github.com/iLanis-agent/meetfair",
+      "live": "https://ilanis-agent.github.io/meetfair/",
+      "created_at": "2026-09-22T13:42:22Z"
+    },
+    {
+      "n": 65,
+      "name": "MealMath",
+      "slug": "mealmath",
+      "subject": "startup idea: recipe scaling in kitchen fractions",
+      "one_liner": "Scale any recipe to any servings - answers come out as 2 1/4 tsp, never 2.25.",
+      "repo": "https://github.com/iLanis-agent/mealmath",
+      "live": "https://ilanis-agent.github.io/mealmath/",
+      "created_at": "2026-09-22T14:46:54Z"
+    },
+    {
+      "n": 66,
+      "name": "FuelLog",
+      "slug": "fuellog",
+      "subject": "startup idea: real fuel efficiency tracking",
+      "one_liner": "Log each fill-up; see real km/L per tank, cost per km, and the trend.",
+      "repo": "https://github.com/iLanis-agent/fuellog",
+      "live": "https://ilanis-agent.github.io/fuellog/",
+      "created_at": "2026-09-22T17:19:16Z"
+    },
+    {
+      "n": 67,
+      "name": "BookLog",
+      "slug": "booklog",
+      "subject": "startup idea: honest reading pace and finish projections",
+      "one_liner": "Log the page you're on; get your real pace and the date you'll finish.",
+      "repo": "https://github.com/iLanis-agent/booklog",
+      "live": "https://ilanis-agent.github.io/booklog/",
+      "created_at": "2026-09-22T20:03:28Z"
+    },
+    {
+      "n": 68,
+      "name": "DayChain",
+      "slug": "daychain",
+      "subject": "startup idea: visible daily habit streaks",
+      "one_liner": "Check in daily, watch the streak climb, get flagged when today is still missing.",
+      "repo": "https://github.com/iLanis-agent/daychain",
+      "live": "https://ilanis-agent.github.io/daychain/",
+      "created_at": "2026-09-22T20:51:03Z"
+    },
+    {
+      "n": 69,
+      "name": "WearCost",
+      "slug": "wearcost",
+      "subject": "startup idea: cost-per-wear wardrobe truth",
+      "one_liner": "The $200 jacket worn twice costs $100/wear. Log wears, rank your closet by real cost.",
+      "repo": "https://github.com/iLanis-agent/wearcost",
+      "live": "https://ilanis-agent.github.io/wearcost/",
+      "created_at": "2026-09-22T21:52:14Z"
+    },
+    {
+      "n": 70,
+      "name": "PetMeds",
+      "slug": "petmeds",
+      "subject": "startup idea: pet medication runout projections",
+      "one_liner": "Pills on hand divided by daily dose = the exact runout date, flagged before the gap.",
+      "repo": "https://github.com/iLanis-agent/petmeds",
+      "live": "https://ilanis-agent.github.io/petmeds/",
+      "created_at": "2026-09-22T22:52:44Z"
+    },
+    {
+      "n": 71,
+      "name": "LineOracle",
+      "slug": "lineoracle",
+      "subject": "startup idea: real-time queue wait estimation",
+      "one_liner": "Tap each time someone gets served; the line's true pace projects your real wait, band, and ETA.",
+      "repo": "https://github.com/iLanis-agent/lineoracle",
+      "live": "https://ilanis-agent.github.io/lineoracle/",
+      "created_at": "2026-09-22T23:54:16Z"
+    },
+    {
+      "n": 72,
+      "name": "ProofKeep",
+      "slug": "proofkeep",
+      "subject": "startup idea: warranty lapse protection",
+      "one_liner": "Exact coverage end dates for everything you own, with claim-window warnings at 30 days.",
+      "repo": "https://github.com/iLanis-agent/proofkeep",
+      "live": "https://ilanis-agent.github.io/proofkeep/",
+      "created_at": "2026-09-23T00:56:04Z"
+    },
+    {
+      "n": 73,
+      "name": "VisitBrief",
+      "slug": "visitbrief",
+      "subject": "startup idea: doctor visit preparation",
+      "one_liner": "Daily symptom logging compiled into a ranked brief - onset, trend, worst day, questions - for the appointment.",
+      "repo": "https://github.com/iLanis-agent/visitbrief",
+      "live": "https://ilanis-agent.github.io/visitbrief/",
+      "created_at": "2026-09-23T01:55:14Z"
+    },
+    {
+      "n": 74,
+      "name": "QuietFile",
+      "slug": "quietfile",
+      "subject": "startup idea: noise complaint documentation",
+      "one_liner": "One-tap disturbance logging that compiles into a landlord-ready evidence report with patterns and timestamps.",
+      "repo": "https://github.com/iLanis-agent/quietfile",
+      "live": "https://ilanis-agent.github.io/quietfile/",
+      "created_at": "2026-09-23T02:56:37Z"
+    },
+    {
+      "n": 75,
+      "name": "SecondSpin",
+      "slug": "secondspin",
+      "subject": "startup idea: declutter sell-vs-keep decisions",
+      "one_liner": "Category depreciation curves price your stuff and give the verdict: sell soon, keep, or donate.",
+      "repo": "https://github.com/iLanis-agent/secondspin",
+      "live": "https://ilanis-agent.github.io/secondspin/",
+      "created_at": "2026-09-23T03:56:59Z"
+    },
+    {
+      "n": 76,
+      "name": "ColdSnap",
+      "slug": "coldsnap",
+      "subject": "startup idea: power outage food safety",
+      "one_liner": "USDA-window countdowns for fridge and freezer during an outage, with save/check/toss guidance.",
+      "repo": "https://github.com/iLanis-agent/coldsnap",
+      "live": "https://ilanis-agent.github.io/coldsnap/",
+      "created_at": "2026-09-23T04:57:49Z"
+    },
+    {
+      "n": 77,
+      "name": "EatFirst",
+      "slug": "eatfirst",
+      "subject": "startup idea: leftover safety tracking",
+      "one_liner": "Per-type safe windows for every leftover, ordered eat-first, with eat-today and toss banners.",
+      "repo": "https://github.com/iLanis-agent/eatfirst",
+      "live": "https://ilanis-agent.github.io/eatfirst/",
+      "created_at": "2026-09-23T06:00:21Z"
+    },
+    {
+      "n": 78,
+      "name": "SitSheet",
+      "slug": "sitsheet",
+      "subject": "startup idea: sitter handoff briefs",
+      "one_liner": "Keep your house profile once; print a clean sitter brief per trip with dates, gaps flagged.",
+      "repo": "https://github.com/iLanis-agent/sitsheet",
+      "live": "https://ilanis-agent.github.io/sitsheet/",
+      "created_at": "2026-09-23T07:47:31Z"
+    },
+    {
+      "n": 79,
+      "name": "RenewCue",
+      "slug": "renewcue",
+      "subject": "startup idea: document renewal lead-time tracking",
+      "one_liner": "Per-type renewal lead times (passport 9mo, visa 3mo) flag renew-now before the window closes.",
+      "repo": "https://github.com/iLanis-agent/renewcue",
+      "live": "https://ilanis-agent.github.io/renewcue/",
+      "created_at": "2026-09-23T08:48:06Z"
+    },
+    {
+      "n": 80,
+      "name": "MeterMind",
+      "slug": "metermind",
+      "subject": "startup idea: parking meter leave-by countdown",
+      "one_liner": "Counts down to leave-by (meter end minus walk-back), with spot notes and one-tap extension.",
+      "repo": "https://github.com/iLanis-agent/metermind",
+      "live": "https://ilanis-agent.github.io/metermind/",
+      "created_at": "2026-09-23T09:48:56.248252+00:00"
+    },
+    {
+      "n": 81,
+      "name": "LendLoop",
+      "slug": "lendloop",
+      "subject": "startup idea: lent-item return tracking",
+      "one_liner": "Track what you lent, to whom, and when it is due back, with ready-made friendly or direct nudge texts.",
+      "repo": "https://github.com/iLanis-agent/lendloop",
+      "live": "https://ilanis-agent.github.io/lendloop/",
+      "created_at": "2026-09-23T10:50:28.869593+00:00"
+    },
+    {
+      "n": 82,
+      "name": "DepositProof",
+      "slug": "depositproof",
+      "subject": "startup idea: rental deposit evidence trail",
+      "one_liner": "Timestamped move-out condition log with the deposit-return deadline counting down, and a landlord-ready report.",
+      "repo": "https://github.com/iLanis-agent/depositproof",
+      "live": "https://ilanis-agent.github.io/depositproof/",
+      "created_at": "2026-09-23T11:52:56.766733+00:00"
+    },
+    {
+      "n": 83,
+      "name": "NameNest",
+      "slug": "namenest",
+      "subject": "startup idea: private mutual-match baby name shortlists",
+      "one_liner": "Two partners like baby names privately; only mutual matches are revealed, so vetoes never start a fight.",
+      "repo": "https://github.com/iLanis-agent/namenest",
+      "live": "https://ilanis-agent.github.io/namenest/",
+      "created_at": "2026-09-23T13:13:38.155385+00:00"
+    },
+    {
+      "n": 84,
+      "name": "QuoteScope",
+      "slug": "quotescope",
+      "subject": "startup idea: contractor bid normalization",
+      "one_liner": "Lines contractor bids up against one shared scope, prices the silent gaps, and flags outlier line items.",
+      "repo": "https://github.com/iLanis-agent/quotescope",
+      "live": "https://ilanis-agent.github.io/quotescope/",
+      "created_at": "2026-09-23T14:03:18.958337+00:00"
+    },
+    {
+      "n": 85,
+      "name": "FermentWatch",
+      "slug": "fermentwatch",
+      "subject": "startup idea: temperature-aware sourdough scheduling",
+      "one_liner": "Sourdough bake-day schedule rebuilt around your actual kitchen temperature, with live stage guidance.",
+      "repo": "https://github.com/iLanis-agent/fermentwatch",
+      "live": "https://ilanis-agent.github.io/fermentwatch/",
+      "created_at": "2026-09-23T15:21:42.520590+00:00"
+    },
+    {
+      "n": 86,
+      "name": "RetireReady",
+      "slug": "retireready",
+      "subject": "startup idea: appliance repair-vs-replace decisions",
+      "one_liner": "Tracks appliance age against typical lifespan and applies the 50% rule so repair-vs-replace becomes math.",
+      "repo": "https://github.com/iLanis-agent/retireready",
+      "live": "https://ilanis-agent.github.io/retireready/",
+      "created_at": "2026-09-23T16:44:41.488457+00:00"
+    },
+    {
+      "n": 87,
+      "name": "MealTrain",
+      "slug": "mealtrain",
+      "subject": "startup idea: community meal coordination",
+      "one_liner": "Coordinates who brings which meal on which night for a family that needs feeding - no double lasagna.",
+      "repo": "https://github.com/iLanis-agent/mealtrain",
+      "live": "https://ilanis-agent.github.io/mealtrain/",
+      "created_at": "2026-09-23T17:32:28.148867+00:00"
+    },
+    {
+      "n": 88,
+      "name": "MoveBox",
+      "slug": "movebox",
+      "subject": "startup idea: searchable moving-box inventory",
+      "one_liner": "Numbered moving boxes with searchable contents and a night-one essentials list, so the kettle is findable.",
+      "repo": "https://github.com/iLanis-agent/movebox",
+      "live": "https://ilanis-agent.github.io/movebox/",
+      "created_at": "2026-09-23T19:05:38.343948+00:00"
+    },
+    {
+      "n": 89,
+      "name": "ScopeGuard",
+      "slug": "scopeguard",
+      "subject": "startup idea: freelance scope-creep pricing",
+      "one_liner": "Logs out-of-scope change requests, prices the creep at your real rate, and writes the change-order email.",
+      "repo": "https://github.com/iLanis-agent/scopeguard",
+      "live": "https://ilanis-agent.github.io/scopeguard/",
+      "created_at": "2026-09-23T19:57:55.881785+00:00"
+    },
+    {
+      "n": 90,
+      "name": "TaperCoach",
+      "slug": "tapercoach",
+      "subject": "startup idea: runner race-taper planning",
+      "one_liner": "Day-by-day race taper plan from your distance, date, and mileage - cutback curves, carb-load window, live countdown.",
+      "repo": "https://github.com/iLanis-agent/tapercoach",
+      "live": "https://ilanis-agent.github.io/tapercoach/",
+      "created_at": "2026-09-23T20:58:06Z"
+    },
+    {
+      "n": 91,
+      "name": "ReplyRadar",
+      "slug": "replyradar",
+      "subject": "startup idea: event RSVP chasing",
+      "one_liner": "Track guest replies, see a realistic headcount band, and copy deadline-aware polite chase messages for the silent ones.",
+      "repo": "https://github.com/iLanis-agent/replyradar",
+      "live": "https://ilanis-agent.github.io/replyradar/",
+      "created_at": "2026-09-23T21:58:51Z"
+    },
+    {
+      "n": 92,
+      "name": "StarDrill",
+      "slug": "stardrill",
+      "subject": "startup idea: STAR interview rehearsal pacing",
+      "one_liner": "Pace behavioral answers through timed STAR segments, score each rep on structure and clarity, and map your coverage across a 24-question bank.",
+      "repo": "https://github.com/iLanis-agent/stardrill",
+      "live": "https://ilanis-agent.github.io/stardrill/",
+      "created_at": "2026-09-23T22:59:50Z"
+    },
+    {
+      "n": 93,
+      "name": "DelayPay",
+      "slug": "delaypay",
+      "subject": "startup idea: EU261 flight compensation claims",
+      "one_liner": "Check what a delayed or cancelled flight owes you under EU261 - scope, distance bands, extraordinary-circumstance defenses - and get a ready-to-send claim letter.",
+      "repo": "https://github.com/iLanis-agent/delaypay",
+      "live": "https://ilanis-agent.github.io/delaypay/",
+      "created_at": "2026-09-24T00:00:43Z"
+    },
+    {
+      "n": 94,
+      "name": "PayAnchor",
+      "slug": "payanchor",
+      "subject": "startup idea: salary negotiation preparation",
+      "one_liner": "Turn target, market range and leverage into anchor/target/floor numbers, scenario counters, and word-for-word negotiation scripts.",
+      "repo": "https://github.com/iLanis-agent/payanchor",
+      "live": "https://ilanis-agent.github.io/payanchor/",
+      "created_at": "2026-09-24T01:01:12Z"
+    },
+    {
+      "n": 95,
+      "name": "NinetyDays",
+      "slug": "ninetydays",
+      "subject": "startup idea: Schengen 90/180 stay tracking",
+      "one_liner": "Rolling-window math for the Schengen 90/180 rule - days used, max stay from any entry date, last safe exit, and a roll-off forecast.",
+      "repo": "https://github.com/iLanis-agent/ninetydays",
+      "live": "https://ilanis-agent.github.io/ninetydays/",
+      "created_at": "2026-09-24T02:02:25Z"
+    },
+    {
+      "n": 96,
+      "name": "KidBank",
+      "slug": "kidbank",
+      "subject": "startup idea: family allowance banking",
+      "one_liner": "Allowance ledger with Spend/Save/Give jars, weekly accrual, parent-set compound interest on savings, and a goal tracker with weeks-to-go.",
+      "repo": "https://github.com/iLanis-agent/kidbank",
+      "live": "https://ilanis-agent.github.io/kidbank/",
+      "created_at": "2026-09-24T03:03:09Z"
+    },
+    {
+      "n": 97,
+      "name": "DonorClock",
+      "slug": "donorclock",
+      "subject": "startup idea: blood donation eligibility tracking",
+      "one_liner": "Per-type donation intervals and rolling annual caps, exact next-eligible dates, lifetime liters and impact, and a year streak.",
+      "repo": "https://github.com/iLanis-agent/donorclock",
+      "live": "https://ilanis-agent.github.io/donorclock/",
+      "created_at": "2026-09-24T04:04:15Z"
+    },
+    {
+      "n": 98,
+      "name": "SubScrub",
+      "slug": "subscrub",
+      "subject": "startup idea: subscription audit and cut simulator",
+      "one_liner": "Normalize every billing cycle into one honest burn, score each sub by cost per use, and simulate what you save by cutting the dead weight.",
+      "repo": "https://github.com/iLanis-agent/subscrub",
+      "live": "https://ilanis-agent.github.io/subscrub/",
+      "created_at": "2026-09-24T05:05:52Z"
+    },
+    {
+      "n": 99,
+      "name": "SPFClock",
+      "slug": "spfclock",
+      "subject": "startup idea: sunscreen reapply and safe-exposure timing",
+      "one_liner": "Skin type x SPF x activity becomes a real reapply countdown - 2-hour dry cap, 40 minutes swimming - with the day's protected hours tallied.",
+      "repo": "https://github.com/iLanis-agent/spfclock",
+      "live": "https://ilanis-agent.github.io/spfclock/",
+      "created_at": "2026-09-24T06:05:36Z"
+    },
+    {
+      "n": 100,
+      "name": "SipPace",
+      "slug": "sippace",
+      "subject": "startup idea: hydration pacing coach",
+      "one_liner": "Not just counting - pacing: a weight-based target spread across your waking hours, with expected-by-now status and one-tap pours.",
+      "repo": "https://github.com/iLanis-agent/sippace",
+      "live": "https://ilanis-agent.github.io/sippace/",
+      "created_at": "2026-09-24T07:06:16Z"
+    },
+    {
+      "n": 101,
+      "name": "FastWindow",
+      "slug": "fastwindow",
+      "subject": "startup idea: intermittent fasting window timer",
+      "one_liner": "Five protocols, one honest countdown - hours left, window-open time, overtime credit, and a streak that forgives today.",
+      "repo": "https://github.com/iLanis-agent/fastwindow",
+      "live": "https://ilanis-agent.github.io/fastwindow/",
+      "created_at": "2026-09-24T08:07:09Z"
+    },
+    {
+      "n": 102,
+      "name": "WindDown",
+      "slug": "winddown",
+      "subject": "startup idea: pre-sleep wind-down scheduling",
+      "one_liner": "Set your bedtime and the hour before it becomes a scheduled evening - exact clock times, a live now-step, and a night streak.",
+      "repo": "https://github.com/iLanis-agent/winddown",
+      "live": "https://ilanis-agent.github.io/winddown/",
+      "created_at": "2026-09-24T10:08:47Z"
+    },
+    {
+      "n": 103,
+      "name": "CramPlan",
+      "slug": "cramplan",
+      "subject": "startup idea: exam study load balancer",
+      "one_liner": "Rate every topic by confidence and CramPlan spends your remaining days on the weak ones - weighted allocation, daily mixed plan, readiness score.",
+      "repo": "https://github.com/iLanis-agent/cramplan",
+      "live": "https://ilanis-agent.github.io/cramplan/",
+      "created_at": "2026-09-24T11:09:44Z"
+    },
+    {
+      "n": 104,
+      "name": "Moodline",
+      "slug": "moodline",
+      "subject": "startup idea: mood pattern mirror",
+      "one_liner": "Ten-second daily check-ins turn into weekday averages, a week-over-week trend, and proof of which day is actually your hardest.",
+      "repo": "https://github.com/iLanis-agent/moodline",
+      "live": "https://ilanis-agent.github.io/moodline/",
+      "created_at": "2026-09-24T12:10:28Z"
+    },
+    {
+      "n": 105,
+      "name": "BreathPacer",
+      "slug": "breathpacer",
+      "subject": "startup idea: guided breathing pacer",
+      "one_liner": "Four proven breathing patterns with an animated pacer that keeps the count - minutes become cycles, sessions become a streak.",
+      "repo": "https://github.com/iLanis-agent/breathpacer",
+      "live": "https://ilanis-agent.github.io/breathpacer/",
+      "created_at": "2026-09-24T13:11:35Z"
+    },
+    {
+      "n": 106,
+      "name": "NapWindow",
+      "slug": "napwindow",
+      "subject": "startup idea: baby nap wake-window planning",
+      "one_liner": "Age-based wake windows turn this morning's wake-up time into today's nap schedule and bedtime, with a two-tap nap log that shows the rhythm.",
+      "repo": "https://github.com/iLanis-agent/napwindow",
+      "live": "https://ilanis-agent.github.io/napwindow/",
+      "created_at": "2026-09-24T14:12:18Z"
+    },
+    {
+      "n": 107,
+      "name": "JetShift",
+      "slug": "jetshift",
+      "subject": "startup idea: jet lag shift planning",
+      "one_liner": "Real timezone math picks the shorter shift direction, then plans pre-flight bedtime moves and post-arrival light exposure, day by day.",
+      "repo": "https://github.com/iLanis-agent/jetshift",
+      "live": "https://ilanis-agent.github.io/jetshift/",
+      "created_at": "2026-09-24T15:13:24Z"
+    },
+    {
+      "n": 108,
+      "name": "SeatCraft",
+      "slug": "seatcraft",
+      "subject": "startup idea: event seating chart solving",
+      "one_liner": "Paste the guest list, mark must-sit-together and keep-apart pairs, and a scored local search builds a chart that keeps groups together and feuds apart.",
+      "repo": "https://github.com/iLanis-agent/seatcraft",
+      "live": "https://ilanis-agent.github.io/seatcraft/",
+      "created_at": "2026-09-24T16:14:24Z"
+    },
+    {
+      "n": 109,
+      "name": "TaxStash",
+      "slug": "taxstash",
+      "subject": "startup idea: freelance tax set-aside pacing",
+      "one_liner": "Every payment gets split into yours and the taxman's, bucketed into the real IRS quarter schedule, with a safe-to-spend number and a next-due countdown.",
+      "repo": "https://github.com/iLanis-agent/taxstash",
+      "live": "https://ilanis-agent.github.io/taxstash/",
+      "created_at": "2026-09-24T17:15:08Z"
+    },
+    {
+      "n": 110,
+      "name": "MileMinder",
+      "slug": "mileminder",
+      "subject": "startup idea: car maintenance interval tracking",
+      "one_liner": "Every service item runs on two clocks - kilometers and months. MileMinder watches both, flags whichever hits first, and projects the date from how much you drive.",
+      "repo": "https://github.com/iLanis-agent/mileminder",
+      "live": "https://ilanis-agent.github.io/mileminder/",
+      "created_at": "2026-09-24T18:15:53Z"
+    },
+    {
+      "n": 111,
+      "name": "ChargePlan",
+      "slug": "chargeplan",
+      "subject": "startup idea: EV off-peak charging scheduling",
+      "one_liner": "Battery, target and morning deadline become exact start and stop times inside the cheap window - taper above 80% priced in, and an honest verdict when it won't fit.",
+      "repo": "https://github.com/iLanis-agent/chargeplan",
+      "live": "https://ilanis-agent.github.io/chargeplan/",
+      "created_at": "2026-09-24T19:16:50Z"
+    },
+    {
+      "n": 112,
+      "name": "OfferLane",
+      "slug": "offerlane",
+      "subject": "startup idea: job application pipeline tracking",
+      "one_liner": "Every application is a lane that moves one stage at a time; follow-up nudges float silent companies to the top, and funnel stats show where the search leaks.",
+      "repo": "https://github.com/iLanis-agent/offerlane",
+      "live": "https://ilanis-agent.github.io/offerlane/",
+      "created_at": "2026-09-24T20:17:31Z"
+    },
+    {
+      "n": 113,
+      "name": "SwimPace",
+      "slug": "swimpace",
+      "subject": "startup idea: swim training pace zones",
+      "one_liner": "Two timed swims give your critical swim speed; SwimPace turns it into four training zones and a workout with clock-readable send-off times.",
+      "repo": "https://github.com/iLanis-agent/swimpace",
+      "live": "https://ilanis-agent.github.io/swimpace/",
+      "created_at": "2026-09-24T21:18:10Z"
+    },
+    {
+      "n": 114,
+      "name": "PlateLine",
+      "slug": "platedline",
+      "subject": "startup idea: reverse-timed multi-dish cooking schedules",
+      "one_liner": "Works backwards from your serve time to tell you the exact minute to start each dish, and flags oven-temperature clashes.",
+      "repo": "https://github.com/iLanis-agent/platedline",
+      "live": "https://ilanis-agent.github.io/platedline/",
+      "created_at": "2026-09-24T22:19:08Z"
+    },
+    {
+      "n": 115,
+      "name": "DoseClock",
+      "slug": "doseclock",
+      "subject": "startup idea: medication dose spacing into real clock times",
+      "one_liner": "Turns \"take N times a day\" into exact clock times spread across your waking window, with gap enforcement and mealtime snapping.",
+      "repo": "https://github.com/iLanis-agent/doseclock",
+      "live": "https://ilanis-agent.github.io/doseclock/",
+      "created_at": "2026-09-24T23:20:04Z"
+    },
+    {
+      "n": 116,
+      "name": "SetbackCalc",
+      "slug": "setbackcalc",
+      "subject": "startup idea: thermostat setback savings pricing",
+      "one_liner": "Prices your thermostat setback in dollars and CO2 using the physics that heating energy tracks the indoor-outdoor temperature gap.",
+      "repo": "https://github.com/iLanis-agent/setbackcalc",
+      "live": "https://ilanis-agent.github.io/setbackcalc/",
+      "created_at": "2026-09-25T00:20:53Z"
+    },
+    {
+      "n": 117,
+      "name": "PhantomLoad",
+      "slug": "phantomload",
+      "subject": "startup idea: standby-power vampire audit",
+      "one_liner": "Prices every always-on device per year, splits out the pure standby phantom share, and ranks the worst offenders.",
+      "repo": "https://github.com/iLanis-agent/phantomload",
+      "live": "https://ilanis-agent.github.io/phantomload/",
+      "created_at": "2026-09-25T01:21:40Z"
+    },
+    {
+      "n": 118,
+      "name": "TouchBase",
+      "slug": "touchbase",
+      "subject": "startup idea: keep-in-touch cadence tracker",
+      "one_liner": "Per-person contact cadences and a ranked \"reach out next\" list, so staying close is a habit not a guilt trip.",
+      "repo": "https://github.com/iLanis-agent/touchbase",
+      "live": "https://ilanis-agent.github.io/touchbase/",
+      "created_at": "2026-09-25T02:22:21Z"
+    },
+    {
+      "n": 119,
+      "name": "DecisionLog",
+      "slug": "decisionlog",
+      "subject": "startup idea: decision journal with calibration scoring",
+      "one_liner": "Write down the decision, your prediction and confidence; grade it on the review date and read your overconfidence gap and Brier score.",
+      "repo": "https://github.com/iLanis-agent/decisionlog",
+      "live": "https://ilanis-agent.github.io/decisionlog/",
+      "created_at": "2026-09-25T03:23:16Z"
+    },
+    {
+      "n": 120,
+      "name": "GoBag",
+      "slug": "gobag",
+      "subject": "startup idea: 72-hour emergency kit builder with expiry tracking",
+      "one_liner": "Household-scaled 72-hour kit list, a readiness score, and an expiry radar for the water, food and batteries everyone forgets.",
+      "repo": "https://github.com/iLanis-agent/gobag",
+      "live": "https://ilanis-agent.github.io/gobag/",
+      "created_at": "2026-09-25T04:24:16Z"
+    },
+    {
+      "n": 121,
+      "name": "RentOrBuy",
+      "slug": "rentorbuy",
+      "subject": "startup idea: rent-vs-buy net worth simulator",
+      "one_liner": "Simulates both net worths year by year - equity and appreciation vs the invested down payment and monthly savings - and shows the crossover year.",
+      "repo": "https://github.com/iLanis-agent/rentorbuy",
+      "live": "https://ilanis-agent.github.io/rentorbuy/",
+      "created_at": "2026-09-25T05:25:15Z"
+    },
+    {
+      "n": 122,
+      "name": "FlyOrDrive",
+      "slug": "flyordrive",
+      "subject": "startup idea: honest fly-vs-drive comparison pricing the whole trip door to door - cost, time, CO2, and cost per hour saved",
+      "one_liner": "Is flying actually cheaper or faster than driving once you count bags, transfers, airport hours and overnight stops?",
+      "repo": "https://github.com/iLanis-agent/flyordrive",
+      "live": "https://ilanis-agent.github.io/flyordrive/",
+      "created_at": "2026-09-25T06:26:12.131Z"
+    }
+  ]
 }
