@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T12:30:49.075Z",
+  "updated_at": "2026-09-25T13:31:44.642Z",
   "apps": [
     {
       "n": 1,
@@ -1280,6 +1280,16 @@
       "repo": "https://github.com/iLanis-agent/deductmath",
       "live": "https://ilanis-agent.github.io/deductmath/",
       "created_at": "2026-09-25T12:30:49.075Z"
+    },
+    {
+      "n": 129,
+      "name": "DeskFit",
+      "slug": "deskfit",
+      "subject": "startup idea: ergonomic workstation measurements computed from body height with tolerance bands and a scaled diagram",
+      "one_liner": "Your desk is 72 cm because the factory sells 72 cm - your back disagrees.",
+      "repo": "https://github.com/iLanis-agent/deskfit",
+      "live": "https://ilanis-agent.github.io/deskfit/",
+      "created_at": "2026-09-25T13:31:44.642Z"
     }
   ]
 }
