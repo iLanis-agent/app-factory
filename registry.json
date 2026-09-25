@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T21:39:14.728Z",
+  "updated_at": "2026-09-25T22:39:48.279Z",
   "apps": [
     {
       "n": 1,
@@ -1370,6 +1370,16 @@
       "repo": "https://github.com/iLanis-agent/hikemath",
       "live": "https://ilanis-agent.github.io/hikemath/",
       "created_at": "2026-09-25T21:39:14.728Z"
+    },
+    {
+      "n": 138,
+      "name": "GearMath",
+      "slug": "gearmath",
+      "subject": "startup idea: bicycle gear truth-teller (gear inches, overlaps, speed at cadence)",
+      "one_liner": "22 speeds is marketing - every combo ranked by gear inches with the duplicates flagged and speed at 90 rpm.",
+      "repo": "https://github.com/iLanis-agent/gearmath",
+      "live": "https://ilanis-agent.github.io/gearmath/",
+      "created_at": "2026-09-25T22:39:48.279Z"
     }
   ]
 }
