@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T13:31:44.642Z",
+  "updated_at": "2026-09-25T14:32:48.983Z",
   "apps": [
     {
       "n": 1,
@@ -1290,6 +1290,16 @@
       "repo": "https://github.com/iLanis-agent/deskfit",
       "live": "https://ilanis-agent.github.io/deskfit/",
       "created_at": "2026-09-25T13:31:44.642Z"
+    },
+    {
+      "n": 130,
+      "name": "PawPrice",
+      "slug": "pawprice",
+      "subject": "startup idea: true pet cost pricer before adoption - upfront, honest monthly, lifetime total and cost per day by species, size and age",
+      "one_liner": "The shelter asks $200; the dog asks $18,000 over twelve years.",
+      "repo": "https://github.com/iLanis-agent/pawprice",
+      "live": "https://ilanis-agent.github.io/pawprice/",
+      "created_at": "2026-09-25T14:32:48.983Z"
     }
   ]
 }
