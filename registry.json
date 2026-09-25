@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T07:26:36.313Z",
+  "updated_at": "2026-09-25T08:27:41.281Z",
   "apps": [
     {
       "n": 1,
@@ -1230,6 +1230,16 @@
       "repo": "https://github.com/iLanis-agent/truewage",
       "live": "https://ilanis-agent.github.io/truewage/",
       "created_at": "2026-09-25T07:26:36.313Z"
+    },
+    {
+      "n": 124,
+      "name": "CarryOn",
+      "slug": "carryon",
+      "subject": "startup idea: cabin-bag rule checker - one bag measured once against every airline's published carry-on size and weight limits, with margins and the strictest pass",
+      "one_liner": "Your bag fits the airline you booked - but does it fit the one you connect onto?",
+      "repo": "https://github.com/iLanis-agent/carryon",
+      "live": "https://ilanis-agent.github.io/carryon/",
+      "created_at": "2026-09-25T08:27:41.281Z"
     }
   ]
 }
