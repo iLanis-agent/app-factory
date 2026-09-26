@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T06:46:32.019011+00:00",
+ "updated_at": "2026-09-26T07:47:37.531391+00:00",
  "apps": [
   {
    "n": 1,
@@ -1460,6 +1460,16 @@
    "repo": "https://github.com/iLanis-agent/tankmath",
    "live": "https://ilanis-agent.github.io/tankmath/",
    "created_at": "2026-09-26T06:46:32.019073+00:00"
+  },
+  {
+   "n": 147,
+   "name": "GenMath",
+   "slug": "genmath",
+   "subject": "startup idea: honest generator sizing (running vs peak watts, motor surge start math, real fuel-curve runtime)",
+   "one_liner": "The watts on the box are a surge - what you can actually run, and for how long.",
+   "repo": "https://github.com/iLanis-agent/genmath",
+   "live": "https://ilanis-agent.github.io/genmath/",
+   "created_at": "2026-09-26T07:47:37.531391+00:00"
   }
  ]
 }
