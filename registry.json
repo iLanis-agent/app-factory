@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T04:44:57.191791+00:00",
+ "updated_at": "2026-09-26T05:46:00.135840+00:00",
  "apps": [
   {
    "n": 1,
@@ -1440,6 +1440,16 @@
    "repo": "https://github.com/iLanis-agent/laddermath",
    "live": "https://ilanis-agent.github.io/laddermath/",
    "created_at": "2026-09-26T04:44:57.191828+00:00"
+  },
+  {
+   "n": 145,
+   "name": "AirMath",
+   "slug": "airmath",
+   "subject": "startup idea: honest air purifier sizing (ACH math, smoke CADR, box-claim decoder)",
+   "one_liner": "\"Covers 500 sq ft\" is a breeze, not a cleanup - ACH math, smoke-CADR honesty, and the verdict on the unit the box sold you.",
+   "repo": "https://github.com/iLanis-agent/airmath",
+   "live": "https://ilanis-agent.github.io/airmath/",
+   "created_at": "2026-09-26T05:46:00.135870+00:00"
   }
  ]
 }
