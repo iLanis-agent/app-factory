@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T10:49:48.153770+00:00",
+ "updated_at": "2026-09-26T11:50:28.415277+00:00",
  "apps": [
   {
    "n": 1,
@@ -1500,6 +1500,16 @@
    "repo": "https://github.com/iLanis-agent/tiremath",
    "live": "https://ilanis-agent.github.io/tiremath/",
    "created_at": "2026-09-26T10:49:48.153770+00:00"
+  },
+  {
+   "n": 151,
+   "name": "GrillMath",
+   "slug": "grillmath",
+   "subject": "startup idea: honest propane math (weigh-in vs gauge myth, cooks left by BTU, exchange-cage 15lb short)",
+   "one_liner": "The gauge says full, full, full, empty - a bathroom scale and one stamped number tell the truth.",
+   "repo": "https://github.com/iLanis-agent/grillmath",
+   "live": "https://ilanis-agent.github.io/grillmath/",
+   "created_at": "2026-09-26T11:50:28.415277+00:00"
   }
  ]
 }
