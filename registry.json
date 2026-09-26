@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T01:42:29.054948+00:00",
+ "updated_at": "2026-09-26T02:43:25.133266+00:00",
  "apps": [
   {
    "n": 1,
@@ -1410,6 +1410,16 @@
    "repo": "https://github.com/iLanis-agent/loudmath",
    "live": "https://ilanis-agent.github.io/loudmath/",
    "created_at": "2026-09-26T01:42:29.054990+00:00"
+  },
+  {
+   "n": 142,
+   "name": "TVMath",
+   "slug": "tvmath",
+   "subject": "startup idea: honest TV size picker (viewing-angle math, resolution benefit distance, to-scale comparison)",
+   "one_liner": "The showroom lies about TV size - viewing-angle math from your couch, the 30/40-degree truth, and whether your 4K is decoration.",
+   "repo": "https://github.com/iLanis-agent/tvmath",
+   "live": "https://ilanis-agent.github.io/tvmath/",
+   "created_at": "2026-09-26T02:43:25.133291+00:00"
   }
  ]
 }
