@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T23:40:51.625323+00:00",
+ "updated_at": "2026-09-26T00:41:52.159408+00:00",
  "apps": [
   {
    "n": 1,
@@ -1390,6 +1390,16 @@
    "repo": "https://github.com/iLanis-agent/packmath",
    "live": "https://ilanis-agent.github.io/packmath/",
    "created_at": "2026-09-25T23:40:51.625373+00:00"
+  },
+  {
+   "n": 140,
+   "name": "LightMath",
+   "slug": "lightmath",
+   "subject": "startup idea: honest room lighting sizer (lux targets by use, ceiling and surface corrections, bulb plan)",
+   "one_liner": "Your living room is a cave - lux targets by room use, real corrections, and a bulb plan that skips the seven-socket special.",
+   "repo": "https://github.com/iLanis-agent/lightmath",
+   "live": "https://ilanis-agent.github.io/lightmath/",
+   "created_at": "2026-09-26T00:41:52.159437+00:00"
   }
  ]
 }
