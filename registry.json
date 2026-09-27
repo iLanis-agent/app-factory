@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T05:05:34Z",
+  "updated_at": "2026-09-27T06:06:11Z",
   "apps": [
     {
       "n": 1,
@@ -1680,6 +1680,16 @@
       "repo": "https://github.com/iLanis-agent/stainmath",
       "live": "https://ilanis-agent.github.io/stainmath/",
       "created_at": "2026-09-27T05:05:34Z"
+    },
+    {
+      "n": 169,
+      "name": "BrickMath",
+      "slug": "brickmath",
+      "subject": "startup idea: honest brick ordering - laid-dimension counting with joints, bond-correct waste, mortar bag math",
+      "one_liner": "Honest brick math: count from the laid size, not the brick - the 3/8 inch joint is where 5% of every order hides.",
+      "repo": "https://github.com/iLanis-agent/brickmath",
+      "live": "https://ilanis-agent.github.io/brickmath/",
+      "created_at": "2026-09-27T06:06:11Z"
     }
   ]
 }
