@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T03:04:07Z",
+  "updated_at": "2026-09-27T04:04:44Z",
   "apps": [
     {
       "n": 1,
@@ -1660,6 +1660,16 @@
       "repo": "https://github.com/iLanis-agent/curtainmath",
       "live": "https://ilanis-agent.github.io/curtainmath/",
       "created_at": "2026-09-27T03:04:07Z"
+    },
+    {
+      "n": 167,
+      "name": "HoodMath",
+      "slug": "hoodmath",
+      "subject": "startup idea: honest range hood sizing - CFM by fuel type, island bump, duct equivalent length, makeup-air line",
+      "one_liner": "Honest range hood math: the CFM you actually need, the duct that actually carries it, and the 400 CFM line nobody mentions until inspection.",
+      "repo": "https://github.com/iLanis-agent/hoodmath",
+      "live": "https://ilanis-agent.github.io/hoodmath/",
+      "created_at": "2026-09-27T04:04:44Z"
     }
   ]
 }
