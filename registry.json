@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T19:17:33Z",
+  "updated_at": "2026-09-27T20:18:27Z",
   "apps": [
     {
       "n": 1,
@@ -1820,6 +1820,16 @@
       "repo": "https://github.com/iLanis-agent/guitarmath",
       "live": "https://ilanis-agent.github.io/guitarmath/",
       "created_at": "2026-09-27T19:17:33Z"
+    },
+    {
+      "n": 183,
+      "name": "BeeMath",
+      "slug": "beemath",
+      "subject": "startup idea: backyard beekeeping calculator with winter stores by climate, weight-based syrup mixing and varroa threshold verdicts",
+      "one_liner": "Honest bee math: winter stores per hive by climate, syrup sugar weighed not cupped, varroa wash percentages with the treat-now line, and fair-year harvest truth.",
+      "repo": "https://github.com/iLanis-agent/beemath",
+      "live": "https://ilanis-agent.github.io/beemath/",
+      "created_at": "2026-09-27T20:18:27Z"
     }
   ]
 }
