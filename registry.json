@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T00:01:08Z",
+  "updated_at": "2026-09-27T01:01:47Z",
   "apps": [
     {
       "n": 1,
@@ -1630,6 +1630,16 @@
       "repo": "https://github.com/iLanis-agent/carpetmath",
       "live": "https://ilanis-agent.github.io/carpetmath/",
       "created_at": "2026-09-27T00:01:08Z"
+    },
+    {
+      "n": 164,
+      "name": "WallpaperMath",
+      "slug": "wallpapermath",
+      "subject": "startup idea: honest wallpaper ordering math - strip-by-strip counting, pattern-repeat rounding, roll yield truth, dye-lot advice",
+      "one_liner": "Honest wallpaper math: strips, not square feet, and why the repeat eats more than the wall does.",
+      "repo": "https://github.com/iLanis-agent/wallpapermath",
+      "live": "https://ilanis-agent.github.io/wallpapermath/",
+      "created_at": "2026-09-27T01:01:47Z"
     }
   ]
 }
