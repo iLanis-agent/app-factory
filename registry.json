@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T13:12:09Z",
+  "updated_at": "2026-09-27T14:13:41Z",
   "apps": [
     {
       "n": 1,
@@ -1760,6 +1760,16 @@
       "repo": "https://github.com/iLanis-agent/kombumath",
       "live": "https://ilanis-agent.github.io/kombumath/",
       "created_at": "2026-09-27T13:12:09Z"
+    },
+    {
+      "n": 177,
+      "name": "CompostMath",
+      "slug": "compostmath",
+      "subject": "startup idea: compost C:N balance calculator with bucket-level fix math and pile heat geometry",
+      "one_liner": "Honest compost math: bucket-weighted C:N, exact fix buckets to 28:1, 27 cu ft heat threshold, finished yield and timeline.",
+      "repo": "https://github.com/iLanis-agent/compostmath",
+      "live": "https://ilanis-agent.github.io/compostmath/",
+      "created_at": "2026-09-27T14:13:41Z"
     }
   ]
 }
