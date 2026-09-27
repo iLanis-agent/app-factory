@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T20:18:27Z",
+  "updated_at": "2026-09-27T21:19:36Z",
   "apps": [
     {
       "n": 1,
@@ -1830,6 +1830,16 @@
       "repo": "https://github.com/iLanis-agent/beemath",
       "live": "https://ilanis-agent.github.io/beemath/",
       "created_at": "2026-09-27T20:18:27Z"
+    },
+    {
+      "n": 184,
+      "name": "BBQMath",
+      "slug": "bbqmath",
+      "subject": "startup idea: low-and-slow BBQ planner with backwards-from-dinner fire timing, cooked-yield truth and stall honesty",
+      "one_liner": "Honest smoker math: cook hours by weight and temp, fire time computed backwards from dinner, 55% cooked yield for guest math, and the stall explained.",
+      "repo": "https://github.com/iLanis-agent/bbqmath",
+      "live": "https://ilanis-agent.github.io/bbqmath/",
+      "created_at": "2026-09-27T21:19:36Z"
     }
   ]
 }
