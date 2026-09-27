@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T04:04:44Z",
+  "updated_at": "2026-09-27T05:05:34Z",
   "apps": [
     {
       "n": 1,
@@ -1670,6 +1670,16 @@
       "repo": "https://github.com/iLanis-agent/hoodmath",
       "live": "https://ilanis-agent.github.io/hoodmath/",
       "created_at": "2026-09-27T04:04:44Z"
+    },
+    {
+      "n": 168,
+      "name": "StainMath",
+      "slug": "stainmath",
+      "subject": "startup idea: honest deck/fence stain ordering - condition-correct coverage, wet-on-wet second coat, gallons vs buckets",
+      "one_liner": "Honest stain math: how much your deck and fence actually drink, by wood condition, with the second coat priced like a second coat.",
+      "repo": "https://github.com/iLanis-agent/stainmath",
+      "live": "https://ilanis-agent.github.io/stainmath/",
+      "created_at": "2026-09-27T05:05:34Z"
     }
   ]
 }
