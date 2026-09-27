@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T14:13:41Z",
+  "updated_at": "2026-09-27T15:15:21Z",
   "apps": [
     {
       "n": 1,
@@ -1770,6 +1770,16 @@
       "repo": "https://github.com/iLanis-agent/compostmath",
       "live": "https://ilanis-agent.github.io/compostmath/",
       "created_at": "2026-09-27T14:13:41Z"
+    },
+    {
+      "n": 178,
+      "name": "MeadMath",
+      "slug": "meadmath",
+      "subject": "startup idea: mead brewing calculator with yeast-tolerance FG truth, nutrient scheduling and hydrometer temperature honesty",
+      "one_liner": "Honest mead math: honey pounds from target gravity, the FG the yeast will actually reach, staggered nutrient schedule, temp-corrected hydrometer readings, and backsweetening with the stabilize-first warning.",
+      "repo": "https://github.com/iLanis-agent/meadmath",
+      "live": "https://ilanis-agent.github.io/meadmath/",
+      "created_at": "2026-09-27T15:15:21Z"
     }
   ]
 }
