@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:20:38Z",
+  "updated_at": "2026-09-27T23:20:35Z",
   "apps": [
     {
       "n": 1,
@@ -1850,6 +1850,16 @@
       "repo": "https://github.com/iLanis-agent/chickmath",
       "live": "https://ilanis-agent.github.io/chickmath/",
       "created_at": "2026-09-27T22:20:38Z"
+    },
+    {
+      "n": 186,
+      "name": "MushMath",
+      "slug": "mushmath",
+      "subject": "startup idea: home mushroom growing math (substrate hydration, spawn rates, biological efficiency, per-flush yield, cost per pound)",
+      "one_liner": "Honest home mushroom growing math - hydration, spawn rate, biological efficiency, per-flush yield, cost per pound, shelf space, species windows.",
+      "repo": "https://github.com/iLanis-agent/mushmath",
+      "live": "https://ilanis-agent.github.io/mushmath/",
+      "created_at": "2026-09-27T23:20:35Z"
     }
   ]
 }
