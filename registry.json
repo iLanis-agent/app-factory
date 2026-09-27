@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T10:09:10Z",
+  "updated_at": "2026-09-27T11:10:55Z",
   "apps": [
     {
       "n": 1,
@@ -1730,6 +1730,16 @@
       "repo": "https://github.com/iLanis-agent/soapmath",
       "live": "https://ilanis-agent.github.io/soapmath/",
       "created_at": "2026-09-27T10:09:10Z"
+    },
+    {
+      "n": 174,
+      "name": "EpoxyMath",
+      "slug": "epoxymath",
+      "subject": "startup idea: epoxy pour calculator with mix-ratio and exotherm depth-limit checks",
+      "one_liner": "Honest epoxy math: void volume to resin+hardener by volume ratio, depth-limit layer checks, flood coat, kit cost.",
+      "repo": "https://github.com/iLanis-agent/epoxymath",
+      "live": "https://ilanis-agent.github.io/epoxymath/",
+      "created_at": "2026-09-27T11:10:55Z"
     }
   ]
 }
