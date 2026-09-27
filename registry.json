@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T15:15:21Z",
+  "updated_at": "2026-09-27T16:15:32Z",
   "apps": [
     {
       "n": 1,
@@ -1780,6 +1780,16 @@
       "repo": "https://github.com/iLanis-agent/meadmath",
       "live": "https://ilanis-agent.github.io/meadmath/",
       "created_at": "2026-09-27T15:15:21Z"
+    },
+    {
+      "n": 179,
+      "name": "RoastMath",
+      "slug": "roastmath",
+      "subject": "startup idea: coffee roasting calculator with weight-loss yield honesty, development-ratio drop timing and scoop-density caffeine truth",
+      "one_liner": "Honest coffee roasting math: green to buy for a roasted target, real cost per roasted kg, exact drop time from first crack, rest and peak windows, and why a scoop of dark has less caffeine.",
+      "repo": "https://github.com/iLanis-agent/roastmath",
+      "live": "https://ilanis-agent.github.io/roastmath/",
+      "created_at": "2026-09-27T16:15:32Z"
     }
   ]
 }
