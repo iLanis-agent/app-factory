@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T08:07:47Z",
+  "updated_at": "2026-09-27T09:08:44Z",
   "apps": [
     {
       "n": 1,
@@ -1710,6 +1710,16 @@
       "repo": "https://github.com/iLanis-agent/brinemath",
       "live": "https://ilanis-agent.github.io/brinemath/",
       "created_at": "2026-09-27T08:07:47Z"
+    },
+    {
+      "n": 172,
+      "name": "CandleMath",
+      "slug": "candlemath",
+      "subject": "startup idea: candle-making calculator that fixes the volume-vs-weight wax buying mistake",
+      "one_liner": "Honest candle math: jar volume to wax weight by density, wick by diameter, fragrance by load, cost per candle.",
+      "repo": "https://github.com/iLanis-agent/candlemath",
+      "live": "https://ilanis-agent.github.io/candlemath/",
+      "created_at": "2026-09-27T09:08:44Z"
     }
   ]
 }
