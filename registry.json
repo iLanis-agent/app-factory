@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T07:07:38Z",
+  "updated_at": "2026-09-27T08:07:47Z",
   "apps": [
     {
       "n": 1,
@@ -1700,6 +1700,16 @@
       "repo": "https://github.com/iLanis-agent/seedmath",
       "live": "https://ilanis-agent.github.io/seedmath/",
       "created_at": "2026-09-27T07:07:38Z"
+    },
+    {
+      "n": 171,
+      "name": "BrineMath",
+      "slug": "brinemath",
+      "subject": "startup idea: brine calculator that fixes salt-density and method confusion for home cooks",
+      "one_liner": "Honest brine math: salt weighed in grams, converted to spoons for the salt you own, timed vs equilibrium methods.",
+      "repo": "https://github.com/iLanis-agent/brinemath",
+      "live": "https://ilanis-agent.github.io/brinemath/",
+      "created_at": "2026-09-27T08:07:47Z"
     }
   ]
 }
