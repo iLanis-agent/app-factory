@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T12:11:39Z",
+  "updated_at": "2026-09-27T13:12:09Z",
   "apps": [
     {
       "n": 1,
@@ -1750,6 +1750,16 @@
       "repo": "https://github.com/iLanis-agent/yarnmath",
       "live": "https://ilanis-agent.github.io/yarnmath/",
       "created_at": "2026-09-27T12:11:39Z"
+    },
+    {
+      "n": 176,
+      "name": "KombuMath",
+      "slug": "kombumath",
+      "subject": "startup idea: kombucha brewing calculator with starter-percentage mold defense and temperature-driven F1/F2 windows",
+      "one_liner": "Honest kombucha math: batch ratios, starter-percentage mold check, F1/F2 windows by real room temp, bottle counts.",
+      "repo": "https://github.com/iLanis-agent/kombumath",
+      "live": "https://ilanis-agent.github.io/kombumath/",
+      "created_at": "2026-09-27T13:12:09Z"
     }
   ]
 }
