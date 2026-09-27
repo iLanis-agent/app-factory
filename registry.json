@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T18:16:33Z",
+  "updated_at": "2026-09-27T19:17:33Z",
   "apps": [
     {
       "n": 1,
@@ -1810,6 +1810,16 @@
       "repo": "https://github.com/iLanis-agent/scopemath",
       "live": "https://ilanis-agent.github.io/scopemath/",
       "created_at": "2026-09-27T18:16:33Z"
+    },
+    {
+      "n": 182,
+      "name": "GuitarMath",
+      "slug": "guitarmath",
+      "subject": "startup idea: guitar string tension calculator calibrated to published data with detune cost and heavier-bottom gauge picker",
+      "one_liner": "Honest string tension math: per-string and total set pull at any scale and tuning, wound-string 80% mass truth calibrated to D'Addario, and the gauge that buys tension back after detuning.",
+      "repo": "https://github.com/iLanis-agent/guitarmath",
+      "live": "https://ilanis-agent.github.io/guitarmath/",
+      "created_at": "2026-09-27T19:17:33Z"
     }
   ]
 }
