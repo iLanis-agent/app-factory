@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T11:10:55Z",
+  "updated_at": "2026-09-27T12:11:39Z",
   "apps": [
     {
       "n": 1,
@@ -1740,6 +1740,16 @@
       "repo": "https://github.com/iLanis-agent/epoxymath",
       "live": "https://ilanis-agent.github.io/epoxymath/",
       "created_at": "2026-09-27T11:10:55Z"
+    },
+    {
+      "n": 175,
+      "name": "YarnMath",
+      "slug": "yarnmath",
+      "subject": "startup idea: knitting calculator driven by weighed blocked swatch instead of label charts",
+      "one_liner": "Honest yarn math: cast-on from your gauge snapped to stitch multiples, grams by area, skeins with buffer.",
+      "repo": "https://github.com/iLanis-agent/yarnmath",
+      "live": "https://ilanis-agent.github.io/yarnmath/",
+      "created_at": "2026-09-27T12:11:39Z"
     }
   ]
 }
