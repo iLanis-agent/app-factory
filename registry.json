@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T16:15:32Z",
+  "updated_at": "2026-09-27T17:16:45Z",
   "apps": [
     {
       "n": 1,
@@ -1790,6 +1790,16 @@
       "repo": "https://github.com/iLanis-agent/roastmath",
       "live": "https://ilanis-agent.github.io/roastmath/",
       "created_at": "2026-09-27T16:15:32Z"
+    },
+    {
+      "n": 180,
+      "name": "AquaMath",
+      "slug": "aquamath",
+      "subject": "startup idea: aquarium sizing calculator with real-volume honesty, heater and filter physics, and adult-size stocking truth",
+      "one_liner": "Honest aquarium math: real gallons after substrate, heater watts by room gap, filter turnover by fish mess, gravel by footprint, and stocking by adult inches with the goldfish rule done right.",
+      "repo": "https://github.com/iLanis-agent/aquamath",
+      "live": "https://ilanis-agent.github.io/aquamath/",
+      "created_at": "2026-09-27T17:16:45Z"
     }
   ]
 }
