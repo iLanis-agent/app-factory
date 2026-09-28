@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:20:35Z",
+  "updated_at": "2026-09-28T00:21:30Z",
   "apps": [
     {
       "n": 1,
@@ -1860,6 +1860,16 @@
       "repo": "https://github.com/iLanis-agent/mushmath",
       "live": "https://ilanis-agent.github.io/mushmath/",
       "created_at": "2026-09-27T23:20:35Z"
+    },
+    {
+      "n": 187,
+      "name": "RainMath",
+      "slug": "rainmath",
+      "subject": "startup idea: rainwater harvesting math (roof catchment, capture efficiency, garden demand, dry-spell tank sizing, first flush)",
+      "one_liner": "Honest rainwater harvesting math - what a storm gives, what the garden wants, dry-spell tank sizing, first-flush diversion and storms to fill.",
+      "repo": "https://github.com/iLanis-agent/rainmath",
+      "live": "https://ilanis-agent.github.io/rainmath/",
+      "created_at": "2026-09-28T00:21:30Z"
     }
   ]
 }
