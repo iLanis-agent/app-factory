@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T04:25:37Z",
+  "updated_at": "2026-09-28T05:26:14Z",
   "apps": [
     {
       "n": 1,
@@ -1910,6 +1910,16 @@
       "repo": "https://github.com/iLanis-agent/dehydramath",
       "live": "https://ilanis-agent.github.io/dehydramath/",
       "created_at": "2026-09-28T04:25:37Z"
+    },
+    {
+      "n": 192,
+      "name": "CheeseMath",
+      "slug": "cheesemath",
+      "subject": "startup idea: home cheesemaking math (milk-to-cheese yield by style, rennet and culture dosing, curd salt, press schedule, aging cave)",
+      "one_liner": "Honest home cheesemaking math - yield by style, rennet and culture dosing, 2% curd salt, three-stage press schedule, aging cave check.",
+      "repo": "https://github.com/iLanis-agent/cheesemath",
+      "live": "https://ilanis-agent.github.io/cheesemath/",
+      "created_at": "2026-09-28T05:26:14Z"
     }
   ]
 }
