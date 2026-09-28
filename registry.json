@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T18:37:16Z",
+ "updated_at": "2026-09-28T19:37:55Z",
  "apps": [
   {
    "n": 1,
@@ -2049,6 +2049,16 @@
    "one_liner": "A bushel of apples is not a bushel of cider - run the real numbers.",
    "repo": "https://github.com/iLanis-agent/cidermath",
    "live": "https://ilanis-agent.github.io/cidermath/",
+   "created_at": "2026-09-28"
+  },
+  {
+   "n": 206,
+   "name": "SaunaMath",
+   "slug": "saunamath",
+   "subject": "startup idea: home sauna build calculator - heater sizing, stones, bench space, heat-up time and session cost",
+   "one_liner": "The undersized-heater mistake is a cubic-foot problem - solved first.",
+   "repo": "https://github.com/iLanis-agent/saunamath",
+   "live": "https://ilanis-agent.github.io/saunamath/",
    "created_at": "2026-09-28"
   }
  ]
