@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T20:39:11Z",
+ "updated_at": "2026-09-28T21:39:17Z",
  "apps": [
   {
    "n": 1,
@@ -2070,6 +2070,16 @@
    "repo": "https://github.com/iLanis-agent/maplemath",
    "live": "https://ilanis-agent.github.io/maplemath/",
    "created_at": "2026-09-28"
+  },
+  {
+   "n": 208,
+   "name": "ClayMath",
+   "slug": "claymath",
+   "subject": "startup idea: pottery calculator - shrinkage sizing, clay per bag, cone vs kiln limits, firing and per-piece cost",
+   "one_liner": "The kiln takes 12% of everything - do the math before you wedge.",
+   "repo": "https://github.com/iLanis-agent/claymath",
+   "live": "https://ilanis-agent.github.io/claymath/",
+   "created_at": "2026-09-29"
   }
  ]
 }
