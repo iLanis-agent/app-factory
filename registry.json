@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T02:23:17Z",
+  "updated_at": "2026-09-28T03:24:07Z",
   "apps": [
     {
       "n": 1,
@@ -1890,6 +1890,16 @@
       "repo": "https://github.com/iLanis-agent/printmath",
       "live": "https://ilanis-agent.github.io/printmath/",
       "created_at": "2026-09-28T02:23:17Z"
+    },
+    {
+      "n": 190,
+      "name": "IceMath",
+      "slug": "icemath",
+      "subject": "startup idea: cold plunge ice math (latent-heat ice needed, bags and cost, exposure times, re-chill savings)",
+      "one_liner": "Honest cold plunge math - ice needed to chill the tub, bags and cost, target-temperature truth, exposure times, re-chill savings.",
+      "repo": "https://github.com/iLanis-agent/icemath",
+      "live": "https://ilanis-agent.github.io/icemath/",
+      "created_at": "2026-09-28T03:24:07Z"
     }
   ]
 }
