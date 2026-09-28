@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T11:31:07Z",
+  "updated_at": "2026-09-28T12:32:14Z",
   "apps": [
     {
       "n": 1,
@@ -1980,6 +1980,16 @@
       "repo": "https://github.com/iLanis-agent/orchardmath",
       "live": "https://ilanis-agent.github.io/orchardmath/",
       "created_at": "2026-09-28T11:31:07Z"
+    },
+    {
+      "n": 199,
+      "name": "SausageMath",
+      "slug": "sausagemath",
+      "subject": "startup idea: sausage-making math - cure #1 grams from ppm targets with a hard ceiling, fat-back additions to hit the ratio, salt by block weight, casing footage, honest smoked and dry-cured yield",
+      "one_liner": "Sausage-making math that holds up: cure weighed to the gram, fat on target, casings counted.",
+      "repo": "https://github.com/iLanis-agent/sausagemath",
+      "live": "https://ilanis-agent.github.io/sausagemath/",
+      "created_at": "2026-09-28T12:32:14Z"
     }
   ]
 }
