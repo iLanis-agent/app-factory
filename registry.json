@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T01:22:12Z",
+  "updated_at": "2026-09-28T02:23:17Z",
   "apps": [
     {
       "n": 1,
@@ -1880,6 +1880,16 @@
       "repo": "https://github.com/iLanis-agent/hydromath",
       "live": "https://ilanis-agent.github.io/hydromath/",
       "created_at": "2026-09-28T01:22:12Z"
+    },
+    {
+      "n": 189,
+      "name": "PrintMath",
+      "slug": "printmath",
+      "subject": "startup idea: 3D printing filament math (meters to grams by material, true print cost with power and failure rate, spool tracking)",
+      "one_liner": "Honest 3D printing filament math - meters to grams by material, true print cost with power and failure rate, spool tracking, prints per spool.",
+      "repo": "https://github.com/iLanis-agent/printmath",
+      "live": "https://ilanis-agent.github.io/printmath/",
+      "created_at": "2026-09-28T02:23:17Z"
     }
   ]
 }
