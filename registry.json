@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T12:32:14Z",
+  "updated_at": "2026-09-28T13:34:35Z",
   "apps": [
     {
       "n": 1,
@@ -1990,6 +1990,16 @@
       "repo": "https://github.com/iLanis-agent/sausagemath",
       "live": "https://ilanis-agent.github.io/sausagemath/",
       "created_at": "2026-09-28T12:32:14Z"
+    },
+    {
+      "n": 200,
+      "name": "PastaMath",
+      "slug": "pastamath",
+      "subject": "startup idea: fresh pasta math - flour per egg by style, honest servings per batch, fresh-to-dried weight truth, cooked-weight gain, sauce proportion band",
+      "one_liner": "Fresh pasta math that holds up: flour per egg, honest servings, drying and cooking weights, sauce in proportion.",
+      "repo": "https://github.com/iLanis-agent/pastamath",
+      "live": "https://ilanis-agent.github.io/pastamath/",
+      "created_at": "2026-09-28T13:34:35Z"
     }
   ]
 }
