@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T09:29:03Z",
+  "updated_at": "2026-09-28T10:30:44Z",
   "apps": [
     {
       "n": 1,
@@ -1960,6 +1960,16 @@
       "repo": "https://github.com/iLanis-agent/greenhousemath",
       "live": "https://ilanis-agent.github.io/greenhousemath/",
       "created_at": "2026-09-28T09:29:03Z"
+    },
+    {
+      "n": 197,
+      "name": "PondMath",
+      "slug": "pondmath",
+      "subject": "startup idea: backyard pond math - honest volume from average depth, liner sizing with real overlap, pump flow after head loss and waterfall demand, fish stocking without the inch-per-gallon myth, winter depth by climate",
+      "one_liner": "Backyard pond math that holds up: volume, liner, pump, fish and winter sized for the pond you actually dug.",
+      "repo": "https://github.com/iLanis-agent/pondmath",
+      "live": "https://ilanis-agent.github.io/pondmath/",
+      "created_at": "2026-09-28T10:30:44Z"
     }
   ]
 }
