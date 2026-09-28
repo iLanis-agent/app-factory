@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T05:26:14Z",
+  "updated_at": "2026-09-28T06:26:46Z",
   "apps": [
     {
       "n": 1,
@@ -1920,6 +1920,16 @@
       "repo": "https://github.com/iLanis-agent/cheesemath",
       "live": "https://ilanis-agent.github.io/cheesemath/",
       "created_at": "2026-09-28T05:26:14Z"
+    },
+    {
+      "n": 193,
+      "name": "PizzaMath",
+      "slug": "pizzamath",
+      "subject": "startup idea: pizza night planner - dough ball weight by size and style, baker's percentages from total dough, yeast by ferment time, sauce and cheese by area, pies per batch",
+      "one_liner": "Pizza dough math that holds up: balls, percentages, ferment and toppings by area.",
+      "repo": "https://github.com/iLanis-agent/pizzamath",
+      "live": "https://ilanis-agent.github.io/pizzamath/",
+      "created_at": "2026-09-28T06:26:46Z"
     }
   ]
 }
