@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T14:39:05Z",
+ "updated_at": "2026-09-28T15:38:21Z",
  "apps": [
   {
    "n": 1,
@@ -2009,6 +2009,16 @@
    "one_liner": "Space, hay, milk and fence math before the cute goat video wins.",
    "repo": "https://github.com/iLanis-agent/goatmath",
    "live": "https://ilanis-agent.github.io/goatmath/",
+   "created_at": "2026-09-28"
+  },
+  {
+   "n": 202,
+   "name": "ChocMath",
+   "slug": "chocmath",
+   "subject": "startup idea: bean-to-bar chocolate calculator - roast loss, winnow yield, temper and cost per bar",
+   "one_liner": "A kilo of beans is not a kilo of chocolate - here's the real math.",
+   "repo": "https://github.com/iLanis-agent/chocmath",
+   "live": "https://ilanis-agent.github.io/chocmath/",
    "created_at": "2026-09-28"
   }
  ]
