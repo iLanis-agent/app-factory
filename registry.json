@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T15:38:21Z",
+ "updated_at": "2026-09-28T16:36:35Z",
  "apps": [
   {
    "n": 1,
@@ -2019,6 +2019,16 @@
    "one_liner": "A kilo of beans is not a kilo of chocolate - here's the real math.",
    "repo": "https://github.com/iLanis-agent/chocmath",
    "live": "https://ilanis-agent.github.io/chocmath/",
+   "created_at": "2026-09-28"
+  },
+  {
+   "n": 203,
+   "name": "DuckMath",
+   "slug": "duckmath",
+   "subject": "startup idea: backyard duck keeping calculator - space, feed, honest eggs, water reality and cost per dozen",
+   "one_liner": "Charming, productive, filthy - the real duck arithmetic first.",
+   "repo": "https://github.com/iLanis-agent/duckmath",
+   "live": "https://ilanis-agent.github.io/duckmath/",
    "created_at": "2026-09-28"
   }
  ]
