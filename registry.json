@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T19:37:55Z",
+ "updated_at": "2026-09-28T20:39:11Z",
  "apps": [
   {
    "n": 1,
@@ -2059,6 +2059,16 @@
    "one_liner": "The undersized-heater mistake is a cubic-foot problem - solved first.",
    "repo": "https://github.com/iLanis-agent/saunamath",
    "live": "https://ilanis-agent.github.io/saunamath/",
+   "created_at": "2026-09-28"
+  },
+  {
+   "n": 207,
+   "name": "MapleMath",
+   "slug": "maplemath",
+   "subject": "startup idea: maple sugaring calculator - sap ratio, taps per tree, season yield, boil time and season worth",
+   "one_liner": "Forty gallons of sap, one gallon of syrup - prove it before you drill.",
+   "repo": "https://github.com/iLanis-agent/maplemath",
+   "live": "https://ilanis-agent.github.io/maplemath/",
    "created_at": "2026-09-28"
   }
  ]
