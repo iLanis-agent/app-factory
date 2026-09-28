@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T03:24:07Z",
+  "updated_at": "2026-09-28T04:25:37Z",
   "apps": [
     {
       "n": 1,
@@ -1900,6 +1900,16 @@
       "repo": "https://github.com/iLanis-agent/icemath",
       "live": "https://ilanis-agent.github.io/icemath/",
       "created_at": "2026-09-28T03:24:07Z"
+    },
+    {
+      "n": 191,
+      "name": "DehydraMath",
+      "slug": "dehydramath",
+      "subject": "startup idea: food dehydration math (jerky yield and true cost, fresh-to-dried conversion, herb 3:1 rule, drying windows, power cost)",
+      "one_liner": "Honest food dehydration math - jerky yield and true cost per pound, fresh-to-dried conversions, herb ratios, drying windows, electricity.",
+      "repo": "https://github.com/iLanis-agent/dehydramath",
+      "live": "https://ilanis-agent.github.io/dehydramath/",
+      "created_at": "2026-09-28T04:25:37Z"
     }
   ]
 }
