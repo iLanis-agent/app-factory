@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T17:40:42Z",
+ "updated_at": "2026-09-28T18:37:16Z",
  "apps": [
   {
    "n": 1,
@@ -2039,6 +2039,16 @@
    "one_liner": "Every quilt is a geometry problem - solved before the cutting counter.",
    "repo": "https://github.com/iLanis-agent/quiltmath",
    "live": "https://ilanis-agent.github.io/quiltmath/",
+   "created_at": "2026-09-28"
+  },
+  {
+   "n": 205,
+   "name": "CiderMath",
+   "slug": "cidermath",
+   "subject": "startup idea: home cidermaking calculator - press yield, ABV plan, sweetness check, bottles and cost",
+   "one_liner": "A bushel of apples is not a bushel of cider - run the real numbers.",
+   "repo": "https://github.com/iLanis-agent/cidermath",
+   "live": "https://ilanis-agent.github.io/cidermath/",
    "created_at": "2026-09-28"
   }
  ]
