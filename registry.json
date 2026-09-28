@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T00:21:30Z",
+  "updated_at": "2026-09-28T01:22:12Z",
   "apps": [
     {
       "n": 1,
@@ -1870,6 +1870,16 @@
       "repo": "https://github.com/iLanis-agent/rainmath",
       "live": "https://ilanis-agent.github.io/rainmath/",
       "created_at": "2026-09-28T00:21:30Z"
+    },
+    {
+      "n": 188,
+      "name": "HydroMath",
+      "slug": "hydromath",
+      "subject": "startup idea: home hydroponics math (reservoir sizing, nutrient dosing, PPM by crop and stage, pH window, light hours for target DLI)",
+      "one_liner": "Honest home hydroponics math - reservoir sizing, nutrient dosing, PPM targets by crop and stage, pH window, top-off rules, light hours for target DLI.",
+      "repo": "https://github.com/iLanis-agent/hydromath",
+      "live": "https://ilanis-agent.github.io/hydromath/",
+      "created_at": "2026-09-28T01:22:12Z"
     }
   ]
 }
