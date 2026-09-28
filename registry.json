@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T06:26:46Z",
+  "updated_at": "2026-09-28T07:28:07Z",
   "apps": [
     {
       "n": 1,
@@ -1930,6 +1930,16 @@
       "repo": "https://github.com/iLanis-agent/pizzamath",
       "live": "https://ilanis-agent.github.io/pizzamath/",
       "created_at": "2026-09-28T06:26:46Z"
+    },
+    {
+      "n": 194,
+      "name": "BrewMath",
+      "slug": "brewmath",
+      "subject": "startup idea: homebrew beer math - grain bill to original gravity with real efficiency, ABV from honest attenuation, strike water, mash and sparge volumes, priming sugar by carbonation, yeast pitch",
+      "one_liner": "Homebrew math that holds up: gravity, water, priming and pitch numbers a brew day can stand on.",
+      "repo": "https://github.com/iLanis-agent/brewmath",
+      "live": "https://ilanis-agent.github.io/brewmath/",
+      "created_at": "2026-09-28T07:28:07Z"
     }
   ]
 }
