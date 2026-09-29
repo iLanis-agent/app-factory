@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T08:50:34.383065+00:00",
+  "updated_at": "2026-09-29T09:51:38.935884+00:00",
   "apps": [
     {
       "n": 1,
@@ -2190,6 +2190,16 @@
       "repo": "https://github.com/iLanis-agent/golfmath",
       "live": "https://ilanis-agent.github.io/golfmath/",
       "created_at": "2026-09-29T08:50:34.383065+00:00"
+    },
+    {
+      "n": 220,
+      "name": "TennisMath",
+      "slug": "tennismath",
+      "subject": "startup idea: tennis probability engine - how a small point edge compounds through games (deuce solved exactly), tiebreaks with the real serve pattern, sets, and best-of-5 matches",
+      "one_liner": "51% of points wins 63% of five-setters. The scoring system does the amplifying.",
+      "repo": "https://github.com/iLanis-agent/tennismath",
+      "live": "https://ilanis-agent.github.io/tennismath/",
+      "created_at": "2026-09-29T09:51:38.935884+00:00"
     }
   ]
 }
