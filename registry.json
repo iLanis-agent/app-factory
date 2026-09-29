@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T02:43:55.810111+00:00",
+  "updated_at": "2026-09-29T03:44:53.067805+00:00",
   "apps": [
     {
       "n": 1,
@@ -2130,6 +2130,16 @@
       "repo": "https://github.com/iLanis-agent/sailmath",
       "live": "https://ilanis-agent.github.io/sailmath/",
       "created_at": "2026-09-29T02:43:55.810111+00:00"
+    },
+    {
+      "n": 214,
+      "name": "DiveMath",
+      "slug": "divemath",
+      "subject": "startup idea: scuba planning math - SAC at depth, bottom time vs no-deco limit, thirds and rock-bottom reserves, nitrox MOD and END, ascent timing",
+      "one_liner": "How fast depth eats your tank, and whether gas or the table calls the dive first.",
+      "repo": "https://github.com/iLanis-agent/divemath",
+      "live": "https://ilanis-agent.github.io/divemath/",
+      "created_at": "2026-09-29T03:44:53.067805+00:00"
     }
   ]
 }
