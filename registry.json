@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T17:57:40Z",
+  "updated_at": "2026-09-29T18:58:26Z",
   "apps": [
     {
       "n": 1,
@@ -2280,6 +2280,16 @@
       "repo": "https://github.com/iLanis-agent/cricketmath",
       "live": "https://ilanis-agent.github.io/cricketmath/",
       "created_at": "2026-09-29T17:57:40Z"
+    },
+    {
+      "n": 229,
+      "name": "PuckMath",
+      "slug": "puckmath",
+      "subject": "startup idea: separate skill from streak in hockey - the standings cannot tell a .920 goalie from a lucky month, but save %, shot share, and PDO can",
+      "one_liner": "Save percentage, Corsi/Fenwick shot share, points pace, and PDO - the luck meter that always comes back to collect.",
+      "repo": "https://github.com/iLanis-agent/puckmath",
+      "live": "https://ilanis-agent.github.io/puckmath/",
+      "created_at": "2026-09-29T18:58:26Z"
     }
   ]
 }
