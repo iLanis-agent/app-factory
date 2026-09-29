@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T01:43:19.387656+00:00",
+  "updated_at": "2026-09-29T02:43:55.810111+00:00",
   "apps": [
     {
       "n": 1,
@@ -2120,6 +2120,16 @@
       "repo": "https://github.com/iLanis-agent/archerymath",
       "live": "https://ilanis-agent.github.io/archerymath/",
       "created_at": "2026-09-29T01:43:19.387656+00:00"
+    },
+    {
+      "n": 213,
+      "name": "SailMath",
+      "slug": "sailmath",
+      "subject": "startup idea: honest sailboat math - hull speed vs real cruise, SA/disp, capsize screen, comfort ratio, passage days, anchor rode and first-reef wind",
+      "one_liner": "The speed your hull really makes, honest passage days, and how much rode to splash.",
+      "repo": "https://github.com/iLanis-agent/sailmath",
+      "live": "https://ilanis-agent.github.io/sailmath/",
+      "created_at": "2026-09-29T02:43:55.810111+00:00"
     }
   ]
 }
