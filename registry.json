@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T20:59:32Z",
+  "updated_at": "2026-09-29T22:01:24Z",
   "apps": [
     {
       "n": 1,
@@ -2310,6 +2310,16 @@
       "repo": "https://github.com/iLanis-agent/capomath",
       "live": "https://ilanis-agent.github.io/capomath/",
       "created_at": "2026-09-29T20:59:32Z"
+    },
+    {
+      "n": 232,
+      "name": "TideMath",
+      "slug": "tidemath",
+      "subject": "startup idea: tide math from two known points - sailors and beachgoers guess whether the bar is covered, but today's low and high plus a cosine model answer height, clearance, and the passable window exactly",
+      "one_liner": "Height at any moment, keel clearance verdicts, passable windows, and beach emergence from two tide points.",
+      "repo": "https://github.com/iLanis-agent/tidemath",
+      "live": "https://ilanis-agent.github.io/tidemath/",
+      "created_at": "2026-09-29T22:01:24Z"
     }
   ]
 }
