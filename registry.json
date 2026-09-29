@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T10:51:07.052513+00:00",
+  "updated_at": "2026-09-29T11:54:00.423768+00:00",
   "apps": [
     {
       "n": 1,
@@ -2210,6 +2210,16 @@
       "repo": "https://github.com/iLanis-agent/climbmath",
       "live": "https://ilanis-agent.github.io/climbmath/",
       "created_at": "2026-09-29T10:51:07.052513+00:00"
+    },
+    {
+      "n": 222,
+      "name": "DartMath",
+      "slug": "dartmath",
+      "subject": "startup idea: darts math computed honestly - DP checkout engine for any score 2-170 (with the 7 impossible three-dart finishes named), bust checker, averages translation, cricket MPR bands",
+      "one_liner": "170 goes T20 T20 BULL and 169 goes nowhere - checkouts computed, not memorized.",
+      "repo": "https://github.com/iLanis-agent/dartmath",
+      "live": "https://ilanis-agent.github.io/dartmath/",
+      "created_at": "2026-09-29T11:54:00.423768+00:00"
     }
   ]
 }
