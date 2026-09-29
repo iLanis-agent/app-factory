@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T04:45:39.211186+00:00",
+  "updated_at": "2026-09-29T05:46:06.221009+00:00",
   "apps": [
     {
       "n": 1,
@@ -2150,6 +2150,16 @@
       "repo": "https://github.com/iLanis-agent/bonsaimath",
       "live": "https://ilanis-agent.github.io/bonsaimath/",
       "created_at": "2026-09-29T04:45:39.211186+00:00"
+    },
+    {
+      "n": 216,
+      "name": "SurfMath",
+      "slug": "surfmath",
+      "subject": "startup idea: honest surf math - wave power by height squared and period, board volume by weight and skill, realistic rides per crowded session, wetsuit by water temp, swell travel and rip escape",
+      "one_liner": "Why a doubled wave is 4x the power, the liters you actually float, and the rides a crowd really leaves you.",
+      "repo": "https://github.com/iLanis-agent/surfmath",
+      "live": "https://ilanis-agent.github.io/surfmath/",
+      "created_at": "2026-09-29T05:46:06.221009+00:00"
     }
   ]
 }
