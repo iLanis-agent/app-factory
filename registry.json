@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T09:51:38.935884+00:00",
+  "updated_at": "2026-09-29T10:51:07.052513+00:00",
   "apps": [
     {
       "n": 1,
@@ -2200,6 +2200,16 @@
       "repo": "https://github.com/iLanis-agent/tennismath",
       "live": "https://ilanis-agent.github.io/tennismath/",
       "created_at": "2026-09-29T09:51:38.935884+00:00"
+    },
+    {
+      "n": 221,
+      "name": "ClimbMath",
+      "slug": "climbmath",
+      "subject": "startup idea: honest climbing math - case-aware grade converter (YDS/French/UIAA/V/Font), fall factor with verdicts, rope and quickdraw counts, redpoint pyramid, session calories",
+      "one_liner": "7a is French, 6C is Font, and the fall factor is why the short fall near the ground is the scary one.",
+      "repo": "https://github.com/iLanis-agent/climbmath",
+      "live": "https://ilanis-agent.github.io/climbmath/",
+      "created_at": "2026-09-29T10:51:07.052513+00:00"
     }
   ]
 }
