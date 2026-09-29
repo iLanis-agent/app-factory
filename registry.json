@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:54:00.423768+00:00",
+  "updated_at": "2026-09-29T12:53:32Z",
   "apps": [
     {
       "n": 1,
@@ -2220,6 +2220,16 @@
       "repo": "https://github.com/iLanis-agent/dartmath",
       "live": "https://ilanis-agent.github.io/dartmath/",
       "created_at": "2026-09-29T11:54:00.423768+00:00"
+    },
+    {
+      "n": 223,
+      "name": "BowlMath",
+      "slug": "bowlmath",
+      "subject": "startup idea: trust infrastructure for the bar tab you keep on your body - bowling is a game you score yourself, and nobody at the bar can do the bonus math by hand after frame 7",
+      "one_liner": "Scores any bowling game from the frame string, shows the best finish still possible, and works out league handicap without the napkin.",
+      "repo": "https://github.com/iLanis-agent/bowlmath",
+      "live": "https://ilanis-agent.github.io/bowlmath/",
+      "created_at": "2026-09-29T12:53:32Z"
     }
   ]
 }
