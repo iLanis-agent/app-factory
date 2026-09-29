@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T00:42:06.583798+00:00",
+  "updated_at": "2026-09-29T01:43:19.387656+00:00",
   "apps": [
     {
       "n": 1,
@@ -2110,6 +2110,16 @@
       "repo": "https://github.com/iLanis-agent/birdmath",
       "live": "https://ilanis-agent.github.io/birdmath/",
       "created_at": "2026-09-29T00:42:06.583798+00:00"
+    },
+    {
+      "n": 212,
+      "name": "ArcheryMath",
+      "slug": "archerymath",
+      "subject": "startup idea: arrow setup tuner - real speed from IBO rating, kinetic energy vs momentum, gpp safety, FOC balance, static spine and arrow drop",
+      "one_liner": "The speed your bow really makes, the momentum that penetrates, and how much that arrow really drops.",
+      "repo": "https://github.com/iLanis-agent/archerymath",
+      "live": "https://ilanis-agent.github.io/archerymath/",
+      "created_at": "2026-09-29T01:43:19.387656+00:00"
     }
   ]
 }
