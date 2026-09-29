@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T22:01:24Z",
+  "updated_at": "2026-09-29T23:00:57Z",
   "apps": [
     {
       "n": 1,
@@ -2320,6 +2320,16 @@
       "repo": "https://github.com/iLanis-agent/tidemath",
       "live": "https://ilanis-agent.github.io/tidemath/",
       "created_at": "2026-09-29T22:01:24Z"
+    },
+    {
+      "n": 233,
+      "name": "PourMath",
+      "slug": "pourmath",
+      "subject": "startup idea: cocktail dilution and strength math - home bartenders follow specs but never see the final ABV, and the shaker's ice melt changes every number on the label",
+      "one_liner": "Final ABV after real dilution, strength bands, sour balance checks, and party batching.",
+      "repo": "https://github.com/iLanis-agent/pourmath",
+      "live": "https://ilanis-agent.github.io/pourmath/",
+      "created_at": "2026-09-29T23:00:57Z"
     }
   ]
 }
