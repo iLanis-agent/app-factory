@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:53:32Z",
+  "updated_at": "2026-09-29T13:54:26Z",
   "apps": [
     {
       "n": 1,
@@ -2230,6 +2230,16 @@
       "repo": "https://github.com/iLanis-agent/bowlmath",
       "live": "https://ilanis-agent.github.io/bowlmath/",
       "created_at": "2026-09-29T12:53:32Z"
+    },
+    {
+      "n": 224,
+      "name": "RunMath",
+      "slug": "runmath",
+      "subject": "startup idea: honesty layer for amateur running - every runner has one real result and ten hopeful goals, and the conversion between them is one formula nobody does by hand",
+      "one_liner": "Turns one real race result into Riegel predictions, pace conversions, and a split plan you can actually hold.",
+      "repo": "https://github.com/iLanis-agent/runmath",
+      "live": "https://ilanis-agent.github.io/runmath/",
+      "created_at": "2026-09-29T13:54:26Z"
     }
   ]
 }
