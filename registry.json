@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T15:58:30Z",
+  "updated_at": "2026-09-29T16:57:38Z",
   "apps": [
     {
       "n": 1,
@@ -2260,6 +2260,16 @@
       "repo": "https://github.com/iLanis-agent/hoopmath",
       "live": "https://ilanis-agent.github.io/hoopmath/",
       "created_at": "2026-09-29T15:58:30Z"
+    },
+    {
+      "n": 227,
+      "name": "BatMath",
+      "slug": "batmath",
+      "subject": "startup idea: modernize the box score everyone quotes - batting average is a 1962 scouting report, and the slash line plus pitching math is eight formulas nobody runs at the bar",
+      "one_liner": "The full slash line, BABIP luck check, and ERA/WHIP that respects baseball's innings-thirds notation.",
+      "repo": "https://github.com/iLanis-agent/batmath",
+      "live": "https://ilanis-agent.github.io/batmath/",
+      "created_at": "2026-09-29T16:57:38Z"
     }
   ]
 }
