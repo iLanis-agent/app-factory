@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T13:54:26Z",
+  "updated_at": "2026-09-29T14:55:28Z",
   "apps": [
     {
       "n": 1,
@@ -2240,6 +2240,16 @@
       "repo": "https://github.com/iLanis-agent/runmath",
       "live": "https://ilanis-agent.github.io/runmath/",
       "created_at": "2026-09-29T13:54:26Z"
+    },
+    {
+      "n": 225,
+      "name": "PedalMath",
+      "slug": "pedalmath",
+      "subject": "startup idea: translation layer between a power meter and reality - cyclists own the number but not the conversion from watts to speed, zones, and what the ride cost",
+      "one_liner": "FTP from your test, zones from your FTP, and real physics for what your watts buy on the flat and up a climb.",
+      "repo": "https://github.com/iLanis-agent/pedalmath",
+      "live": "https://ilanis-agent.github.io/pedalmath/",
+      "created_at": "2026-09-29T14:55:28Z"
     }
   ]
 }
