@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T18:58:26Z",
+  "updated_at": "2026-09-29T19:59:30Z",
   "apps": [
     {
       "n": 1,
@@ -2290,6 +2290,16 @@
       "repo": "https://github.com/iLanis-agent/puckmath",
       "live": "https://ilanis-agent.github.io/puckmath/",
       "created_at": "2026-09-29T18:58:26Z"
+    },
+    {
+      "n": 230,
+      "name": "ShotMath",
+      "slug": "shotmath",
+      "subject": "startup idea: espresso extraction math for home baristas - sour shots and bitter shots get blamed on beans, but the ratio, TDS, and extraction yield tell you exactly which variable to move",
+      "one_liner": "Brew ratio, extraction yield with the 18-22% sweet window, taste diagnosis, and a caffeine tally.",
+      "repo": "https://github.com/iLanis-agent/shotmath",
+      "live": "https://ilanis-agent.github.io/shotmath/",
+      "created_at": "2026-09-29T19:59:30Z"
     }
   ]
 }
