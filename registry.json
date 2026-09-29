@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T16:57:38Z",
+  "updated_at": "2026-09-29T17:57:40Z",
   "apps": [
     {
       "n": 1,
@@ -2270,6 +2270,16 @@
       "repo": "https://github.com/iLanis-agent/batmath",
       "live": "https://ilanis-agent.github.io/batmath/",
       "created_at": "2026-09-29T16:57:38Z"
+    },
+    {
+      "n": 228,
+      "name": "CricketMath",
+      "slug": "cricketmath",
+      "subject": "startup idea: translator for the world's second-biggest scoreboard - cricket stats are simple ratios wrapped in notation quirks (overs.balls, not-outs, the NRR all-out rule) that nobody computes at the table",
+      "one_liner": "Batting and bowling figures, the chase math, and net run rate with the all-out rule that ends tournaments.",
+      "repo": "https://github.com/iLanis-agent/cricketmath",
+      "live": "https://ilanis-agent.github.io/cricketmath/",
+      "created_at": "2026-09-29T17:57:40Z"
     }
   ]
 }
