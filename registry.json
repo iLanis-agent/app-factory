@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T14:55:28Z",
+  "updated_at": "2026-09-29T15:58:30Z",
   "apps": [
     {
       "n": 1,
@@ -2250,6 +2250,16 @@
       "repo": "https://github.com/iLanis-agent/pedalmath",
       "live": "https://ilanis-agent.github.io/pedalmath/",
       "created_at": "2026-09-29T14:55:28Z"
+    },
+    {
+      "n": 226,
+      "name": "HoopMath",
+      "slug": "hoopmath",
+      "subject": "startup idea: honesty layer for the basketball box score - points per game is the loudest stat and one of the least truthful, and the corrections are three formulas nobody runs at the table",
+      "one_liner": "True shooting, effective FG%, possession cost, and the break-even between taking the two and the three.",
+      "repo": "https://github.com/iLanis-agent/hoopmath",
+      "live": "https://ilanis-agent.github.io/hoopmath/",
+      "created_at": "2026-09-29T15:58:30Z"
     }
   ]
 }
