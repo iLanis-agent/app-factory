@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T23:41:23.926803+00:00",
+  "updated_at": "2026-09-29T00:42:06.583798+00:00",
   "apps": [
     {
       "n": 1,
@@ -2100,6 +2100,16 @@
       "repo": "https://github.com/iLanis-agent/sledmath",
       "live": "https://ilanis-agent.github.io/sledmath/",
       "created_at": "2026-09-28T23:41:23.926830+00:00"
+    },
+    {
+      "n": 211,
+      "name": "BirdMath",
+      "slug": "birdmath",
+      "subject": "startup idea: backyard bird feeding math - real seed draw, filler-mix trap, cost per eaten pound, nectar ratios and spoil days, suet by temperature",
+      "one_liner": "What your birds actually eat and what cheap seed mixes really cost after the kicked-out filler.",
+      "repo": "https://github.com/iLanis-agent/birdmath",
+      "live": "https://ilanis-agent.github.io/birdmath/",
+      "created_at": "2026-09-29T00:42:06.583798+00:00"
     }
   ]
 }
