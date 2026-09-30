@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T02:03:03Z",
+  "updated_at": "2026-09-30T03:04:05Z",
   "apps": [
     {
       "n": 1,
@@ -2360,6 +2360,16 @@
       "repo": "https://github.com/iLanis-agent/waxmath",
       "live": "https://ilanis-agent.github.io/waxmath/",
       "created_at": "2026-09-30T02:03:03Z"
+    },
+    {
+      "n": 237,
+      "name": "SkiMath",
+      "slug": "skimath",
+      "subject": "startup idea: ski setup math - the rental shop guesses your release value off a chart nobody reads, the wax color is a temperature question, and 87 versus 89 degrees is a whole different ski",
+      "one_liner": "Release-value estimate, wax by snow temperature, edge bevels, and ski length.",
+      "repo": "https://github.com/iLanis-agent/skimath",
+      "live": "https://ilanis-agent.github.io/skimath/",
+      "created_at": "2026-09-30T03:04:05Z"
     }
   ]
 }
