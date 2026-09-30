@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T00:01:59Z",
+  "updated_at": "2026-09-30T01:02:15Z",
   "apps": [
     {
       "n": 1,
@@ -2340,6 +2340,16 @@
       "repo": "https://github.com/iLanis-agent/shuttermath",
       "live": "https://ilanis-agent.github.io/shuttermath/",
       "created_at": "2026-09-30T00:01:59Z"
+    },
+    {
+      "n": 235,
+      "name": "CaskMath",
+      "slug": "caskmath",
+      "subject": "startup idea: whisky dilution and cask math - cask-strength pours get random splashes of water, but the exact ml and drops to a target ABV change the glass completely",
+      "one_liner": "Cask-strength to sipping strength in ml and drops, proof, angel's share, and cost per dram.",
+      "repo": "https://github.com/iLanis-agent/caskmath",
+      "live": "https://ilanis-agent.github.io/caskmath/",
+      "created_at": "2026-09-30T01:02:15Z"
     }
   ]
 }
