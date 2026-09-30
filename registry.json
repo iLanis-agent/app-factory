@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T01:02:15Z",
+  "updated_at": "2026-09-30T02:03:03Z",
   "apps": [
     {
       "n": 1,
@@ -2350,6 +2350,16 @@
       "repo": "https://github.com/iLanis-agent/caskmath",
       "live": "https://ilanis-agent.github.io/caskmath/",
       "created_at": "2026-09-30T01:02:15Z"
+    },
+    {
+      "n": 236,
+      "name": "WaxMath",
+      "slug": "waxmath",
+      "subject": "startup idea: vinyl setup math - tonearm resonance decides whether warps or bass notes shake the needle, and inner-groove velocity explains why the last track sounds worse",
+      "one_liner": "Tonearm resonance verdicts, groove velocity by radius, and honest stylus life.",
+      "repo": "https://github.com/iLanis-agent/waxmath",
+      "live": "https://ilanis-agent.github.io/waxmath/",
+      "created_at": "2026-09-30T02:03:03Z"
     }
   ]
 }
