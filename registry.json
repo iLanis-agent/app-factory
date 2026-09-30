@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T23:00:57Z",
+  "updated_at": "2026-09-30T00:01:59Z",
   "apps": [
     {
       "n": 1,
@@ -2330,6 +2330,16 @@
       "repo": "https://github.com/iLanis-agent/pourmath",
       "live": "https://ilanis-agent.github.io/pourmath/",
       "created_at": "2026-09-29T23:00:57Z"
+    },
+    {
+      "n": 234,
+      "name": "ShutterMath",
+      "slug": "shuttermath",
+      "subject": "startup idea: photography exposure math - a 10-stop ND turns 1/125 into 8 seconds and nobody does that in their head, so long exposures and star shots end in guesswork",
+      "one_liner": "EV for any exposure, ND filter stop math, equivalent exposures, and the 500 rule for stars.",
+      "repo": "https://github.com/iLanis-agent/shuttermath",
+      "live": "https://ilanis-agent.github.io/shuttermath/",
+      "created_at": "2026-09-30T00:01:59Z"
     }
   ]
 }
