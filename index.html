@@ -95,8 +95,21 @@ function renderApps(){
   }).join('');
   document.getElementById('none').style.display=list.length?'none':'block';
 }
+function norm(a){
+  var slug=a.slug||'';
+  return {
+    n:(a.n!=null?a.n:a.number),
+    name:a.name||slug,
+    slug:slug,
+    subject:a.subject||'',
+    one_liner:a.one_liner||'',
+    repo:a.repo||('https://github.com/iLanis-agent/'+slug),
+    live:a.live||a.url||a.pages||('https://ilanis-agent.github.io/'+slug+'/'),
+    created_at:a.created_at||a.shipped||a.built||''
+  };
+}
 fetch('registry.json?v='+Date.now()).then(function(r){return r.json();}).then(function(reg){
-  allApps=(reg.apps||[]).slice().sort(function(a,b){return b.n-a.n;});
+  allApps=(reg.apps||[]).map(norm).sort(function(a,b){return b.n-a.n;});
   renderChips(); renderApps();
 }).catch(function(){document.getElementById('count').textContent='registry unavailable';});
 document.getElementById('search').addEventListener('input',function(e){ query=e.target.value; renderApps(); });
